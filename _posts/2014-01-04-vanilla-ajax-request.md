@@ -12,7 +12,7 @@ Biasanya agar praktis dan mudah dalam melakukan AJAX request ke controller saya 
 
 > $.ajax sebetulnya juga melakukan wrapper terhadap XMLHttpRequest yaitu melakukan request secara background ke server dengan HTTP method tertentu untuk mendapatkan response
 
-Berikut adalah contoh bagaimana cara melakukan request ke suatu file lalu mendapatkan responsenya. Kita dapat anggap file tersebut adalah sebagai response dari controller. File yang digunakan adalah text file yang berisikan text string “ini dari file…”. Filenya saya simpan dengan nama test.txt sejajar dengan file .html yang akan discripting.
+Berikut adalah contoh bagaimana cara melakukan request ke suatu file lalu mendapatkan responsenya. Kita dapat anggap file tersebut adalah sebagai response dari controller. File yang digunakan adalah text file yang berisikan text string “_ini dari file…_”. Filenya saya simpan dengan nama test.txt sejajar dengan file .html yang akan discripting.
 
 Selanjutnya adalah baris kode yang memanggil file tersebut. Namun karena menggunakan engine bawaan maka akan terlihat sedikit lebih panjang baris kodenya:
 
@@ -45,7 +45,7 @@ Selanjutnya adalah baris kode yang memanggil file tersebut. Namun karena menggun
 
 Untuk mendapatkan data, saya perlu mendefinisikan HTTP method serta URL yang dituju. Pada contoh saya menggunakan POST dan test.txt, namun dapat disesuaikan dengan keadaan lapangan. Untuk responsenya karena data yang direquest berisikan text atau string bukan dalam bentuk JSON maka dapat menggunakan function responseText secara langsung sebagai return value.
 
-Di jQuery saya biasa memanfaatkan event on “success” dan “error” sedangkan dengan cara oldschool lebih suka menggunakan fungsi lambda terhadap onreadystatechange sebagai callback. Jika response statenya bukan bernilai 4 biasanya adalah gagal dan 4 adalah berhasil.
+Di jQuery saya biasa memanfaatkan event on “success” dan “error” sedangkan dengan cara _oldschool_ lebih suka menggunakan fungsi lambda terhadap onreadystatechange sebagai callback. Jika response statenya bukan bernilai 4 biasanya adalah gagal dan 4 adalah berhasil.
 
 Untuk kustom terkait set header yang biasanya adalah standar untuk memanggil secara RESTful juga dapat dilakukan dengan fungsi berikut
 
