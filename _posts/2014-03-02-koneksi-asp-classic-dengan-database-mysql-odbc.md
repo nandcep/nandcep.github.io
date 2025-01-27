@@ -16,7 +16,7 @@ Pada tulisan ini saya ingin menuliskan tentang bagaimana cara melakukan koneksi 
 
 Saya sendiri hampir tidak pernah menggunakan protokol tersebut, tetapi berhubung tertarik untuk membuat scripting service berbasis Classic ASP dengan database yang universal maka membutuhkan ODBC. Untuk enable ODBC dapat dikonfigurasi terlebih dahulu berdasarkan sistem operasi. Berikut adalah script koneksi menggunakan protokol ODBC agar dapat terhubung dengan database MySQL.
 
-```xml
+```c#
 <% 
     Dim odbcStr
     odbcStr = "DRIVER={MySQL ODBC 3.51 Driver}; SERVER=$your_host; DATABASE=$your_schema; UID=$your_username;PASSWORD=$your_password; OPTION=3" 
