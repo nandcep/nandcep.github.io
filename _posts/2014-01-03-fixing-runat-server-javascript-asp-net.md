@@ -6,7 +6,7 @@ tags: [dotnet,javascript,pemrograman]     # TAG names should always be lowercase
 ---
 
 ![](https://images.unsplash.com/photo-1494961104209-3c223057bd26?q=80&w=2804&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-Credit to _Unsplash_
+Credit to Unsplash
 
 Saya pernah mengalami kendala ketika membangun aplikasi web berbasis ASP.NET 3.5, load file Javascript pada tag script mengalami masalah. File Javascriptnya dianggap tidak ikut terdeploy ke dalam IIS sehingga terkena “not yet run at server”.
 
