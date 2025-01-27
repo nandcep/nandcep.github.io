@@ -8,7 +8,7 @@ tags: [asp,pemrograman,javascript]     # TAG names should always be lowercase
 ![](https://images.unsplash.com/photo-1475770230762-6409e81d7589?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 Credit to Unsplash
 
-Tidak jauh berbeda dengan implementasi integrasi [jqGrid](http://www.trirand.com/blog/) untuk PHP, jqGrid juga dapat digunakan untuk server side yang dikembangkan menggunakan bahasa selain PHP. Pada tulisan ini saya menggunakannya untuk website yang dibangun dengan ASP Classic. 
+Tidak jauh berbeda dengan implementasi integrasi [jqGrid](https://www.trirand.com/blog/) untuk PHP, jqGrid juga dapat digunakan untuk server side yang dikembangkan menggunakan bahasa selain PHP. Pada tulisan ini saya menggunakannya untuk website yang dibangun dengan ASP Classic. 
 
 > Terdapat 3 file VBS yang kembangkan yaitu Mathematic.asp, jqGrid.asp, dan [pustaka JSON](https://code.google.com/archive/p/aspjson/).
 
