@@ -26,9 +26,7 @@ Perjalanan tersebut kami tempuh kira-kira dalam waktu 45 menit. Suasana perjalan
 
 Dari gapura basecamp kami berjalan selama kurang lebih 15 menit sampai di kaki gunung. Mulai di kaki gunung tampak sangat gelap gulita karena harus mulai menembus hutan untuk masuk ke jalur pendakian. Saya mulai menghidupkan senter dan berjalan mengikuti Mas Tonny sedangkan Rian ada di belakang saya. Berjalan dengan hati-hati dan fokus pada jalur. 
 
-> Saya mengikuti Mas Tonny dan suara tasnya yang bergemericik lonceng kalung sapi.
-
-Selama 15 menit saya lalui tanpa merasa capek karena tidak terlalu menanjak. Selepas 15 menit barulah jalanannya mulai terasa berat karena harus mendaki undakan atau tangga dari tanah, batu, serta akar pohon.
+Saya mengikuti Mas Tonny dan suara tasnya yang bergemericik lonceng kalung sapi. Selama 15 menit saya lalui tanpa merasa capek karena tidak terlalu menanjak. Selepas 15 menit barulah jalanannya mulai terasa berat karena harus mendaki undakan atau tangga dari tanah, batu, serta akar pohon.
 
 Saya mulai merasa gerah dan nafas yang pendek. Mungkin karena di basecamp tidak melakukan penyesuaian dengan kondisi sekitar serta ketinggian. Proses penyesuaian tubuh terhadap lingkungan dikenal sebagai aklimasi. Cukup penting karena sebelum mendaki tubuh harus terbiasa dengan keadaan sekitar khususnya ketinggian. 
 
