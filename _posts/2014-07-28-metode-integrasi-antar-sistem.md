@@ -3,6 +3,7 @@ title: Metode Integrasi antar Sistem
 date: 2014-07-28 00:00:01
 categories: []
 tags: [computer-science,system-integration]     # TAG names should always be lowercase
+mermaid: true
 ---
 
 # Background
@@ -11,64 +12,62 @@ Di dalam sebuah perusahaan multinasional dengan skala besar biasanya memiliki ek
 Seringkali sistem yang dipakai oleh antar departemen atau antar group juga berbeda, apalagi jika berbeda region karena berbeda negara. Berikut sebagai adalah ilustrasi sederhana komunikasi antar sistem di sebuah perusahaan migas di tempat dulu saya bekerja (3 tahun yang lalu):
 
 ```mermaid
-graph LR
-    subgraph " "
-        direction BT
+    flowchart LR
+        subgraph " "
+            direction BT
 
-        subgraph "Factory Operation"
-            ibm_maximo_mobile
+            subgraph "Factory Operation"
+                ibm_maximo_mobile
+            end
+
+            subgraph "Field Operation"
+                ibm_maximo_mobile --> ibm_maximo
+                ibm_maximo --> ibm_maximo_mobile
+                ibm_maximo --> sap_working_module
+                sap_working_module --> ibm_maximo
+            end
+
+            subgraph "Logistics"
+                ibm_maximo --> inhouse_logistics
+                inhouse_logistics --> ibm_maximo
+            end
+
+            subgraph "Sales"
+                inhouse_logistics --> sap_sales_module
+            end
+
+            subgraph "Finance"
+                sap_sales_module--> oracle_finance
+                oracle_finance --> ibm_maximo
+                
+            end
+
+            subgraph "Human Resource"
+                oracle_finance --> sap_hr_module
+                sap_hr_module --> oracle_finance
+                sap_hr_module --> ms_sharepoint
+                
+            end
+
+            subgraph "External System"
+                sap_hr_module --> corporate_banking
+                oracle_finance --> ledger_audit_texas
+            end
+
+            subgraph "IT Directorate"
+                ibm_maximo --> identity_access_management
+                oracle_finance --> identity_access_management
+                inhouse_logistics --> identity_access_management
+                sap_working_module --> identity_access_management
+                sap_sales_module --> identity_access_management
+                sap_hr_module --> identity_access_management
+
+                ibm_maximo --> anti_fraud_system
+                oracle_finance --> anti_fraud_system
+                sap_hr_module --> anti_fraud_system
+                sap_working_module --> service_management
+            end
         end
-
-        subgraph "Field Operation"
-            ibm_maximo_mobile --> ibm_maximo
-            ibm_maximo --> ibm_maximo_mobile
-            ibm_maximo --> sap_working_module
-            sap_working_module --> ibm_maximo
-        end
-
-        subgraph "Logistics"
-            ibm_maximo --> inhouse_logistics
-            inhouse_logistics --> ibm_maximo
-        end
-
-        subgraph "Sales"
-            inhouse_logistics --> sap_sales_module
-        end
-
-        subgraph "Finance"
-            sap_sales_module--> oracle_finance
-            oracle_finance --> ibm_maximo
-            
-        end
-
-        subgraph "Human Resource"
-            oracle_finance --> sap_hr_module
-            sap_hr_module --> oracle_finance
-            sap_hr_module --> ms_sharepoint
-            
-        end
-
-        subgraph "External System"
-            sap_hr_module --> corporate_banking
-            oracle_finance --> ledger_audit_texas
-        end
-
-        subgraph "IT Directorate"
-            ibm_maximo --> identity_access_management
-            oracle_finance --> identity_access_management
-            inhouse_logistics --> identity_access_management
-            sap_working_module --> identity_access_management
-            sap_sales_module --> identity_access_management
-            sap_hr_module --> identity_access_management
-
-            ibm_maximo --> anti_fraud_system
-            oracle_finance --> anti_fraud_system
-            sap_hr_module --> anti_fraud_system
-            sap_working_module --> service_management
-        end
-
-        
-    end
 ```
 Dari diagram di atas sebetulnya masih jauh lebih sederhana jika dibandingkan kasus nyata di lapangan. Namun dapat dilihat bahwa integrasi antar aplikasi seringkali dilakukan secara _face-to-face_ melalui beberapa metode yang sudah ditentukan. Aplikasi dapat berkomunikasi 2 arah dan multi channel tergantung relasi dari organisasi yang bersangkutan.
 
@@ -104,21 +103,21 @@ Berikut adalah beberapa metode integrasi yang saya pernah (ikut) lakukan. Untuk 
 Metode yang pernah saya lakukan ini ketika implementasi integrasi antara ERP Dynamic Axapta dengan IBM Maximo untuk melakukan pendataan cost di finance ketika purchase request dibuat hingga menjadi purchase order dan akhirnya item yang dipesan masuk sebagai inventori proyek. Untuk gambaran flow bisnis yang dibangun adalah seperti di bawah ini:
 
 ```mermaid
-graph LR
-    direction LR
-    subgraph "IBM Maximo"
-        purchase_request 
-        purchase_order
-        inventory_fulfillment
-    end
-    subgraph "Dynamic AX"
-        purchase_request --> budget_request
-        budget_request --> procurement_review
-        procurement_review --> approval
-        approval --> purchase_order
-        purchase_order --> purchase_nodin
-        purchase_nodin --> inventory_fulfillment
-    end
+    flowchart LR
+        direction LR
+        subgraph "IBM Maximo"
+            purchase_request 
+            purchase_order
+            inventory_fulfillment
+        end
+        subgraph "Dynamic AX"
+            purchase_request --> budget_request
+            budget_request --> procurement_review
+            procurement_review --> approval
+            approval --> purchase_order
+            purchase_order --> purchase_nodin
+            purchase_nodin --> inventory_fulfillment
+        end
 ```
 
 Kendala di lapangan yang dihadapi adalah IBM Maximo terinstall di site Kalimantan Selatan sedangkan Dynamic AX terdapat di head office Jakarta. 
@@ -264,51 +263,51 @@ Dari struktur di atas maka akan menghasilkan 3 java archive yaitu purchase-order
 Di sini saya anggap 1 aplikasi memiliki 1 skema tersendiri agar lebih independen dan aman secara integritas data. Tanpa takut ketika alter tabel maka akan ada dampak di aplikasi lainnya. Lalu bagaimana agar setiap aplikasi tersebut dapat berkomunikasi secara modular? Ada pada skema berikut:
 
 ```mermaid
-graph LR
-    direction LR
-    subgraph "Websphere Cluster 1"
-        subgraph "Project Module"
-            work_order
+    flowchart LR
+        direction LR
+        subgraph "Websphere Cluster 1"
+            subgraph "Project Module"
+                work_order
+            end
         end
-    end
-    subgraph "Websphere Cluster 2"
-        subgraph "Purchase Module"
-            work_order --> |findSvc:listOfMaterial| bill_of_material
-            purchase_request --> |findSvc:generatePO| purchase_order
-            purchase_order --> |findSvc:getSupplier| bill_of_material
-            bill_of_material --> |findSvc:lastPurchase| purchase_order
-            
+        subgraph "Websphere Cluster 2"
+            subgraph "Purchase Module"
+                work_order --> |findSvc:listOfMaterial| bill_of_material
+                purchase_request --> |findSvc:generatePO| purchase_order
+                purchase_order --> |findSvc:getSupplier| bill_of_material
+                bill_of_material --> |findSvc:lastPurchase| purchase_order
+                
+            end
         end
-    end
-    subgraph "Websphere Cluster 3"
-        subgraph "Accounting Module"
-            purchase_order --> |fnSvc:chargeBiller| ledger
-            ledger --> |fnSvc:updateChargeSts| purchase_order
+        subgraph "Websphere Cluster 3"
+            subgraph "Accounting Module"
+                purchase_order --> |fnSvc:chargeBiller| ledger
+                ledger --> |fnSvc:updateChargeSts| purchase_order
+            end
         end
-    end
 ```
 
 ```mermaid
-sequenceDiagram
-    participant PurchaseRequest
-    participant PurchaseOrder
-    participant BillOfMaterial
+    sequenceDiagram
+        participant PurchaseRequest
+        participant PurchaseOrder
+        participant BillOfMaterial
 
-    PurchaseRequest->>PurchaseOrder: generatePO(orderDetail)
-    activate PurchaseOrder
-    PurchaseOrder-->>PurchaseRequest: invoiceNo
-    deactivate PurchaseOrder
+        PurchaseRequest->>PurchaseOrder: generatePO(orderDetail)
+        activate PurchaseOrder
+        PurchaseOrder-->>PurchaseRequest: invoiceNo
+        deactivate PurchaseOrder
 
-    PurchaseOrder->>BillOfMaterial: getSupplier(requestDetail)
-    activate BillOfMaterial
-    BillOfMaterial-->>PurchaseOrder: suppliers
-    deactivate BillOfMaterial
+        PurchaseOrder->>BillOfMaterial: getSupplier(requestDetail)
+        activate BillOfMaterial
+        BillOfMaterial-->>PurchaseOrder: suppliers
+        deactivate BillOfMaterial
 
-    
-    BillOfMaterial->>PurchaseOrder: lastPurchase(invoiceNo)
-    activate PurchaseOrder
-    PurchaseOrder-->>BillOfMaterial: invoiceDetail
-    deactivate PurchaseOrder
+        
+        BillOfMaterial->>PurchaseOrder: lastPurchase(invoiceNo)
+        activate PurchaseOrder
+        PurchaseOrder-->>BillOfMaterial: invoiceDetail
+        deactivate PurchaseOrder
 ```
 
 Dari diagram di atas maka setiap komunikasi akan menggunakan fungsi pada interface untuk melakukan remote object terhadap aplikasi lain. Semisal dari Bill of Material membutuhkan detail Purchase Ordernya berdasarkan nomor invoice maka dapat call object Purchase Order melalui fungsi `lastPurchase(invoiceNo)` yang dideklarasikan pada sebuah interface.
@@ -369,29 +368,29 @@ Kedua contoh diagram berikut dapat dikatakan fire and forget di mana producer ha
 Service producer menggunakan layanan pengiriman pesan ke service consumer melalui broker dan broker yang akan meneruskan kepada service consumer yang akan dituju berdasarkan channel atau topik. Service consumer akan segera menerima dengan listener terrhadap topiknya. Pesan yang dikirimkan oleh pengirim hanya akan benar-benar terhapus ketika consumer telah menerima pesan.
 
 ```mermaid
-sequenceDiagram
-    participant ServiceA
-    participant Broker
-    participant ServiceB
-    participant ServiceC
+    sequenceDiagram
+        participant ServiceA
+        participant Broker
+        participant ServiceB
+        participant ServiceC
 
-    ServiceA->>Broker: sendMessage(m, serviceB)
-    activate Broker
-    Broker-->>ServiceA: signal
-    deactivate Broker
+        ServiceA->>Broker: sendMessage(m, serviceB)
+        activate Broker
+        Broker-->>ServiceA: signal
+        deactivate Broker
 
-    Broker->>ServiceB: forwardMessage(m)
-    activate ServiceB
-    deactivate ServiceB
+        Broker->>ServiceB: forwardMessage(m)
+        activate ServiceB
+        deactivate ServiceB
 
-    ServiceB->>Broker: sendMessage(m, serviceC)
-    activate Broker
-    Broker-->>ServiceB: signal
-    deactivate Broker
+        ServiceB->>Broker: sendMessage(m, serviceC)
+        activate Broker
+        Broker-->>ServiceB: signal
+        deactivate Broker
 
-    Broker->>ServiceC: forwardMessage(m)
-    activate ServiceC
-    deactivate ServiceC
+        Broker->>ServiceC: forwardMessage(m)
+        activate ServiceC
+        deactivate ServiceC
 ```
 
 **Skema Broker Pasif** 
@@ -399,28 +398,28 @@ sequenceDiagram
 Service producer menggunakan layanan pengiriman pesan ke service consumer melalui broker namun broker hanya sebagai penampung data saja. Pesan yang dikirimkan akan diletakkan pada sebuah channel atau topik di mana topik tersebut sudah dibook oleh service consumer yang mengecek secara rekursif. Sehingga secara berkala akan mencari pesan yang ada pada topik broker tersebut. Pesan tersebut dapat diset hanya sementara waktu.
 
 ```mermaid
-sequenceDiagram
-    participant ServiceA
-    participant Broker
-    participant ServiceB
-    participant ServiceC
+    sequenceDiagram
+        participant ServiceA
+        participant Broker
+        participant ServiceB
+        participant ServiceC
 
-    ServiceA->>Broker: sendMessage(m, serviceB)
-    activate Broker
-    Broker-->>ServiceA: signal
-    deactivate Broker
+        ServiceA->>Broker: sendMessage(m, serviceB)
+        activate Broker
+        Broker-->>ServiceA: signal
+        deactivate Broker
 
-    loop Every x time
-        ServiceB->>Broker: pullMessage(serviceB)
-    end
-    ServiceB->>Broker: sendMessage(m, serviceC)
-    activate Broker
-    Broker-->>ServiceB: signal
-    deactivate Broker
-    
-    loop Every x time
-        ServiceC->>Broker: pullMessage(serviceB)
-    end
+        loop Every x time
+            ServiceB->>Broker: pullMessage(serviceB)
+        end
+        ServiceB->>Broker: sendMessage(m, serviceC)
+        activate Broker
+        Broker-->>ServiceB: signal
+        deactivate Broker
+        
+        loop Every x time
+            ServiceC->>Broker: pullMessage(serviceB)
+        end
 ```
 
 Pendekatan ini biasanya dilakukan ketika terdapat kebutuhan bisnis yang memerlukan perantara namun sifatnya tidak kritikal dan tidak ingin mengganggu kinerja broker. _Segera terkirim syukurlah, tidak terkirim sama sekali pun juga tidak apa_. Broker pun berhak menghapus pesan jika terlalu lama idle. 
