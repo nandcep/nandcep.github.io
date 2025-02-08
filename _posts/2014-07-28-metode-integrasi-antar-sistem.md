@@ -3,7 +3,6 @@ title: Metode Integrasi antar Sistem
 date: 2014-07-28 00:00:01
 categories: []
 tags: [computer-science,system-integration]     # TAG names should always be lowercase
-mermaid: true
 ---
 
 # Background
