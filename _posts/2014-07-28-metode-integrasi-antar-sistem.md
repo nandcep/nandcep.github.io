@@ -5,6 +5,8 @@ categories: []
 tags: [computer-science,system-integration]     # TAG names should always be lowercase
 mermaid: true
 ---
+![](https://images.unsplash.com/photo-1556484687-30636164638b?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+_Credit to Unsplash_
 
 # Background
 Di dalam sebuah perusahaan multinasional dengan skala besar biasanya memiliki ekosistem yang kompleks untuk saling berkomunikasi. Berkomunikasi yang dimaksudkan ialah semisal aktivitas bertukar data dan melakukan pengolahan informasi yang terintegrasi.
