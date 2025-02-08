@@ -469,3 +469,5 @@ Baik untuk request ataupun responsenya. Fitur ini seingat saya belum ada di Orac
 Bahasan tentang middleware sekaligus menutup pembahasan metode integrasi antar sistem. Sekian artikel dari saya tentang metode integrasi, kiranya semoga bermanfaat dan apabila ada pandangan lain boleh disharing karena sharing is caring.
 
 Terimakasih
+
+_Disadur dari blog lama saya di WordPress.com_
