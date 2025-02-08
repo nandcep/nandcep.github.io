@@ -464,7 +464,7 @@ Baik untuk request ataupun responsenya. Fitur ini seingat saya belum ada di Orac
 - Jika tidak terlalu kompleks dapat menunda pengadaan serta implementasi ESB.
 - Namun jika kompleks dan mulai besar jumlah channel komunikasi agar tidak membuat proses integrasi dari awal secara berulang maka sebaiknya mempertimbangkan penggunaan ESB.
 
-# Kesimpulan
+# Penutup
 
 Bahasan tentang middleware sekaligus menutup pembahasan metode integrasi antar sistem. Sekian artikel dari saya tentang metode integrasi, kiranya semoga bermanfaat dan apabila ada pandangan lain boleh disharing karena sharing is caring.
 
