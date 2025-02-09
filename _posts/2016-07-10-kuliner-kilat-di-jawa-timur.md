@@ -52,12 +52,12 @@ Berikut adalah daftar tempat dan alamat kami berkuliner:
 📍 **Zangrandi**
 
 Jl. Yos Sudarso No. 15, Embong Kaliasin, Genteng, Surabaya
-https://goo.gl/maps/iDTyxphLZS41PzxL8
+[https://goo.gl/maps/iDTyxphLZS41PzxL8](https://goo.gl/maps/iDTyxphLZS41PzxL8)
 
 📍 **Hok Lay**
 
 Jl. KH Achmad Dahlan No. 10, Malang 
-https://goo.gl/maps/dd17bw7F8hR4dbXK7
+[https://goo.gl/maps/dd17bw7F8hR4dbXK7](https://goo.gl/maps/dd17bw7F8hR4dbXK7)
 
 Kedai Hok Lay memiliki jam operasional yang unik. Tidak buka full day, hanya beroperasi pukul 09.00 s/d 13.00 WIB dan pukul 17.00 s/d 20.30 WIB. Jadi jangan mencoba untuk berkunjung di antara pukul 13.00 s/d 17.00 WIB.
 
