@@ -1,5 +1,5 @@
 ---
-title: Kuliner Kilat di Jawa Timur
+title: Solo Touring ke Jogja
 date: 2016-08-04 00:00:01
 categories: []
 tags: [travel,touring,indonesia]     # TAG names should always be lowercase
