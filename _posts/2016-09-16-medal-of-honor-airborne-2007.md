@@ -19,7 +19,7 @@ Setelah hampir 9 tahun akhirnya dapat memainkannya, karena tiba-tiba iseng terin
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNgKSXxA4cUUniXvsKdpdyStqsfsJdSZfurTBL0XUjDsVWGh5AwrC1uifakdHLzBMYsxvF3Dks8aCVpjx_55psR4w8JkloPxPR9cokcqP6cUKJWS3QblIr5_sbZGrp4HwpGRo53jPJNP-sZ0hnJucL3FA=w1280-h800-s-no?authuser=0)
 
-Porting Medal of Honor yang saya lakukan menggunakan aplikasi Wineskin dan cukup lancar. Sekarang RAM sudah 16GB dan menggunakan SSD 250GB. By the way, MoH Airborne memerlukan Physx dari NVIDIA. Dapat download di [sini](http://www.nvidia.com/object/physx-9.12.1031-legacy-driver.html). Fullscreen lancar namun tidak _smooth as butter_. Masih ada bug grafik yang saya rasa masih dapat ditoleransi. Source game berasal dari Torrent.
+Porting Medal of Honor yang saya lakukan menggunakan aplikasi Wineskin dan cukup lancar. Sekarang RAM sudah 16GB dan menggunakan SSD 250GB. By the way, MoH Airborne memerlukan Physx dari NVIDIA. Dapat download di [sini](https://www.nvidia.com/object/physx-9.12.1031-legacy-driver.html). Fullscreen lancar namun tidak _smooth as butter_. Masih ada bug grafik yang saya rasa masih dapat ditoleransi. Source game berasal dari Torrent.
 
 Agaknya karena beberapa hari sering memainkan game ini saya jadi mudah emosi. Susah sekali permainannya apalagi jumlah musuh yang tampak tidak ada habisnya ditambah pasukan super yang disebut Nazi Storm Elite. Namun setidaknya saya dapat bernostalgia dengan Thompson, BAR, Stg44, dan K98.
 
