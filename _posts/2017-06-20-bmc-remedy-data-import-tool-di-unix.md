@@ -12,7 +12,7 @@ Dikarenakan di site ada kebutuhan untuk custom development pada BMC Remedy, klie
 
 > Sebagai alternatif lain adalah dengan menggunakan command line di Sistem Operasi lewat executable dataimport.
 
-Sesuai kebutuhan di site mengharuskan saya untuk mengembangkan executable dataimport agar dapat tereksekusi melalui filter dengan event ketika user selesai upload file CSVnya. Jika menggunakan sistem operasi Microsoft Windows maka dapat memanfaatkan file dataimport.bat yang berada di `[AR System directory]\DataImportTools`.
+Sesuai kebutuhan di site mengharuskan saya untuk mengembangkan executable dataimport agar dapat tereksekusi melalui filter dengan event ketika user selesai upload file CSVnya. Jika menggunakan sistem operasi Microsoft Windows maka dapat memanfaatkan file `dataimport.bat` yang berada di `[AR System directory]\DataImportTools`.
 
 Sedangkan jika menggunakan sistem operasi berbasis UNIX maka harus membuat Shellscript terlebih dahulu. Dikarenakan DataImportTools tidak tersedia di instalasi ARSystem untuk sistem operasi UNIX. Saya mengikuti tutorial dari link [berikut](https://docs.bmc.com/docs/display/public/ars81/Enabling+the+Data+Import+utility%22). Langkah-langkah prasyarat yang dibutuhkan terlampir:
 
