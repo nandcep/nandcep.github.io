@@ -49,7 +49,7 @@ Saya sendiri baru sadar keberadaan Indrakilla ketika sedang berlebaran, itupun k
 
 Terbukti produk-produk olahan sapi ini tidak hanya dikenal secara lokal namun juga antar kota, antar provinsi, bahkan hingga ke luar negeri. Pengembangan usaha bersama para peternak dan pengusaha lokal pun sudah membuahkan hasil yang menurut saya “wow”, karena sudah mendapatkan dukungan dari koperasi usaha Kota Boyolali.
 
-Berkat usaha bersama, ekonomi daerah pun menjadi berkembang inovasinya serta semakin bersaing secara kreatif. Berikut adalah beberapa produk olahan sapi yang sudah berhasil diproduksi oleh Indrakila :
+Berkat usaha bersama, ekonomi daerah pun menjadi berkembang inovasinya serta semakin bersaing secara kreatif. Berikut adalah beberapa produk olahan sapi yang sudah berhasil diproduksi oleh Indrakila:
 
 1. Susu Sapi Murni aneka rasa
 2. Yogurt aneka rasa
