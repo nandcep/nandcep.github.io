@@ -33,7 +33,7 @@ Tapi tahukah bahwa terdapat sebuah kota di provinsi Jawa Tengah yang memiliki ke
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPyD_iPIvAw3OikjZxzVRAiDMFa_LQg58zc2-roRB3AQ64NXz6HqImG9UxtKRg9_tkQP0DEP9rl6gjX5iZnLMQjDSrRwBUorD6EXVAbVmWy1rurQklIFAEiHBeSd30b-LYFTcK-SzCehaRaSI54Ceru4w=w1037-h1381-s-no?authuser=0)
 
-Bagi yang pernah mendengar tentang kota Boyolali? Kota ini memiliki peternakan sapi yang cukup besar dan mengolahnya menjadi berbagai produk. Salah satu pengolahnya merupakan usaha lokal yang mampu menghasilkan keju olahan yang tidak kalah kualitasnya dengan keju dari luar negeri, Indrakila namanya. Saya mengutip sedikit dari artikel kompasiana karya tulis Ibu saya.
+Bagi yang pernah mendengar tentang kota Boyolali? Kota ini memiliki peternakan sapi yang cukup besar dan mengolahnya menjadi berbagai produk. Salah satu pengolahnya merupakan usaha lokal yang mampu menghasilkan keju olahan yang tidak kalah kualitasnya dengan keju dari luar negeri, Indrakila namanya. Saya mengutip sedikit dari [artikel](https://www.kompasiana.com/nprih/keju-indrakila-pasopati-rezeki-boyolali_595e4407cba8ac03ac2f6292) kompasiana karya tulis Ibu saya.
 
 Usaha Indrakilla ini sudah sejak dari tahun 2009 beroperasi dan luar biasa potensinya sebagai Usaha Ekonomi Masyarakat yang maju dalam inovasi. Terbukti dari riset produk serta varian produk yang dihasilkan.
 
@@ -75,4 +75,4 @@ Semoga di lebaran tahun depan saya sudah dapat mencicipi keju tersebut bersama i
 
 📍[Keju Indrakila — Google Maps](https://www.google.com/maps?ll=-7.515782%2C110.597677&z=19&t=m&hl=en-US&gl=US&mapclient=embed&cid=16070312869780312525)
 
-Alamat: Jl. Profesor Soeharso №41, Kiringan, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah 57314
+**Alamat: Jl. Profesor Soeharso №41, Kiringan, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah 57314**
