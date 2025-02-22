@@ -21,7 +21,7 @@ Jadi agar dapat menyerap cahaya dengan baik, harus menggunakan ISO besar dan low
 
 Kalau tidak percaya, coba cek di postingan para suhu. Sudah terbukti hehe, thanks juragan!
 
-1. [Mas Wira Nurmansyah](http://wiranurmansyah.com/4-langkah-mudah-memotret-bintang-dan-milky-way), tips singkat, padat, dan jelas.
+1. [Mas Wira Nurmansyah](https://wiranurmansyah.com/4-langkah-mudah-memotret-bintang-dan-milky-way), tips singkat, padat, dan jelas.
 2. [Mas Rifki Setya](http://www.rifkysetya.com/#!basic-milky-way-photography-1/akt2n), learn astrography.
 
 # ISO Tinggi
