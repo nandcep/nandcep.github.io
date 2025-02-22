@@ -30,8 +30,8 @@ JSF sendiri pernah salah menjadi salah satu trend setter menjadi web development
 
 1. [Apache MyFaces (Tobago)](https://myfaces.apache.org/#/)
 2. [RedHat RichFaces](https://richfaces.jboss.org/)
-3. [IceFaces](http://www.icesoft.org/java/projects/ICEfaces/overview.jsf)
-4. [ButterFaces](http://butterfaces.org/)
+3. [IceFaces](https://www.icesoft.org/java/projects/ICEfaces/overview.jsf)
+4. [ButterFaces](https://butterfaces.org/)
 5. [Primefaces](https://www.primefaces.org/)
 6. Dan lainnya.
 
@@ -43,7 +43,7 @@ Penerapan kustom tampilan serta fungsi yang lebih jauh cenderung sulit apabila m
 
 Di sela kesibukan, beberapa waktu yang lalu saya mencoba membuka barisan koding di harddisk eksternal. Saya rindu dengan RichFaces tetapi tidak dengan JSFnya. Ditambah sudah hampir 3 tahun dimanjakan dengan Spring Boot dengan berbagai kemudahannya sehingga tidak mungkin saya akan menggunakan JSF.
 
-Akhirnya saya iseng mencari apakah tetap dapat menggunakan RichFaces untuk menjadi layer di depan. Pada umumnya Spring Boot menggunakan template engine Thymeleaf atau kustom dengan Apache Velocity sebagai view. Setelah mencari di mesin pencarian saya pun menemukan [Joinfaces](http://joinfaces.org/), sebuah proyek open source yang melakukan “porting” JSF ke dalam Spring Boot.
+Akhirnya saya iseng mencari apakah tetap dapat menggunakan RichFaces untuk menjadi layer di depan. Pada umumnya Spring Boot menggunakan template engine Thymeleaf atau kustom dengan Apache Velocity sebagai view. Setelah mencari di mesin pencarian saya pun menemukan [Joinfaces](https://joinfaces.org/), sebuah proyek open source yang melakukan “porting” JSF ke dalam Spring Boot.
 
 Porting yang dilakukan memungkinkan saya untuk menggunakan seluruh komponen JSF dan Spring Boot di dalam satu aplikasi. Jelas paling mantap adalah dapat menggunakan IoC Spring di dalam JSF (_and vice versa_). Sebagai contoh saya dapat membuat interface service atau repository lalu diinject ke dalam managed bean tanpa perlu ada konfigurasi lebih lanjut di container terkait scanning class secara manual.
 
