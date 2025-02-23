@@ -65,7 +65,7 @@ Aplikasi pertama yang saya instal adalah untuk kebutuhan office, yaitu AppleWork
 
 AppleWorks memiliki aplikasi yang mirip Microsoft Office untuk Windows yaitu aplikasi database yang identik dengan Microsoft Access. Sayang AppleWorks tidak memiliki aplikasi untuk membuat presentasi seperti Keynote pada iWork. Aplikasi presentasi hanya tersedia pada versi AppleWorks 6 khusus Mac OS 8 ke atas.
 
-![](![](https://lh3.googleusercontent.com/pw/AP1GczOXVbYS63V7bLVgUz4vwxI3Bb51jO16o6Hmr7DoaNFxl09kUyQOJTz8I-DwJ5C2ShVdkrmCc4CprRmntgsVCdV6aBcwlAeBdEPLrWn78iYRsUleED-tl00SLea8WQQJ2fg5dZDyjTJgOmHOTCf7sgBOlw=w700-h437-s-no-gm?authuser=0))
+![](https://lh3.googleusercontent.com/pw/AP1GczOXVbYS63V7bLVgUz4vwxI3Bb51jO16o6Hmr7DoaNFxl09kUyQOJTz8I-DwJ5C2ShVdkrmCc4CprRmntgsVCdV6aBcwlAeBdEPLrWn78iYRsUleED-tl00SLea8WQQJ2fg5dZDyjTJgOmHOTCf7sgBOlw=w700-h437-s-no-gm?authuser=0)
 
 Melihat tampilannya, entah kenapa warna abu-abu ‘besi’ membuat antar muka terlihat klasik dan jaman dulu sekali. Aplikasi ini tampak seperti dibangun dengan bahasa Basic. Untuk penggunaan yang tidak aneh-aneh saya rasa cukup bahkan mungkin masih dapat digunakan untuk membuat dokumen sederhana, sheet yang tidak rumit formulanya, dan surat.
 
