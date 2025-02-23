@@ -22,7 +22,7 @@ Berikut adalah game yang kembali saya mainkan untuk mengisi waktu malam hingga p
 Kumpulan game series untuk Microsoft Windows yang melegenda. Saya mengkoleksi hingga 4 pack alias versi lengkap. Peninggalan dari jaman masih menggunakan PC IBM orang tua saya. Game yang tersedia cukup banyak, saya seringkali bermain game Pipe Dream, Fuji Golf, dan yang menjadi favorit kami sekeluarga adalah Mahjong Taipei.
 
 > Game Mahjong Taipei sendiri cukup melatih kejelian serta memori saya, dan itu yang membuat saya betah tidak bosan bermain game tersebut.
-{: .prompt-tips }
+{: .prompt-info }
 
 Beberapa game yang juga membangkitkan kenangan adalah Ski Free dan Rattler Race. Ski Free merupakan game ski salju yang sering saya mainkan ketika menunggu mama saya pulang kantor. Saya belum pernah dapat sekalipun mengalahkan si Yeti yang selalu muncul pada akhir permainan.
 
