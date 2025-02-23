@@ -6,9 +6,7 @@ tags: [travel,remote working]     # TAG names should always be lowercase
 ---
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNUDPjv77W8KfFhSi77qfhlm3VPLJ1pmP0yT9LeoTEGWZ5Odf7zMYuTDBeuJpwsUI7XSwtYlgxaSlD5a3wvLRCphwoLgcQ1Mp2MW9cmYu8f_sUso8t8SKwgpLlNcAOS8cWXiAC7dtzqG4JMx4f30M8WaQ=w1955-h1466-s-no-gm?authuser=0)
-Menimati Teh dan Lomang sebelum 
-
-# Beraktivitas
+Menimati Teh dan Lomang sebelum beraktivitas
 
 Pertengahan bulan Oktober yang lalu saya dan isteri menyempatkan diri untuk mudik ke Siantar setelah sebelumnya menghadiri acara keluarga di Solo. Berhubung lebih dari satu tahun tidak mudik dan rasa rindu kepada orang tua maka kami memutuskan mudik dengan moda transportasi udara.
 
