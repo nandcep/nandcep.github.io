@@ -1,5 +1,5 @@
 ---
-title: Pendakian Gunung gede
+title: Pendakian Gunung Gede
 date: 2021-08-01 00:00:01
 categories: []
 tags: [travel,hiking,indonesia]     # TAG names should always be lowercase
