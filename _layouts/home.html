@@ -48,23 +48,23 @@ refactor: true
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
-  {% for post in posts %}
-    <article class="card-wrapper card">
-      <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
-        {% assign card_body_col = '12' %}
-        <div class="col-md-{{ card_body_col }}">
-          <div class="card-body d-flex flex-column">
-            <div class="card-text content mt-0 mb-3">
-                <i class="far fa-calendar fa-fw me-1"></i> 
-                {% include datetime.html date=post.date lang=lang %} &nbsp; — {{ post.title }}
-            </div>
-            <!-- .post-meta -->
-          </div>
-          <!-- .card-body -->
+  <article class="card-wrapper card">
+    
+    {% assign card_body_col = '12' %}
+    <div class="col-md-{{ card_body_col }}">
+        <div class="card-body d-flex flex-column">
+            {% for post in posts %}
+            <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
+                <div class="card-text content mt-0 mb-3">
+                    {% include datetime.html date=post.date lang=lang %} &nbsp; — {{ post.title }}
+                </div>
+            </a>
+            {% endfor %}
         </div>
-      </a>
-    </article>
-  {% endfor %}
+    </div>
+    
+    
+  </article>
 </div>
 <!-- #post-list -->
 
