@@ -84,7 +84,7 @@ Comment {
 
 Tanpa menggunakan ORM maka diperlukan sedikit usaha agar dapat merelasikan antara attribute comments pada entitas Post dan attribute post pada entitas Comment.
 
-Pendekatan yang dapat kita lakukan semisal ingin melakukan query data dari table posts untuk ditarik detail post beserta komentarnya agar menjadi collection di attribute comments adalah dengan:
+Pendekatan yang dapat kita lakukan semisal ingin melakukan query data dari table posts untuk ditarik detail post beserta komentarnya agar menjadi collection di attribute comments adalah dengan langkah-langkah di bawah ini.
 
 # Subquery (n+1)
 
@@ -102,7 +102,7 @@ select * from comments where post_id = ?1
 
 Stream rows dan scan setiap row untuk mapping kolom ke entitas Comment. Setiap row mapping ke entitas Comment akan dimasukkan ke dalam array pada attribute comments di entitas Post.
 
-# 2. Join dan Proses Berdasarkan Normalisasi dari Hasil Query
+# Join dan Proses Berdasarkan Normalisasi dari Hasil Query
 
 Pada pendekatan berikut hanya dibutuhkan sekali query. Select dengan melakukan join tabel Posts dengan tabel Comments, kira-kira gambaran joinnya seperti berikut.
 
