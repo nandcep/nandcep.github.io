@@ -81,8 +81,7 @@ Just like what Netflix has done, it able to optimize our system without waste th
 
 Maybe it can gain many benefits to boost the performance.
 Reference(s):
-- [https://www.oreilly.com/library/view/](https://www.oreilly.com/library/view/)
-- [effective-multi-tenant-distributed/9781492042839/ch04.html](effective-multi-tenant-distributed/9781492042839/ch04.html)
+- [https://www.oreilly.com/library/view/effective-multi-tenant-distributed/9781492042839/ch04.html](https://www.oreilly.com/library/view/effective-multi-tenant-distributed/9781492042839/ch04.html)
 - [https://www.reactivemanifesto.org/](https://www.reactivemanifesto.org/)
 - [https://reactivex.io/](https://reactivex.io/)
 [https://quarkus.io/guides/getting-started-reactive](https://quarkus.io/guides/getting-started-reactive)
