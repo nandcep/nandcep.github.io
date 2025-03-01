@@ -34,7 +34,7 @@ Termux dinfungsikan sebagai package manager dari Android untuk membuatnya memili
 
 # Ubuntu untuk Development
 
-Menginstall Ubuntu untuk keperluan software engineering di atas tablet Android merupakan pengalaman baru yang menyenangkan bagi saya. Tanpa root dengan Termux, seamless dan aktivitas development saya tidak membuat registry pada host menjadi “kotor”. Ubuntu yang saya gunakan adalah versi 22.04 LTS untuk ARM dengan menyesuaikan arsitektur prosesor dari hardware melalui panduan berikut.
+Menginstall Ubuntu untuk keperluan software engineering di atas tablet Android merupakan pengalaman baru yang menyenangkan bagi saya. Tanpa root dengan Termux, seamless dan aktivitas development saya tidak membuat registry pada host menjadi “kotor”. Ubuntu yang saya gunakan adalah versi 22.04 LTS untuk ARM dengan menyesuaikan arsitektur prosesor dari hardware melalui panduan [berikut](https://github.com/tuanpham-dev/termux-ubuntu).
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMTnI5KWKSEkX6E2eU0Qgr9fCLHzc13kvmn_50bLqf1lCYLM_qq6wlESMojDq-xqjjZOULajP9ElA96pluS5WWrntggyxaR1_okx-J9QpbbLmAbsYbvbnT24IDMl4qouZXCpT60YCY7V6cjIgZaRucGkQ=w2362-h1478-s-no?authuser=0)
 Ubuntu via Termux
@@ -53,7 +53,7 @@ Kehidupan virtualisasi serta development environment di era sekarang tidak akan 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNP9FXc4qDmoT-lgDzRVYMB9GYRTJUi7ZzcHX9j4pNeTYbbO_UqaF_-XPe13e_9q3kCV0wGLyAzDPqAK75ovvORpXiPjEfGXQC77WrYZGe8r3-76Ggf8LOjIDN7EnGsCAAwXa5hu0cBSYyOpdD_g9qa2w=w2362-h1478-s-no?authuser=0)
 Qemu di Termux dengan Alpine untuk Docker
 
-Pada sistem operasi tersebut saya melakukan setup untuk Docker dengan panduan berikut. Namun perlu dicatat bahwa untuk melakukan build image serta menjalankan kontainerisasi tentunya tidak terlalu cepat dan lancar karena prosesnya berada di dalam VM, namun setidaknya dapat digunakan dan berfungsi normal. Untuk arsitektur QEMU yang kebetulan saya gunakan adalah berbasis Intel karena menyesuaikan kebutuhan.
+Pada sistem operasi tersebut saya melakukan setup untuk Docker dengan panduan [berikut](https://gist.github.com/oofnikj/e79aef095cd08756f7f26ed244355d62). Namun perlu dicatat bahwa untuk melakukan build image serta menjalankan kontainerisasi tentunya tidak terlalu cepat dan lancar karena prosesnya berada di dalam VM, namun setidaknya dapat digunakan dan berfungsi normal. Untuk arsitektur QEMU yang kebetulan saya gunakan adalah berbasis Intel karena menyesuaikan kebutuhan.
 
 # Aktivitas Coding
 
