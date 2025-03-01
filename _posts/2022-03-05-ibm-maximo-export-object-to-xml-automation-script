@@ -13,7 +13,7 @@ Pada posting berikut saya ingin share bagaimana cara ekspor data dari IBM Maximo
 Loading data tidak dalam bentuk flat file, melainkan dalam bentuk XML yang formatnya harus ada kesepakatan antara 2 belah pihak. Kita dapat melakukannya menggunakan Automation Script.
 
 > Sebagai contoh jika ingin share data item maka cukup memanfaatkan Automation Script dengan launch point action pada object item.
-{: .prompt-info}
+{: .prompt-info }
 
 Beberapa hal yang cukup bermanfaat serta dapat kita mainkan adalah pustaka dari Java untuk parsing ke XML yaitu W3C DOM dan Java XML Parser. Pada Gist di bawah ini saya share coding Automation Script yang berisikan perintah untuk ekspor data ke file XML.
 
