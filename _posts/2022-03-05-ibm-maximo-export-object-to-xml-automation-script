@@ -9,7 +9,7 @@ tags: [pemrograman,ibm-maximo]     # TAG names should always be lowercase
 Credit to Unsplash
 
 Pada posting berikut saya ingin share bagaimana cara ekspor data dari IBM Maximo menjadi file XML dengan format bebas (user defined). Hal ini didasarkan oleh ketika terdapat kebutuhan semisal ingin melakukan data loading dari Maximo ke aplikasi lain.
-
+ 
 Loading data tidak dalam bentuk flat file, melainkan dalam bentuk XML yang formatnya harus ada kesepakatan antara 2 belah pihak. Kita dapat melakukannya menggunakan Automation Script.
 
 > Sebagai contoh jika ingin share data item maka cukup memanfaatkan Automation Script dengan launch point action pada object item.
