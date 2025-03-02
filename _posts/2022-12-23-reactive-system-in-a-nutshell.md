@@ -80,6 +80,7 @@ Being reactive is to lead the optimization of the whole things in computation co
 Just like what Netflix has done, it able to optimize our system without waste the hardware resource at minimum level even the hardware itself is easy to obtain. So can we imagine that we have a god specification of hardware and running in reactive way?
 
 Maybe it can gain many benefits to boost the performance.
+
 Reference(s):
 - [https://www.oreilly.com/library/view/effective-multi-tenant-distributed/9781492042839/ch04.html](https://www.oreilly.com/library/view/effective-multi-tenant-distributed/9781492042839/ch04.html)
 - [https://www.reactivemanifesto.org/](https://www.reactivemanifesto.org/)
