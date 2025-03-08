@@ -29,9 +29,11 @@ all_normal[i] %} {% endfor %} {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
-  <h3 class="card-title my-2 mt-md-0">{{ post.title }}</h3>
+  <a href="{{ post.url | relative_url }}"
+    >{% include datetime.html date=post.date lang=lang %}
+    <h4 class="card-title my-2 mt-md-0">{{ post.title }}</h4></a
+  >
   {% endfor %}
 </div>
-<!-- #post-list -->
 
 {% if paginator.total_pages > 1 %} {% include post-paginator.html %} {% endif %}
