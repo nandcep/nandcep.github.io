@@ -89,11 +89,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-<<<<<<< HEAD
 avatar: assets/avatar.png
-=======
-avatar:
->>>>>>> v7.2.4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -142,11 +138,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-<<<<<<< HEAD
 paginate: 5
-=======
-paginate: 10
->>>>>>> v7.2.4
 
 # The base URL of your site
 baseurl: ""
@@ -215,12 +207,9 @@ exclude:
   - rollup.config.js
   - "package*.json"
 
-<<<<<<< HEAD
 plugins:
   - jekyll-gist
 
-=======
->>>>>>> v7.2.4
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
