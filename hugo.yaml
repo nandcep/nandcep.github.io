@@ -35,6 +35,10 @@ params:
         title: View Source on Github
         url: "https://github.com/nandcep"
 
+assets:
+    disableHLJS: true
+    favicon: "https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/assets/favicon.ico"
+
 markup:
   goldmark:
     renderer:
