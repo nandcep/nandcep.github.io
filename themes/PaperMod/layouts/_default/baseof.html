@@ -1,12 +1,6 @@
 {{- if lt hugo.Version "0.125.7" }}
 {{- errorf "=> hugo v0.125.7 or greater is required for hugo-PaperMod to build " }}
 {{- end -}}
-{{ if .Store.Get "hasMermaid" }}
-  <script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true });
-  </script>
-{{ end }}
 <!DOCTYPE html>
 <html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 
