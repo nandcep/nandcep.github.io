@@ -22,14 +22,14 @@ Kalyway 10.5.2 Hackintosh Pertama
 
 PC yang saya gunakan saat itu dibeli dan dirakit sendiri oleh kakak pada tahun 2007, karena kebetulan kuliah di bidang elektronika maka lebih sering menggunakan sistem berbasis Windows dengan spesifikasi yang dapat dibilang mid-end pada jamannya. Berikut spesifikasi dari PC tersebut :
 
-Motherboard : Abit LG-95
-Processor : Intel Core 2 Duo 2.2GHz
-Memory : DDR2 2GB (2x1GB)
-Harddisk : SATA 80 GB 5400RPM
-GPU : GeForce 8400GS 256 MB
-Ethernet : Realtek 8169
-Soundcard : Realtek AC97
-Dual Boot : No (clean install)
+- Motherboard : Abit LG-95
+- Processor : Intel Core 2 Duo 2.2GHz
+- Memory : DDR2 2GB (2x1GB)
+- Harddisk : SATA 80 GB 5400RPM
+- GPU : GeForce 8400GS 256 MB
+- Ethernet : Realtek 8169
+- Soundcard : Realtek AC97
+- Dual Boot : No (clean install)
 
 Singkat cerita akhirnya berhasil menginstal Mac OS X berbekal panduan dengan distro Kalyway 10.5.2 dan dapat diupdate secara official Apple menggunakan combo update hingga versi 10.5.7. Setelah bosan juga berhasil update ke OS X versi selanjutnya yaitu 10.6.2 dengan distro Hazard dan secara official Apple berhasil update hingga versi 10.6.7.
 
