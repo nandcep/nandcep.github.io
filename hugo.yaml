@@ -4,6 +4,9 @@ paginate: 3
 title: nandra
 theme: ["PaperMod"]
 mainsections: ["posts"]
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
 
 languages:
   en:
@@ -25,6 +28,9 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowAllPagesInArchive: true
     ShowToc: true
+    ShowShareButtons: true
+    ShowPageNums: true
+    author: nandcep
 
     homeInfoParams:
       Title: "👋 Welcome to my weblog journal!"
