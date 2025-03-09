@@ -87,6 +87,14 @@ Selain itu juga terdapat sate yang dapat menjadi pelengkap soto. Kuah kuning den
 
 Dalam sehari sudah 6 masakan tersebut yang dapat saya coba di Salatiga. Tapi saya berani meyakinkan bahwa masih banyak sekali kuliner lain di Salatiga yang pastinya dapat diulas serta sangat direkomendasikan seandainya ada kesempatan sehari lagi. Budget kuliner sehari versi saya membutuhkan budget kurang dari seratus ribu rupiah dengan rincian sebagai berikut:
 
-{% gist 451fc16cfc61e5c0df0d57cc8d417ea7 %}
+| ID | Kuliner                  | Harga       |
+|----|--------------------------|-------------|
+| 1  | Lotek                    | Rp 13.000,- |
+| 2  | Sate Sapi 1/2 Porsi      | Rp 18.000,- |
+| 3  | Bubur Kepiting 1/2 Porsi | Rp 14.000,- |
+| 4  | Mie Ayam Kemuning        | Rp 10.000,- |
+| 5  | Soto Esto + Camilan      | Rp 15.000,- |
+| 6  | Ronde                    | Rp 13.000,- |
+| 7  | Jeruk Hangat 2x @3000    | Rp 6.000,-  |
 
 Jadi sudah dapat dibayangkan bukan istimewanya kuliner Salatiga? Selain enak dan bersih yaitu murah meriah. Tidak akan menyesal meskipun hanya punya waktu sehari memutari jajanan di kota Salatiga. Sekian dari saya dan terimakasih, salam.
