@@ -73,8 +73,24 @@ Setelah saya pertimbangkan dengan matang akhirnya memutuskan untuk hijrah tetap 
 Menurut pengamatan saya pada beberapa sistem operasi macOS terakhir secara berturut-turut Apple support secara penuh yaitu 3 tahun semenjak pertama kali diluncurkan. Sehingga prediksi di akhir tahun 2023 maka adalah masa akhir dari Big Sur.
 
 Semua hal yang berfungsi dan tidak berfungsi telah saya lampirkan pada repositori, namun sebagai catatan utama turut kembali dicantumkan pada tulisan ini.
-Fitur Berfungsi
-{{< gist nandcep b55161a07621f32f305c6642aea992ad >}}
+Fitur Berfungsi:
+
+| **#**  | **Status** | **Part**                               |
+|--------|------------|----------------------------------------|
+| **1**  | 🆗         | Intel UHD QE/CI dengan Graphic Control |
+| **2**  | 🆗         | Speaker Suara dengan Sound Control     |
+| **3**  | 🆗         | Wi-Fi                                  |
+| **4**  | 🆗         | Bluetooth                              |
+| **5**  | 🆗         | Webcam                                 |
+| **6**  | 🆗         | Backlight Brightness and Nightshift    |
+| **7**  | 🆗         | Keyboard, Trackpad, and Gestures       |
+| **8**  | 🆗         | 2 USB 3.0                              |
+| **9**  | 🆗         | 2 USB-C Thunderbolt                    |
+| **10** | 🆗         | HDMI dan Audio                         |
+| **11** | 🆗         | External display dan audio with USB-C  |
+| **12** | 🆗         | Status Baterai                         |
+| **13** | 🆗         | Touchscreen                            |
+| **14** | 🆗         | Shutdown, Restart, dan Sleep           |
 
 Fitur Belum Berfungsi
 ```
