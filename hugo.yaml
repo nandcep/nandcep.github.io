@@ -1,7 +1,6 @@
 baseURL: https://nandcep.github.io
 languageCode: en-us
-pagination: 
-  pagerSize: 3
+paginate: 3
 title: nandra
 theme: ["PaperMod"]
 mainsections: ["posts"]
