@@ -169,7 +169,6 @@ Meskipun waktu baru menujukkan pukul 20.15, seusai makan kami bergegas istirahat
 Tidur di tengah hutan ada keuntungannya meski tidak dapat hunting Milkyway. Yaitu adalah tidak terlalu terasa dingin karena dera angin tertahan oleh dahan-dahan pohon yang sangat rapat. Ipang setelah makan malam langsung roboh tertidur tanpa ada beban. Saya sendiri juga tidak butuh waktu lama untuk terlelap setelah kembali memasukkan smartphone ke dalam tas.
 
 > Benar-benar melepas pegal di badan yang menjangkiti otot paha dan punggung. Sama sekali tidak bergeming hingga pukul 05.30 pagi.
-{: prompt-info }
 
 Terdengar sekilas dari tenda sebelah tampaknya Yan dan Adi sedang berbincang-bincang. Saya pun bergegas membuka tenda untuk menghidupkan kompor dan menyeduh teh panas. Ngobrol-ngobrol pagi membahas apakah di pagi hari itu akan langsung turun atau tetap melanjutkan ke puncak.
 
