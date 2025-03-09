@@ -1,0 +1,49 @@
+baseURL: https://nandcep.github.io
+languageCode: en-us
+pagination: 
+  pagerSize: 5
+title: nandra
+theme: ["PaperMod"]
+mainsections: ["posts"]
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+
+params:
+    defaultTheme: light
+    disableThemeToggle: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowAllPagesInArchive: true
+    ShowToc: true
+
+    homeInfoParams:
+      Title: "👋 Welcome to my weblog journal!"
+      Content: >
+        An Apple fanboy who is wondering to become an enterprise application expert. As a game changer for more than 10 years in informatics engineering which have been applied on many industries.
+        A problem solver who passionate to speak in C++, Go, Java EE, and its various components but rarely talk about these things.
+
+    socialIcons:
+      - name: github
+        title: View Source on Github
+        url: "https://github.com/nandcep"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
