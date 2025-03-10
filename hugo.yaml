@@ -44,6 +44,8 @@ params:
       - name: github
         title: View Source on Github
         url: "https://github.com/nandcep"
+      - name: Rss
+        url: "index.xml"
 
 assets:
     disableHLJS: true
