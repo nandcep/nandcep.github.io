@@ -47,8 +47,7 @@ params:
 
 assets:
     disableHLJS: true
-    favicon: "https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/assets/favicon.ico"
-
+    
 markup:
   goldmark:
     renderer:

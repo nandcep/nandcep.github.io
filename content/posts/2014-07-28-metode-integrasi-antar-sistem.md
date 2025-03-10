@@ -342,7 +342,7 @@ Web service adalah salah satu bentuk layanan yang menjadi favorit saya ketika me
 
 Dengan menggunakan web service saya juga lebih mudah untuk mengintegrasikan antar aplikasi yang dibangun dengan teknologi yang berbeda, sehingga lebih universal daripada komunikasi modular.
 
-![](https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/assets/posts/webservice.webp)
+![](https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/data/posts/webservice.webp)
 _Web Service by Wikipedia_
 
 Web Service yang biasa saya gunakan adalah dalam bentuk format XML, biasanya bertipe SOAP dan memiliki UDDI (Universal Description, Discovery, and Integration) untuk discovery layanan yang telah saya kembangkan. Sehingga pengembang lain cukup saya infokan saja UDDInya dan mereka dapat mendownload untuk diwrap sesuaikan dengan koding mereka. Dengan format XML maka semua bahasa juga lebih mudah dalam melakukan translasi, itulah kenapa web service lebih friendly untuk multi platform.
@@ -438,7 +438,7 @@ Middleware untuk integrasi atau sering juga disebut dengan ESB (Enterprise Servi
 
 Sebetulnya baik reimburse ataupun payroll, API transfer to bank yang dipanggil itu sama bahkan ledger ataupun source accountnya nya pun tidak ada beda. Namun dikarenakan aplikasi payroll menggunakan SAP sedangkan reimburse menggunakan aplikasi HRIS internal maka jika tanpa ESB kedua aplikasi harus didaftarkan sebagai klien dari API transfer ke bank.
 
-![](https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/assets/posts/why-esb.webp)
+![](https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/data/posts/why-esb.webp)
 _Credit to Tech Target_
 
 Dengan menggunakan ESB maka saya cukup mendaftarkan ESB saya sebagai klien dari API transfer ke bank. Sedangkan SAP dan HRIS tidak perlu saya masukkan sebagai klien. Lalu bagaimana cara agar SAP dan HRIS dapat transfer ke bank? Dengan ESB saya dapat mengembangkan proxy API transfer to bank lalu proxy ini yang dipanggil oleh SAP dan HRIS. Sehingga ESB bertugas menjadi agregator layanan bagi beberapa aplikasi.
