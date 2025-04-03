@@ -27,7 +27,7 @@ mv HTTPie ~/
 cd ~/HTTPie
 ```
 
-Dari perintah-perintah diatas, untuk mengakses file executable ada pada direktori ~/HTTPie. Pastikan terdapat file binary httpie. Kita dapat menjalankan HTTPie dengan mengeksekusi perintah `./httpie --no-sandbox`. 
+Dari perintah-perintah diatas untuk mempermudah akses file executable ada pada direktori ~/HTTPie. Pastikan terdapat file binary httpie. Kita dapat menjalankan HTTPie dengan mengeksekusi perintah `./httpie --no-sandbox`. 
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczN6bLMKNCEcSvHww-pvayFCZ2GE8iOaU-oQPn9vZ2v3C5wsF5VT49yh9Xx9iy7Jhig7Ttk2XiitDKbBGAH7AAhFRp2yeqB4gXmy8NPA4zSHooJY5-GaOaB4E7nZgLdDHU48W05OIYW62UIi1huE00e20Q=w2340-h1464-s-no-gm?authuser=0)
 
