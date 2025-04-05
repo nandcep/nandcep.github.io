@@ -29,8 +29,8 @@ Yang artinya GPU tidak diutilisasi secara optimal, alhasil ada glitch yang terli
 
 Metode tersebut built-in di dalam Termux Desktop, sehingga ketika install drivernya sudah auto inject. Sangat mempermudah tidak perlu effort paska instalasi untuk konfigurasi. Dampaknya berbeda karena komputasi grafis tidak lagi menggunakan CPU namun sudah menggunakan GPU.
 
-![](![](https://lh3.googleusercontent.com/pw/AP1GczPmaDeIBOueg2LdSGNwqheZ8-6eub2HP9Dixx731TCGgQPWLjIAg6K_QN_ExqsQFXSRyJ0A80xJYKXlfhbBoBlpwHA0qzQ_MqXe9bXb-XzaIKpeb6LBDtTmQGv5dTaf2Plg0ZG6ksJRcpSY1TLDXn52IQ=w2340-h1464-s-no-gm?authuser=0)
-_Run Visual Code, DataGrip, and HTTPie_)
+![](https://lh3.googleusercontent.com/pw/AP1GczPmaDeIBOueg2LdSGNwqheZ8-6eub2HP9Dixx731TCGgQPWLjIAg6K_QN_ExqsQFXSRyJ0A80xJYKXlfhbBoBlpwHA0qzQ_MqXe9bXb-XzaIKpeb6LBDtTmQGv5dTaf2Plg0ZG6ksJRcpSY1TLDXn52IQ=w2340-h1464-s-no-gm?authuser=0)
+_Run Visual Code, DataGrip, and HTTPie_
 
 Signifikan? Jelas yang pertama tidak lagi glitch dan sangat smooth, yang kedua adalah tablet saya tidak panas karena GPU juga dapat bekerja membantu CPU. Kelebihan lainnya adalah karena juga dilengkapi dengan package manager Debian maka dapat menginstall aplikasi berbasis Debian / Ubuntu.
 
