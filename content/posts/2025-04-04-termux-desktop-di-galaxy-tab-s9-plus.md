@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Termux Desktop di Galaxy Tab S9+
 date: 2025-04-04 00:00:01
 categories: []
