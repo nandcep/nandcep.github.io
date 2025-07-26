@@ -7,21 +7,21 @@ tags: [teknologi,galaxy-tab,termux,android]     # TAG names should always be low
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMY1kBoyQHOyDb4zFY3NGKS_31OydXlRNmGlYzMygML-47Oa7VJ3hB5IcyWR44KVkKTZvIuyqrmY4YlUxYOW42o65XABJzQB1YMf0jQ-bSBy2w4_uCCCud9Bx0MkeTTAPl3iRauqeLxKcU7WasWbpeztg=w2340-h1464-s-no-gm?authuser=0)
 
-Kejadian yang kurang menyenangkan ketika berlebaran dan ingin melanjutkan pekerjaan dari kampung halaman. Ubuntu yang terinstall via Termux tidak dapat mengakses menu Settings. Beberapa error juga terjadi pada Terminal sehingga sangat mengganggu pikiran serta aktivitas saya.
+Kejadian yang kurang menyenangkan ketika berlebaran dan ingin melanjutkan pekerjaan dari kampung halaman. Ubuntu yang terinstall via Termux tidak dapat mengakses menu Settings. Beberapa error juga terjadi pada Terminal sehingga mengganggu pikiran serta aktivitas saya.
 
 Setelah kembali mengingat ada 2 kemungkinan, yang pertama corrupt dan yang kedua adalah karena package update serta upgrade yang tempo lalu saya lakukan. Maka solusinya hanya satu, install ulang dan itu membuat semakin kesal karena harus mengeluarkan kuota lebih.
 
-Karena belajar dari pengalaman buruk bersama Ubuntu, maka saya mencari alternatif dengan Termux. Dari hasil pencarian, saya menemukan repositori yang menarik setelah membaca dokumentasinya. Berikut ringkasan dari pembelajaran saya.
+Karena belajar dari pengalaman buruk bersama Ubuntu, maka saya mencari alternatif dengan Termux. Dari hasil pencarian, saya menemukan repositori yang menarik setelah membaca dokumentasinya. Berikut ringkasan dari pembelajarannya.
 
 [Termux Desktop](https://github.com/sabamdarif/termux-desktop/tree/main) adalah sebuah solusi untuk mengakses Termux dalam bentuk Desktop OS. Desktop tersebut sendiri adalah alternatif user interface dari sistem operasi Android yang di mana dapat menggunakan style dari GTK. Contohnya XFCE, OpenBox, GNOME, dan lainnya.
 
-Untuk menambah fleksibilitas terhadap environmentnya pun dapat menggunakan package manager dari Debian atau Arch. Hanya dapat pilih salah satu, serta mengakses UInya tanpa menggunakan VNC yaitu menggunakan Termux X11. Ini dapat menjadi kelebihan serta juga kekurangan.
+Untuk menambah fleksibilitas terhadap environmentnya dapat menggunakan package manager dari Debian atau Arch. Hanya dapat pilih salah satu, serta mengakses UInya tanpa menggunakan VNC yaitu menggunakan Termux X11. Ini dapat menjadi kelebihan beserta kekurangan.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOOkjExuD1kwHzBGC-J9C20e-aUKLR6zSpJIymS-ltQ69Rfa_U4xPlgPzIG2MpJuZ9ti36Zkdy0MFkBFYWWVcE2XZCqj-kAkdwvrRsXRg9kgfHGjnkcjwYKqGrlTpiyc3oPD9HQ4BHCk3OExoewtzGrTA=w2340-h1464-s-no-gm?authuser=0)
 
 Apa kekurangannya? Tanpa VNC Berarti saya tidak dapat remote melalui jaringan yang sama pada perangkat lain. _And absolutely, that is suck_. Kelebihannya dengan Termux X11 berarti ringan dan ringkas tanpa memakan bandwith. _So fortunately, that is amazing_.
 
-Perbedan lainnya, jika menggunakan OS lain di atas Termux (yaitu lewat proot seperti yang saya lakukan sebelumnya bersama Ubuntu), di mana berbagi resource. Ternyata saya baru paham yang dibagi adalah kemampuan computing CPU dan sisanya adalah emulasi.
+Perbedaan lainnya, jika menggunakan OS lain di atas Termux (yaitu lewat proot seperti yang saya lakukan sebelumnya bersama Ubuntu), di mana berbagi resource. Ternyata saya baru paham yang dibagi adalah kemampuan computing CPU dan sisanya adalah emulasi.
 
 > Pantas saja ketika melakukan remote tunnel sering putus apalagi ketika sedang proses yang membutuhkan resource besar seperti Java, langsung diterminate oleh Phantom
 
