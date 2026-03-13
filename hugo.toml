@@ -2,3 +2,70 @@ baseURL = 'https://nandcep.github.io/'
 languageCode = 'en-us'
 title = 'nandra'
 theme = "minimo"
+Paginate = 5
+preserveTaxonomyNames = true
+defaultContentLanguage = "en"
+pygmentsCodefences = true
+enableEmoji = true
+enableRobotsTXT = true # generate robots.txt
+
+[params.info]
+description = "Personal weblog"
+title404 = "Nothing's here!"
+
+[params.copyright]
+prefix = ""
+holder = "nandra"
+startYear = "2014"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"]
+hideEntryMeta = ["page"]
+showReadingTime = true
+showLastmod = true
+taxonomyCloudShuffle = true
+accentColor = "#ffcd00"
+hideMainMenu = true
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+header = ["breadcrumbs"]
+homepage = ["recent_posts"]
+sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+footer = ["social_menu"]
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "—"
+
+[params.comments]
+enable = false
+
+[params.search]
+client = "fuse" # algolia / fuse / lunr
+
+[params.search.algolia]
+appId = ""
+indexName = ""
+searchApiKey = ""
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+[params.social]
+github = "nandcep"
+instagram = "nandcep"
+linkedin = "adinandra-dharmasurya"
