@@ -1,0 +1,4 @@
+baseURL = 'https://nandcep.github.io/'
+languageCode = 'en-us'
+title = 'nandra'
+theme = "minimo"
