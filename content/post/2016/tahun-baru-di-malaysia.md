@@ -4,7 +4,7 @@ lastmod: 2016-01-01T00:01:30+07:00
 authors: ["nandra"]
 title: Tahun Baru di Malaysia
 slug: tahun-baru-di-malaysia
-tags: [travel]
+tags: [karir]
 ---
 
 Freshly pressed dan benar-benar real time post di malam tahun baru yang spesial ini. Happy new year all, tidak terasa sudah 2016! Awal tahun masih dengan cerita tentang kerjaan yang tidak pernah ada habisnya di Malaysia. Semoga dapat mengimbangi ritmenya, karena mengejar calon klien pasti hectic.
