@@ -12,7 +12,7 @@ Credit to Unsplash
 
 Beberapa hari yang lalu saya membaca [artikel](https://www.travisluong.com/fastapi-vs-fastify-vs-spring-boot-vs-gin-benchmark/) yang dishare pada group Telegram JVM Indonesia, topiknya menarik perhatian saya karena membahas tentang perbandingan performance (*benchmark*) antar database driver untuk framework per masing-masing bahasa pemrograman.
 
-> Silakan dibaca terlebih dahulu artikel tersebut dan setelah membaca artikel tersebut, namun saya tidak akan membahas serta memprovokasi agar melirik bahasa pemrogramannya. {: prompt-info }
+> Silakan dibaca terlebih dahulu artikel tersebut dan setelah membaca artikel tersebut, namun saya tidak akan membahas serta memprovokasi agar melirik bahasa pemrogramannya
 > 
 
 Saya lebih tertarik untuk menelisik di bagian Spring Data JDBC yang memiliki performance optimal. Menjadi pertanyaan untuk beberapa orang kenapa Spring Data JDBC membuat aplikasi memiliki performa yang lebih optimal dibandingkan dengan menggunakan Spring Data JPA.
