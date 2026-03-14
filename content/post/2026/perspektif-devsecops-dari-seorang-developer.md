@@ -1,6 +1,6 @@
 ---
-date: 2026-01-10T00:01:00+07:00
-lastmod: 2026-01-10T00:01:30+07:00
+date: 2026-01-16T00:01:00+07:00
+lastmod: 2026-01-16T00:01:30+07:00
 authors: ["nandra"]
 title: Perspektif DevSecOps dari Seorang Developer
 slug: perspektif-devsecops-dari-seorang-developer
