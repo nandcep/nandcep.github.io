@@ -56,7 +56,7 @@ Berikut adalah daftar tempat dan alamat kami berkuliner:
 
 📍 **Zangrandi**
 
-Jl. Yos Sudarso No. 15, Embong Kaliasin, Genteng, Surabaya https://goo.gl/maps/iDTyxphLZS41PzxL8
+Jl. Yos Sudarso No. 15, Embong Kaliasin, Genteng, Surabaya []()https://goo.gl/maps/iDTyxphLZS41PzxL8
 
 📍 **Hok Lay**
 
