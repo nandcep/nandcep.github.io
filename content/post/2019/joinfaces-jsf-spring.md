@@ -7,7 +7,7 @@ slug: joinfaces-jsf-spring
 tags: [programming]
 ---
 
-!![](https://journaldev.nyc3.cdn.digitaloceanspaces.com/2015/04/JSF-Tutorial.png)
+![](https://journaldev.nyc3.cdn.digitaloceanspaces.com/2015/04/JSF-Tutorial.png)
 
 Credit to Digital Ocean
 
