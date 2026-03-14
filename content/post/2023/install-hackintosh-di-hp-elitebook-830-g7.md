@@ -4,7 +4,7 @@ lastmod: 2023-02-18T00:01:30+07:00
 authors: ["nandra"]
 title: Install Hackintosh di HP Elitebook 830 G7
 slug: install-hackintosh-di-hp-elitebook-830-g7
-tags: [arsitektur]
+tags: [technology]
 ---
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczM56AejlyYgRVtsOXtbGwwbF7OTj3miUd0zdgb7BdTGcSsdqAgF8o9pyn_TMhRZHj2QNuYClVu_DH42KpZRjJUoVOuFkoeWK4lyagPt6absScvj3vGhM1E7mAtzCGU0GVku7hko9WgpPQ6ZzqJ14UaX4Q=w2628-h1478-s-no?authuser=0)
