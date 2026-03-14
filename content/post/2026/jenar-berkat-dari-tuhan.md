@@ -5,7 +5,6 @@ authors: ["nandra"]
 title: Jenar, Berkat dari Tuhan
 slug: jenar-berkat-dari-tuhan
 tags: [kasih]
-draft: true
 ---
 
 ![image.png](assets/jenar-berkat-dari-tuhan/usg.png)
