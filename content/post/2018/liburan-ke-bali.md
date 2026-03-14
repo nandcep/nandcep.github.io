@@ -18,7 +18,6 @@ Sebal sekali sesampainya di Bandara justru koper saya rusak. Karet roda terlepas
 # Nasi Tekor
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMCvr7ga3C8UIBmWNq7_w6Rcn23eaMtpEtVC0gUy9m7OK5Dh2DdPj7Iqo30pFTfHb9oGozMocmgqCfM-y-K-ZRGGIS73zuhCZyBAbQ-pft6PsS0hwhMcXy8ShcldIGxeq4WF5tWXht4210X3D2l-qemJw=w1394-h784-s-no-gm?authuser=0)
-
 Credit to Ari Adiprana
 
 Di tempat ini pemiliknya sepasang suami isteri yang sangat ramah. Suasana tradisional dan cukup rindang karena banyak pohon. Makanan yang disajikan pun enak sekali, khususnya sate lilit ayamnya. Lengkap dengan sayurnya dengan rasa rempah dan sambalnya sedikit pedas khas makanan Bali. Kami juga menyempatkan foto bersama bapak pemilik tempat kedai sebagai tanda kenang-kenangan pernah mampir. Sarapan di tempat ini ketika pagi merupakan keputusan yang tepat karena masih sepi pengunjung.
