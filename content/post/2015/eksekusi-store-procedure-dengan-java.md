@@ -4,7 +4,7 @@ lastmod: 2015-07-25T00:01:30+07:00
 authors: ["nandra"]
 title: Eksekusi Store Procedure dengan Java
 slug: eksekusi-store-procedure-dengan-java
-tags: [pemrograman]
+tags: [programming]
 ---
 
 Berhubung minggu malam hujan deras dan di kosan, akhirnya saya iseng membuka IDE di MacBook yang lama tidak tersentuh. Tema coding pada tulisan ini adalah eksekusi stored procedure menggunakan Java. Java memiliki kemampuan untuk eksekusi store procedure dengan dukungan pustaka JDBC.
