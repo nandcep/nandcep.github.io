@@ -33,7 +33,6 @@ The common scenario to describe the situation of multi-thread deadlock is when a
 > 
 
 ![](https://images.unsplash.com/photo-1605776988089-105148e14767?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
 Photo by shun idota on Unsplash
 
 # The Reactive Manifesto
@@ -43,7 +42,6 @@ In the mid of 2014, some of agile engineer around the world are spending their e
 Reactive can also can handle traditional sequential process if needed. The data that will be proceed between components is a message called as stream, not a bundle of an object. As the manifesto said.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hwlFyYj9nIqVPdM-lqNtdQ.png)
-
 Criteria of Reactive
 
 Reactive is about non-blocking, event-driven applications that scale with a small number of threads without feels to worry lost the result due have a recurring task check (*backpressure*) as a key ingredient that aims to ensure producers are not overwhelming the consumers so it has *elastic* and *resilient* criteria.
@@ -55,10 +53,7 @@ Systems built as Reactive Systems are more flexible, loosely-coupled and scalabl
 For the advance usage usually the request from client is halted in a queue called **thread pool**. The painful fact of this mechanism, actually the process *is not so concurrent — not so async* because the thread should be freed first and will be locked to do another request. This mechanism can be specified as blocking even each request handled by different thread.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*YukRI0yXppMMEnG4uA5qXw.png)
-
-Multiple Threads still a Blocking from
-
-[Quarkus](https://quarkus.io/guides/getting-started-reactive)
+Multiple Threads still a Blocking from [Quarkus](https://quarkus.io/guides/getting-started-reactive)
 
 TL;DR; we do not have to be confused by how reactive can be a non-blocking, asynchronous, and become more efficient if compared to multi-thread. Reactive systems depends on IO for signaling process in message driven, rather than put the operation to be queued in a multiple thread. In a modern age by default our operating system could utilize IO stack (storage, network, processor, database, etc) that provided by its kernel.
 
@@ -67,7 +62,6 @@ Even our apps is running in a single core processor, by using reactive mechanism
 So it is just like the client acting as a busy consumer who order then the IO as a producer who will address the client’s request and notify the result as a callback. Thanks for the evolving computation architecture that become more efficient in every decade.
 
 ![](https://miro.medium.com/v2/resize:fit:1276/format:webp/1*Te1HNFdDpgCn9ImQivtwRA.jpeg)
-
 https://stackoverflow.com/questions/32373645/node-js-non-blocking-io-vs-java-thread-pool-pattern-using-nio-unclear-scheduli
 
 > Most non-blocking frameworks use an infinite loop that constantly checks (polls) if data is returned from IO. This is often called as event loop.
