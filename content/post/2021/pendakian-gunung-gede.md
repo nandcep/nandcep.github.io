@@ -1,6 +1,6 @@
 ---
-date: 2021-08-21T00:01:00+07:00
-lastmod: 2021-08-21T00:01:30+07:00
+date: 2021-08-01T00:01:00+07:00
+lastmod: 2021-08-01T00:01:30+07:00
 authors: ["nandra"]
 title: Pendakian Gunung Gede
 slug: pendakian-gunung-gede
