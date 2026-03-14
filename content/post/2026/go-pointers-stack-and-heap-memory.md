@@ -39,7 +39,7 @@ NULL atau Nil adalah teman, namun tidak bagi saya. Saya selalu paranoid dengan d
 
 Intinya saya menjadi suka insecure apabila ada variable berseliweran namun tidak dicek keberadaannya. Ditambah developer dari vendor tidak menambahkan pointers yang akhirnya membuat aplikasi sering crash. Namun saya menjadi sadar saya terlalu polos melihat Go sebagai bahasa primitif, ternyata memang pengalaman saya kurang. Go sangat lengkap.
 
-Di Go sudah menyediakan beberapa Struct yang dapat digunakan untuk hal sepele mengecek variable kosong atau tidak. Katakanlah sql.NullString, sql.NullInt64, atau sql.NullFloat64. Dengan memanfaatkan beberapa beberapa pustaka lain untuk value check ternyata membuat efektivitas memori menjadi lebih baik dan level paranoid saya menurun.
+Di Go sudah menyediakan beberapa Struct yang dapat digunakan untuk hal sepele mengecek variable kosong atau tidak. Katakanlah `sql.NullString`, `sql.NullInt64`, atau `sql.NullFloat64`. Dengan memanfaatkan beberapa beberapa pustaka lain untuk value check ternyata membuat efektivitas memori menjadi lebih baik dan level paranoid saya menurun.
 
 # Kesimpulan
 
@@ -59,6 +59,6 @@ Jadi tidak instan, banyak belajar dari kesalahan dengan berkali-kali deploy deng
 | Observasi |
 | --- |
 | Menggunakan Go Tools pprof (Program Profiler) untuk analisis atau memprofile CPU, memory, goroutine, dsb. Singkatnya seperti stetoskop sebelum saya build aplikasinya dan deploy harus checklist apakah semua di atas minimum threshold standar performa. |
-| Menggunakan flags seperti -gcflags dan GODEBUG untuk cek escape analysis ketika source code dicompile dan cek performa Garbage Collector ketika aplikasi berjalan. |
+| Menggunakan flags seperti `-gcflags` dan `GODEBUG` untuk cek escape analysis ketika source code dicompile dan cek performa Garbage Collector ketika aplikasi berjalan. |
 | Membuat Benchmark dan dikombinasi dengan benchmark memory agar lebih firm secara statisik alokasi memori dengan B/op (bytes per operation) dan alloc/ops untuk cek seberapa banyak yang berjalan di Stack. |
 | 3 poin di atas adalah preventive. Last but not least perlu juga langkah corrective yaitu pasang agent atau tracing di aplikasi dan juga server non-functional testing lalu hajar stress tests. |
