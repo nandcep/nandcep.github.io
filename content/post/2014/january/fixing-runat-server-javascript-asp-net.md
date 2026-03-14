@@ -1,6 +1,6 @@
 ---
 date: 2014-01-03T00:01:00+07:00
-lastmod: 2014-01-03T00:01:00+07:00
+lastmod: 2014-01-03T00:01:30+07:00
 authors: ["nandra"]
 title: Fixing Runat Server Javascript ASP.NET
 slug: fixing-runat-server-javascript-asp-net
