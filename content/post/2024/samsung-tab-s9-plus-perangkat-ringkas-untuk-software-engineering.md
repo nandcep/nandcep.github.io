@@ -1,6 +1,6 @@
 ---
-date: 2023-02-18T00:01:00+07:00
-lastmod: 2023-02-18T00:01:30+07:00
+date: 2024-12-02T00:01:00+07:00
+lastmod: 2024-12-02T00:01:30+07:00
 authors: ["nandra"]
 title: Samsung Tab S9+, Perangkat Ringkas untuk Software Engineering
 slug: samsung-tab-s9-plus-perangkat-ringkas-untuk-software-engineering
