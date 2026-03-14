@@ -37,16 +37,15 @@ Data yang diperoleh dari REST URL tersebut berbentuk JSON seperti di bawah ini:
 
 ```json
 {
- data : [
-  {id : 1, customer: 'PT Brantas', revenue : '18500000000.00'},
-  {id : 2, customer: 'PT Ardhaya Bima', revenue : '22305000000.00'},
-  {id : 3, customer: 'CV Satelit Inovasi', revenue : '1530000105.00'},
-  {id : 4, customer: 'PT Indo Persada', revenue : '71200002400.00'},
-  {id : 5, customer: 'PT Malika Sari', revenue : '25100300.00'},
-  {id : 6, customer: 'CV Rempoa Kholis', revenue : '1400502.00'}
- ]
+    data: [
+        { id: 1, customer: 'PT Brantas', revenue: '18500000000.00' },
+        { id: 2, customer: 'PT Ardhaya Bima', revenue: '22305000000.00' },
+        { id: 3, customer: 'CV Satelit Inovasi', revenue: '1530000105.00' },
+        { id: 4, customer: 'PT Indo Persada', revenue: '71200002400.00' },
+        { id: 5, customer: 'PT Malika Sari', revenue: '25100300.00' },
+        { id: 6, customer: 'CV Rempoa Kholis', revenue: '1400502.00' }
+    ]
 }
-
 ```
 
 # Report Parameter
