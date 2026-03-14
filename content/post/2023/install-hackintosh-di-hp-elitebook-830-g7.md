@@ -100,5 +100,5 @@ Tetapi agak bingung juga ketika meeting dengan keluarga ataupun conference call 
 
 Apabila memiliki perangkat yang sama maka dapat mengunduh EFI dari repositori saya dan copy folder EFInya ke dalam partisi EFI, jangan lupa untuk generate serial number di SMBIOS pada config.plist sebelum memulai. Bootloader telah saya hias sedemikan rupa sehingga tidak terlalu terasa console di mata.
 
-!![](https://raw.githubusercontent.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7/refs/heads/master/banner.jpg)
+![](https://raw.githubusercontent.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7/refs/heads/master/banner.jpg)
 Sukses Install Big Sur di HP Elitebook 830 G7
