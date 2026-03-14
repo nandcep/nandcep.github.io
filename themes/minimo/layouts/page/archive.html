@@ -14,7 +14,24 @@
     <h3>{{ .Key }}</h3>
     <ul class='list'>
       {{ range  .Pages }}
-        {{ .Render "li.archive" }}
+        <li class='item'>
+          <div class='meta'>
+            {{- $dateFormat := ( .Site.Params.settings.archiveDateFormat | default "Jan 02" ) -}}
+            <span>
+              <span class='screen-reader-text'>{{ i18n "postedOn" }} </span>
+              <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+                {{- .Date.Format $dateFormat -}}
+              </time>
+            </span>
+          </div>
+          <header class='item-header'>
+            <h4 class='item-title'>
+              <a href='{{ .Permalink | relURL }}'>
+                {{- .Title -}}
+              </a>
+            </h4>
+          </header>
+        </li>
       {{ end }}
     </ul>
   </div>
