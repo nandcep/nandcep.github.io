@@ -4,7 +4,7 @@ lastmod: 2020-05-02T00:01:30+07:00
 authors: ["nandra"]
 title: Mencoba Macintosh System 7
 slug: mencoba-macintosh-system-7
-tags: [programming]
+tags: [technology]
 ---
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOegCnMVXOL2xot50F_rahcfQsswSPw33DBqUbzcKkW4hUSFi7_pEksMUSAvmQ_A0prOgw8egp0h2Pm3syyi4uHkktxbO5hGLHnH0SSyxlF_0uPLzE5TlW_2_om56lP0_biaFwWjaqqaejod7h_eiKZlA=w700-h437-s-no-gm?authuser=0)
