@@ -1,6 +1,6 @@
 ---
 date: 2025-04-03T00:01:00+07:00
-lastmod: 2023-04-03T00:01:30+07:00
+lastmod: 2025-04-03T00:01:30+07:00
 authors: ["nandra"]
 title: Install AppImage Debian di Termux
 slug: install-appimage-debian-di-termux
