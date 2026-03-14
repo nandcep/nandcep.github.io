@@ -9,7 +9,7 @@ tags: [technology]
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMNgFlVxt1V8RMVGXBFzNXU6HJTdsVVtxABvHfHIdeFFXbc9UA6tDYbsEDWxPHy2G3Xs1xZAa_BiT2tOhK89Q0mPYn2mf0eD2JMChhB6kkfSFx9H4pXiA5sCys4q8dkYfoL-w54jf0a1_2s17_wnFl9nw=w1280-h800-s-no?authuser=0)
 
-Akhirnya saya dapat install BMC AR Developer Studio di Mac OS dan menjalankannya secara native. MacBook saya terinstall OS X El-Capitan. Pada dasarnya BMC AR Developer Studio adalah sebuah IDE yang berbasiskan Eclipse. Jadi untuk menyeusaikan versi 9.1 setidaknya saya membutuhkan Eclipse dengan versi 4.5 atau dengan kode “Mars”
+Akhirnya saya dapat install BMC AR Developer Studio di Mac OS dan menjalankannya secara native. MacBook saya terinstall OS X El-Capitan. Pada dasarnya BMC AR Developer Studio adalah sebuah IDE yang berbasiskan Eclipse. Jadi untuk menyesuaikan versi 9.1 setidaknya saya membutuhkan Eclipse dengan versi 4.5 atau dengan kode “Mars”
 
 Ide orisinil saya mendapatkannya dari forum BMC di [sini](https://communities.bmc.com/ideas/2032). Lalu bagaimana cara saya melakukan instalasinya? Posting ini juga berfungsi sebagai backup seandainya artikel pada forum tersebut dihapus atau hilang:
 
