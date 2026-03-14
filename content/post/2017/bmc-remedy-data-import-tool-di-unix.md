@@ -1,6 +1,6 @@
 ---
-date: 2017-07-20T00:01:00+07:00
-lastmod: 2017-07-20T00:01:30+07:00
+date: 2017-06-20T00:01:00+07:00
+lastmod: 2017-06-20T00:01:30+07:00
 authors: ["nandra"]
 title: BMC Remedy Data Import Tool di UNIX
 slug: bmc-remedy-data-import-tool-di-unix
