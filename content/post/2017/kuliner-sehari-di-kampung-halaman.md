@@ -91,6 +91,6 @@ Selain itu juga terdapat sate yang dapat menjadi pelengkap soto. Kuah kuning den
 
 Dalam sehari sudah 6 masakan tersebut yang dapat saya coba di Salatiga. Tapi saya berani meyakinkan bahwa masih banyak sekali kuliner lain di Salatiga yang pastinya dapat diulas serta sangat direkomendasikan seandainya ada kesempatan sehari lagi. Budget kuliner sehari versi saya membutuhkan budget kurang dari seratus ribu rupiah dengan rincian sebagai berikut:
 
-{{< gist nandcep 451fc16cfc61e5c0df0d57cc8d417ea7 >}}}
+{{< gist nandcep 451fc16cfc61e5c0df0d57cc8d417ea7 >}}
 
 Jadi sudah dapat dibayangkan bukan istimewanya kuliner Salatiga? Selain enak dan bersih yaitu murah meriah. Tidak akan menyesal meskipun hanya punya waktu sehari memutari jajanan di kota Salatiga. Sekian dari saya dan terimakasih, salam.
