@@ -7,14 +7,14 @@ slug: bmc-remedy-data-import-tool-di-unix
 tags: [technology]
 ---
 
-Tulisan ini dibuat karena klien punya kebutuhan untuk custom development pada BMC Remedy untuk bulk upload dari CSV dan diproses oleh AR Server secara real-time. Sebetulnya di BMC Remedy secara *out of the box* memiliki fitur data import menggunakan Pentaho Spoon. Dengan membuat job dan dieksekusi melalui script atau run manual di Pentaho.
+Klien saya punya kebutuhan untuk custom development pada BMC Remedy untuk bulk upload dari CSV dan diproses oleh AR Server secara real-time. Di BMC Remedy secara *out of the box* memiliki fitur data import menggunakan Pentaho Spoon. Dengan membuat job dan dieksekusi melalui script atau run manual di Pentaho.
 
 > Sebagai alternatif lain adalah dengan menggunakan command line di Sistem Operasi lewat executable dataimport.
 > 
 
-Sesuai kebutuhan di site mengharuskan saya untuk mengembangkan executable dataimport agar dapat tereksekusi melalui filter dengan event ketika user selesai upload file CSVnya. Jika menggunakan sistem operasi Microsoft Windows maka dapat memanfaatkan file `dataimport.bat` yang berada di `[AR System directory]\DataImportTools`.
+Sesuai kebutuhan mengharuskan untuk mengembangkan executable `dataimport` agar tereksekusi melalui filter event ketika user selesai upload file CSVnya. Jika menggunakan sistem operasi Microsoft Windows maka dapat memanfaatkan file `dataimport.bat` yang berada di `[AR System directory]\DataImportTools`.
 
-Sedangkan jika menggunakan sistem operasi berbasis UNIX maka harus membuat Shellscript terlebih dahulu. Dikarenakan DataImportTools tidak tersedia di instalasi ARSystem untuk sistem operasi UNIX. Saya mengikuti tutorial dari link [berikut](https://docs.bmc.com/docs/display/public/ars81/Enabling+the+Data+Import+utility%22). Langkah-langkah prasyarat yang dibutuhkan terlampir:
+Sedangkan untuk sistem operasi UNIX harus membuat Shellscript terlebih dahulu. Dikarenakan `DataImportTools` tidak tersedia di instalasi ARSystem UNIX. Saya mengikuti tutorial dari link [berikut](https://docs.bmc.com/docs/display/public/ars81/Enabling+the+Data+Import+utility%22). Langkah-langkah yang dibutuhkan sebagai berikut:
 
 1. Di direktori instalasi AR System buat direktori baru dengan nama DataImport.
 2. Buat sebuah shellscript pada direktori baru tersebut dengan nama semisal `dataimport.sh`.
