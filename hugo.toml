@@ -10,7 +10,7 @@ enableEmoji = true
 enableRobotsTXT = true # generate robots.txt
 
 [params.info]
-description = "Personal weblog"
+description = "personal weblog"
 title404 = "Nothing's here!"
 
 [params.copyright]
@@ -29,7 +29,7 @@ hideEntryMeta = ["page"]
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
+accentColor = "#81a5f2d1"
 hideMainMenu = true
 
 [params.sidebar]
