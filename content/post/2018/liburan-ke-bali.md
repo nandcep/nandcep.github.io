@@ -7,8 +7,6 @@ slug: liburan-ke-bali
 tags: [travel]
 ---
 
-**Daftar Isi**
-
 ![](https://lh3.googleusercontent.com/pw/AP1GczM8s1D0R59MBdLM81F3e-T3IQ4LOq7KoHiuB3804MmIisCZNW_Wyn5e2iawjKlNPD9LR5gpWlhkjSqtNvkisao2jzh4fA8UoPbazlyGLjclvk7Ba3LoP6M55_-etrq0Yo1Qy-Pn6XKzSeU9490s4adC=w1394-h929-s-no-gm?authuser=0)
 
 Di bulan September yang lalu rencana berlibur ke Bali bersama “anak komplek” akhirnya dapat direalisasikan. Setelah sempat mundur 2 bulan dari rencana awal karena susahnya mengumpulkan anggota. Apalagi saya juga dikejar deadline di kantor. Sempat mengubur keinginan untuk jalan-jalan jika harus pergi tanpa Grace yang sedang sakit. Namun setelah mendapat restu dari Grace dan deadline yang sukses terpenuhi, saya pun langsung memberi kabar anak komplek dapat ikut ke Bali.
