@@ -56,7 +56,7 @@ Kami berfoto ria hingga pukul 08.00. Tidak lupa agar perjalanan pulang perut sud
 
 Beberapa warga di sekitar gunung Andong ketika subuh sudah mulai beraktivitas dan ada yang berjualan di puncak untuk menyediakan jajanan bagi para pengunjung, sehingga cukup praktis apabila ingin membeli makanan dan minuman. Sekitar pukul 10.00 kami sudah packing dan siap menurunkan tenda, untuk selanjutnya dimasukkan ke dalam tas.
 
-[](https://lh3.googleusercontent.com/pw/AP1GczNzpzRhqKQYB_VwVTNpE_w-89R6PN5lbUjOg2DpjHYLQPDBG_ndKjtuHZnHMnfpLq9PdG2MwkqGShQHwfSnnNiS70L1WPVlCh4TLPWZ-l_ih4ruw5HRtnPRsGMomdwZVibdsBN8b8VQGLxrp9Sq59MBpw=w2056-h1370-s-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNzpzRhqKQYB_VwVTNpE_w-89R6PN5lbUjOg2DpjHYLQPDBG_ndKjtuHZnHMnfpLq9PdG2MwkqGShQHwfSnnNiS70L1WPVlCh4TLPWZ-l_ih4ruw5HRtnPRsGMomdwZVibdsBN8b8VQGLxrp9Sq59MBpw=w2056-h1370-s-no?authuser=0)
 
 Selesai packing dan memasukkan tenda lalu mengecek apakah tidak ada barang yang tertinggal, kami bergegas turun menuju basecamp. Ternyata perjalanan pulang jauh lebih cepat daripada perjalanan berangkat. Hanya saja lutut dan kaki harus lebih seimbang menopang berat badan ketika turun agar tergelincir atau terpeleset.
 
@@ -73,7 +73,7 @@ Mas Tonny tampaknya sudah sangat tergesa-gesa karena ada janji sehingga di tenga
 
 Ketika meluruskan kaki di basecamp tampak lutut saya bergetar karena kecapaian saat menahan berat badan. Saya juga menyempatkan untuk membersihkan badan dan membeli es jeruk agar lebih bugar.
 
-[](https://lh3.googleusercontent.com/pw/AP1GczMH3Wdh9M3RKyJnUOM_wW9wshNpnelWgChn457l6v2bl1Iytu9DvSgUbQ8-5QQimiJU4qyjwdWuZlLa7RKGH2Pm9_5JxbwtMbzfv_m978QHrR6lpzsNtZ5oqnfWdZGH78uBYpJNjMa6ZkBNrNU5NXD1FQ=w2056-h1370-s-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMH3Wdh9M3RKyJnUOM_wW9wshNpnelWgChn457l6v2bl1Iytu9DvSgUbQ8-5QQimiJU4qyjwdWuZlLa7RKGH2Pm9_5JxbwtMbzfv_m978QHrR6lpzsNtZ5oqnfWdZGH78uBYpJNjMa6ZkBNrNU5NXD1FQ=w2056-h1370-s-no?authuser=0)
 
 Pukul 12.30 kami berdua segera pulang ke rumah karena sudah ditunggu keluarga. Ada yang menarik tentang pendakian di gunung Andong yaitu adalah selama perjalanan tetap ada sinyal seluler yang masuk. Berbeda sekali dengan gunung Merbabu yang benar-benar tidak ada sinyal. Dan ternyata itu karena di puncak gunung Andong dan sekitarnya memang telah dibangun BTS bagi warga sekitar Kopeng dan Ngablak agar tetap dapat berkomunikasi.
 
