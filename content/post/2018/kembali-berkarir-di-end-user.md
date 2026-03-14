@@ -10,9 +10,9 @@ tags: [karir]
 ![](https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 Credit to Unsplash
 
-Karena sekarang sudah aktif lagi Instagram justru blog saya yang akhirnya terlantar dan jarang diupdate. Padahal beberapa draft telah disiapkan dari sebulan lalu coretan-coretannya. Tidak terasa juga sudah hampir 2 tahun semenjak saya pulang dari Malaysia dan kembali ke Indonesia untuk pindah ke perusahaan yang sekarang di salah satu top consulting Indonesia.
+Karena sekarang sudah aktif lagi Instagram justru blog saya yang akhirnya terlantar dan jarang diupdate. Padahal beberapa draft telah disiapkan dari sebulan lalu coretan-coretannya. Tidak terasa juga sudah hampir 2 tahun semenjak saya pulang dari Malaysia dan kembali ke Indonesia pindah di salah satu top technology consulting.
 
-Hidup itu susah ditebak tapi tetap saja harus direncanakan. Memang ketika memutuskan untuk pulang ke negeri sendiri saya punya maksud dan rencana yang harus segera dilaksanakan. Namun ternyata tidak semua eksekusi rencana semulus yang dibayangkan. Mulai dari rencana upgrade kamera yang harus dipending, menahan beli gadget terkini, plan settle kehidupan di Jakarta mendapatkan hunian, dan akhirnya justru harus kembali “sendiri”.
+Hidup susah ditebak tapi tetap harus direncanakan. Ketika memutuskan pulang saya punya maksud dan rencana yang harus dilaksanakan. Namun tidak semua eksekusi rencana semulus yang dibayangkan. Mulai dari rencana upgrade kamera yang dipending, menahan beli gadget, plan settle berkeluarga, dan akhirnya justru harus kembali “sendiri”.
 
 Saya menikmati benar setiap proses baik yang berhasil maupun harus terseok-seok ketika diimplementasikan. Untuk pekerjaan sendiri sudah banyak kemajuan bahkan sekarang telah menjadi zona nyaman, suatu hal yang paling saya benci sebetulnya.
 
