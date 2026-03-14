@@ -105,7 +105,7 @@ Padahal aplikasi tersebut juga pembuat awalnya dari partner yang dimaksud. Karen
 
 Dari hal tersebut atasan saya mengajukan perlunya kebutuhan upgrade yang harus dapat diidentifikasi lewat temuan dalam waktu singkat yaitu menit lewat CI/CD pipeline dan diselesaikan saat itu juga dengan update komponen. Tidak lagi menjadi effort di kemudian hari karena menjadi bagian dari delivery sekaligus dapat fokus dengan fitur baru.
 
-# DevSecOps: Kebiasaan adalah Kecepatan
+# 🏃🏻‍♂️ DevSecOps: Kebiasaan adalah Kecepatan
 
 Kecepatan delivery di dalam DevSecOps sangat dipengaruhi oleh kebiasaan. Di mana kecepatan sangat bergantung dari best practice engineering. Misal unit tests maka saya diharuskan suka dengan Test Driven Development (TDD), menjalankan Git strategy dengan sebelumnya memahami model Trunk Based Development (TBD), dan hemat waktu dengan templating. 
 
