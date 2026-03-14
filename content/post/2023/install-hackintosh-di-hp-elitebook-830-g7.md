@@ -78,11 +78,11 @@ Setelah saya pertimbangkan dengan matang akhirnya memutuskan untuk hijrah tetap 
 
 Menurut pengamatan saya pada beberapa sistem operasi macOS terakhir secara berturut-turut Apple support secara penuh yaitu 3 tahun semenjak pertama kali diluncurkan. Sehingga prediksi di akhir tahun 2023 maka adalah masa akhir dari Big Sur.
 
-Semua hal yang berfungsi dan tidak berfungsi telah saya lampirkan pada repositori, namun sebagai catatan utama turut kembali dicantumkan pada tulisan ini. Fitur Berfungsi:
+Semua hal yang berfungsi dan tidak berfungsi telah saya lampirkan pada repositori, namun sebagai catatan utama turut kembali dicantumkan pada tulisan ini. Fitur yang berfungsi:
 
 {{< gist nandcep b55161a07621f32f305c6642aea992ad >}}
 
-Fitur Belum Berfungsi
+Fitur belum berfungsi
 
 ```
 ⛔️ Internal Microphone (Permasalahan Intel SST)
