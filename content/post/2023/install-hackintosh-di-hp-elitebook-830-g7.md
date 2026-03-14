@@ -21,7 +21,6 @@ Distro atau pengembangnya dari installernya cukup bervarian. Kalyway, iDeneb, Ja
 Kalau tidak salah saya membeli DVD tersebut dengan harga Rp 75.000,- dan transfer via BRI. Seminggu kemudian paket pos sudah sampai. Karena kebetulan kakak saya telah selesai magang dan sibuk menyusun skripsi menggunakan ASP.NET di laptopnya, maka PC di rumah dengan leluasa saya gunakan sebagai tempat percobaan.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczO3FhKjPG1xZ9y2ROB6hCn2hQyFiFccDMfn4IOUk15SXp4Yg_5-_reZ95saIFjRPB_GYnR1ksciEUpDiZdzrnkB3AQPW0bfqrCJ4UM-MbYHz5DEW-p6c9QCCp_qUWH05OBBCzxADjgDyJv1Ipv_3SPVBQ=w720-h540-s-no?authuser=0)
-
 Kalyway 10.5.2 Hackintosh Pertama
 
 PC yang saya gunakan saat itu dibeli dan dirakit sendiri oleh kakak pada tahun 2007, karena kebetulan kuliah di bidang elektronika maka lebih sering menggunakan sistem berbasis Windows dengan spesifikasi yang dapat dibilang mid-end pada jamannya. Berikut spesifikasi dari PC tersebut :
@@ -40,7 +39,6 @@ Singkat cerita akhirnya berhasil menginstal Mac OS X berbekal panduan dengan dis
 PC Hackintosh Core 2 Duo berserta Mac PPC G4 sangat berjasa menghantarkan saya untuk meraih gelar sarjana dan dipensiunkan tepat ketika memasuki dunia kerja. Singkat cerita setelah bekerja saya memutuskan mengambil paket dari kantor yaitu MacBook Pro MD101 dan iPhone 5 di awal tahun 2013 sehingga semenjak itu tidak lagi menyentuh Hackintosh.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMYDmmJHKMkf64SIdSc0pi0IpYwqz92pAkePfKn-4UhvkDSy4VVytTMzEicK3i0yIAx7BdNnwQH7pS7Qx8eefY8w2RxKOYhXGYOS6W_EcbkQ8XqbJMWpP483WZias71lsmV60RkHuUuL7W29k-8LbVDGg=w720-h540-s-no?authuser=0)
-
 Hazard 10.6.2 dengan Basillisk VM Running System 7.5
 
 Apple sangat identik dengan presisi dan optimal. Entah kenapa selalu terasa pas dan “ngacir”. Begitu juga ketika saya menggunakan Hackintosh, meskipun penuh dengan keterbatasan pada perangkat keras tetapi entah kenapa terasa sangat halus performanya ketika menggunakan Mac OS X ketimbang Windows.
@@ -103,5 +101,4 @@ Tetapi agak bingung juga ketika meeting dengan keluarga ataupun conference call 
 Apabila memiliki perangkat yang sama maka dapat mengunduh EFI dari repositori saya dan copy folder EFInya ke dalam partisi EFI, jangan lupa untuk generate serial number di SMBIOS pada config.plist sebelum memulai. Bootloader telah saya hias sedemikan rupa sehingga tidak terlalu terasa console di mata.
 
 !![](https://raw.githubusercontent.com/nandcep/hackintosh-opencore-efi-hp-elitebook-830-g7/refs/heads/master/banner.jpg)
-
 Sukses Install Big Sur di HP Elitebook 830 G7
