@@ -1,7 +1,7 @@
 baseURL = 'https://nandcep.github.io/'
 languageCode = 'en-us'
 title = 'nandra'
-theme = "minimo-v2"
+theme = "minimo"
 Paginate = 5
 preserveTaxonomyNames = true
 defaultContentLanguage = "en"
