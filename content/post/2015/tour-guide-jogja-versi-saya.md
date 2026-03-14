@@ -17,37 +17,37 @@ Beberapa tempat yang saya rekomendasikan untuk ke Jogja agar lebih memorable dan
 
 # Hari Pertama
 
-Dengan tema : Jogja dan Sejarah
+Dengan tema: Jogja dan Sejarah
 
 - Ulun Sentalu
 - Mojali atau Monumen Jogja Kembali
 - Taman Pelangi Jogja
 
-Makanan khas : Gudeg Yu Djum dan jajanan malam alun-alun kidul
+Makanan khas: Gudeg Yu Djum dan jajanan malam alun-alun kidul
 
 Jangan terlalu capek dan harus dibuat santai, hari pertama adalah jalan-jalan ringan.
 
 # Hari Kedua
 
-Dengan tema : Jogja dan Kultur
+Dengan tema: Jogja dan Kultur
 
 - Candi Borobudur
 - Candi Prambanan
 - Ratu Boko
 
-Makanan khas : Jejamuran dan jajanan malam di Malioboro
+Makanan khas: Jejamuran dan jajanan malam di Malioboro
 
 Hari kedua akan cukup padat karena perjalanan dari utara menuju ke arah tenggara.
 
 # Hari Ketiga
 
-Dengan tema : Jogja dan Bentang Alam
+Dengan tema: Jogja dan Bentang Alam
 
 - Rafting Gua Pindul
 - Pantai Pok Tunggal
 - Pantai Sepanjang Wonosari
 
-Makanan khas : Ayam geprek dan Raminten
+Makanan khas: Ayam geprek dan Raminten
 
 Hari ketiga bermain fisik dan alam agar dapat segera beristirahat untuk keesokan harinya kembali ke peraduan. Perjalanannya pun butuh waktu yang lumayan karena harus ke Wonosari.
 
