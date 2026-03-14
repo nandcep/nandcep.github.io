@@ -14,9 +14,11 @@ Lalu bagaimana caranya agar saya tahu bahwa error yang terjadi adalah error dupl
 ```python
 try :
 	nperson = personSet.add();
-	...#logic statement yang berpotensi terjadi errorexcept MXException, e :
-	errkey = str(e.getErrorKey());#cast key error sebagai stringif errkey == 'duplicatekey' :#jika ternyata key messagenya adalah duplicate data
-		...#logic untuk ketika terjadi exception
+	...#logic statement yang berpotensi terjadi error
+except MXException, e :
+	errkey = str(e.getErrorKey()); #cast key error sebagai string
+    if errkey == 'duplicatekey': #jika ternyata key messagenya adalah duplicate data
+	    ...#logic untuk ketika terjadi exception
 ```
 
 Yang dapat dimanfaatkan adalah class `MXException` karena merupakan base class `Exception` di Platform Maximo. Untuk mendapatkan keynya dapat menggunakan function `getErrorKey()`. Semoga bermanfaat, terimakasih.
