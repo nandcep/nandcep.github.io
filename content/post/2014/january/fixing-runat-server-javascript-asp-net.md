@@ -7,9 +7,9 @@ slug: fixing-runat-server-javascript-asp-net
 tags: [programming]
 ---
 
-Saya pernah mengalami kendala ketika membangun aplikasi web berbasis ASP.NET 3.5, load file Javascript pada tag script mengalami masalah. File Javascriptnya dianggap tidak ikut terdeploy ke dalam IIS sehingga terkena “not yet run at server”.
+Saya pernah mengalami kendala ketika membangun aplikasi web berbasis ASP.NET 3.5, load file Javascript pada tag script mengalami masalah. File Javascriptnya dianggap tidak ikut terdeploy ke dalam IIS sehingga terkena “_not yet run at server_”.
 
-Efeknya ada banyak variabel dan fungsi pada eksekusi Javasacript yang tidak terdenifisikan atau undefined. Error yang diakibatkan oleh “not yet run at server” dapat dicek melalui console debugger milik (IE 8/9) atau melalui debugger Visual Studio.
+Efeknya ada banyak variabel dan fungsi pada eksekusi Javasacript yang tidak terdenifisikan atau undefined. Error yang diakibatkan oleh “_not yet run at server_” dapat dicek melalui console debugger milik (IE 8/9) atau melalui debugger Visual Studio.
 
 Jadi bagaimana cara mengatasi masalah tersebut?
 ```xml
