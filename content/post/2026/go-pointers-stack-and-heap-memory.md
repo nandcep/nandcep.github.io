@@ -47,18 +47,18 @@ Dari ketiga kesalahan tersebut saya belajar bahwa pengalaman Go saya masih kuran
 
 Solusi yang akhirnya saya lakukan adalah merubah kebiasaan dan mindset serta upgrade skill:
 
-| **#** | **Solusi** |
-| --- | --- |
-| 1 | Mengikuti panduan dari Effective Go, sebuah dokumentasi lengkap bagaimana belajar Go yang selalu saya baca ulang khususnya apabila ada update terbaru. |
-| 2 | By default selalu menggunakan direct value alias tidak lagi pointer-pointeran karena *early optimization is the root cause of evil*. |
-| 3 | Saya menggunakan pointer dengan mindful, apabila memang butuh mutasi dari data ukuran besar lebih dari *n* bytes maka saya akan menggunakan pointers. |
-| 4 | Penggunaan pointers sebisa mungkin untuk obyek yang global dan/atau bentuknya Singleton, namun tidak semuanya tergantung dari analisis race condition. |
+| **Solusi** |
+| --- |
+| Mengikuti panduan dari Effective Go, sebuah dokumentasi lengkap bagaimana belajar Go yang selalu saya baca ulang khususnya apabila ada update terbaru. |
+| By default selalu menggunakan direct value alias tidak lagi pointer-pointeran karena *early optimization is the root cause of evil*. |
+| Saya menggunakan pointer dengan mindful, apabila memang butuh mutasi dari data ukuran besar lebih dari *n* bytes maka saya akan menggunakan pointers. |
+| Penggunaan pointers sebisa mungkin untuk obyek yang global dan/atau bentuknya Singleton, namun tidak semuanya tergantung dari analisis race condition. |
 
 Jadi tidak instan, banyak belajar dari kesalahan dengan berkali-kali deploy dengan alasan spike memori juga memberi teror ke user kalau aplikasi siap crash tiap beberapa jam hehe. Beberapa hal yang saya lakukan untuk meng-observe apakah masih ada yang terlewat:
 
-| **#** | Observasi |
-| --- | --- |
-| 1 | Menggunakan Go Tools pprof (Program Profiler) untuk analisis atau memprofile CPU, memory, goroutine, dsb. Singkatnya seperti stetoskop sebelum saya build aplikasinya dan deploy harus checklist apakah semua di atas minimum threshold standar performa. |
-| 2 | Menggunakan flags seperti -gcflags dan GODEBUG untuk cek escape analysis ketika source code dicompile dan cek performa Garbage Collector ketika aplikasi berjalan. |
-| 3 | Membuat Benchmark dan dikombinasi dengan benchmark memory agar lebih firm secara statisik alokasi memori dengan B/op (bytes per operation) dan alloc/ops untuk cek seberapa banyak yang berjalan di Stack. |
-| 4 | 3 poin di atas adalah preventive. Last but not least perlu juga langkah corrective yaitu pasang agent atau tracing di aplikasi dan juga server non-functional testing lalu hajar stress tests. |
+| Observasi |
+| --- |
+| Menggunakan Go Tools pprof (Program Profiler) untuk analisis atau memprofile CPU, memory, goroutine, dsb. Singkatnya seperti stetoskop sebelum saya build aplikasinya dan deploy harus checklist apakah semua di atas minimum threshold standar performa. |
+| Menggunakan flags seperti -gcflags dan GODEBUG untuk cek escape analysis ketika source code dicompile dan cek performa Garbage Collector ketika aplikasi berjalan. |
+| Membuat Benchmark dan dikombinasi dengan benchmark memory agar lebih firm secara statisik alokasi memori dengan B/op (bytes per operation) dan alloc/ops untuk cek seberapa banyak yang berjalan di Stack. |
+| 3 poin di atas adalah preventive. Last but not least perlu juga langkah corrective yaitu pasang agent atau tracing di aplikasi dan juga server non-functional testing lalu hajar stress tests. |
