@@ -29,6 +29,6 @@ Jadi bagaimana cara mengatasi masalah tersebut?
 
 Snippet kode di atas adalah solusi untuk error “_not yet run at server_” dengan tag ScriptManager dari ASP.NET di halaman ASPX yang membutuhkan. Melalui tag `ScriptReference` maka file Javascript akan terbawa ke dalam IIS atau server lokal.
 
-Biasanya refence tersebut digunakan untuk load jQuery. Cukup set relative path dari jQuery atau Javascript filenya berdasarkan solution project di `ScriptReference` maka akan ikut terbawa ke dalam IIS. Simple, just like a piece of cake.
+Biasanya reference tersebut digunakan untuk load jQuery. Cukup set relative path dari jQuery atau Javascript filenya berdasarkan solution project di `ScriptReference` maka akan ikut terbawa ke dalam IIS. Simple, just like a piece of cake.
 
 Disadur dari blog lama saya di *WordPress.com*
