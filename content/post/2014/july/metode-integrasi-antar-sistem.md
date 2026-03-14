@@ -354,6 +354,7 @@ Web service adalah salah satu bentuk layanan yang menjadi favorit saya ketika me
 Dengan menggunakan web service saya juga lebih mudah untuk mengintegrasikan antar aplikasi yang dibangun dengan teknologi yang berbeda, sehingga lebih universal daripada komunikasi modular.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c2/WSDL_11vs20.png)
+
 *Web Service by Wikipedia*
 
 Web Service yang biasa saya gunakan adalah dalam bentuk format XML, biasanya bertipe SOAP dan memiliki UDDI (Universal Description, Discovery, and Integration) untuk discovery layanan yang telah saya kembangkan. Sehingga pengembang lain cukup saya infokan saja UDDInya dan mereka dapat mendownload untuk diwrap sesuaikan dengan koding mereka. Dengan format XML maka semua bahasa juga lebih mudah dalam melakukan translasi, itulah kenapa web service lebih friendly untuk multi platform.
