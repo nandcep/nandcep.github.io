@@ -7,7 +7,7 @@ slug: tahun-baru-di-malaysia
 tags: [travel]
 ---
 
-Freshly pressed dan benar-benar real time post di malam tahun baru yang spesial ini. Happy new year all, tidak terasa sudah 2016! Awal tahun masih dengan cerita tentang kerjaan yang tidak pernah pernah ada habisnya di Malaysia. Semoga masih dapat mengimbangi ritmenya, karena sedang mengejar calon project sudah pasti pasti menjadi hectic.
+Freshly pressed dan benar-benar real time post di malam tahun baru yang spesial ini. Happy new year all, tidak terasa sudah 2016! Awal tahun masih dengan cerita tentang kerjaan yang tidak pernah ada habisnya di Malaysia. Semoga dapat mengimbangi ritmenya, karena mengejar calon klien pasti hectic.
 
 Tidak terlalu mengerikan seperti yang teman-teman kantor di Dipo Tower ceritakan sebelum saya akhirnya memutuskan ikut pre-sales.
 
