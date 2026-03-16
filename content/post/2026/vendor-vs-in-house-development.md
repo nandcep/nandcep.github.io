@@ -97,9 +97,11 @@ Secara realita 3 top sense selalu terhalang oleh beberapa kebiasaan buruk dari i
 
 # Solusi Vendor
 
-## Silo Breaker, Business Integration
+## Silo Breaker
 
-## As Second Opinion
+### Business Integration
+
+### As Second Opinion
 
 ## Challenge
 
