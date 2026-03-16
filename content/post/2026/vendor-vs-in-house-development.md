@@ -60,15 +60,12 @@ Apa yang beliau sampaikan masih terngiang hingga saat ini dan membentuk pola kep
 
 Development proyek secara in-house menjadi masuk akal apabila 3 top sense di atas terpenuhi. Terlepas dari budget yang dapat dialokasikan ke hal lain. Dan dengan catatan kenapa skill tidak dimasukkan? Karena di setiap organisasi pasti ada si perform, si medioker, dan si under perform. Dan masing-masing skill ini tidak mewakilkan sensenya, hanya mewakilkan resultnya.
 
-Tetapi secara realita 3 top sense selalu terhalang oleh beberapa kebiasaan buruk dari in-house yang menjadi deal-breaker sebagai berikut
+Secara realita 3 top sense selalu terhalang oleh beberapa kebiasaan buruk dari in-house yang menjadi deal-breaker sebagai berikut
 
 | Behavior | Driver | Notes |
 | --- | --- | --- |
-| Tidak semua orang memiliki urgensi yang sama | Leadership tidak cakap dan bahkan tidak memberikan urgensi kepada setiap anggota tim agar tergerak. Diberikan urgensi dan tergerak saja mungkin tidak optimal eksekusinya, apalagi jika tidak diberikan urgensi. | Urgensi mengutamakan kontribusi daripada atribusi di dalam kolaborasi yang sadar bahwa urgensi milik bersama. |
+| **Tidak semua orang memiliki urgensi yang sama** | Leadership tidak cakap dan bahkan tidak memberikan urgensi kepada setiap anggota tim agar tergerak. Diberikan urgensi dan tergerak saja mungkin tidak optimal eksekusinya, apalagi jika tidak diberikan urgensi. | Urgensi mengutamakan kontribusi daripada atribusi di dalam kolaborasi yang sadar bahwa urgensi milik bersama. |
 | Silo | | |
-
-Kalau rasa ingin bergerak tidak optimal apalagi tidak muncul berarti yang salah adalah leadership yang harusnya memberikan urgensi. Jika diberikan saja mungkin tidak tergerak, maka apalagi jika tidak diberikan urgensi. 
-
 
 # Kenapa Vendor
 
