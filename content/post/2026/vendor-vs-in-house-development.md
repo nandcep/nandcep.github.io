@@ -14,6 +14,26 @@ Disclaimer saya tidak suka kata vendor karena pernah di posisi tersebut, sehingg
 
 Di dalam bekerja saya selalu percaya bahwa hasil adalah yang utama, baik itu dilakukan secara individual ataupun kolaborasi. Pada tulisan berikut saya ingin menuangkan pemikiran tentang development proyek dengan skala besar, yang berdampak luas ke organisasi dan kerap butuh analisa untuk dieksekusi secara mandiri atau internal.
 
+
+```mermaid
+quadrantChart
+    title Big Project Development
+    x-axis Short Term --> Long Term
+    y-axis Technical --> Managerial
+    quadrant-1 Agile collaboration
+    quadrant-2 Shared goal
+    quadrant-3 High performance
+    quadrant-4 Stable Continuity
+    Business Integration: [0.2, 0.75]
+    Sense of Delivery: [0.12, 0.11]
+    Sense of Urgency: [0.87, 0.75]
+    Partner Involvement: [0.65, 0.85]
+    Sense of Ownership: [0.78, 0.34]
+    Partner Lock-in: [0.85, 0.2]
+    Second Opinion: [0.40, 0.34]
+    Leadership Communication: [0.33, 0.88]
+```
+
 Beberapa waktu lalu sempat ada diskusi "_seharusnya sebuah perusahaan utilisasi tim internal teknis membangun sistem IT_". Pertanyaan dengan bab yang luas. Kalau merefleksikan, kapan saya butuh vendor untuk mengerjakan? Untuk menjawabnya pasti ada 3 sudut yang pertama kali dipikirkan yaitu _scope, resource,_ dan _budget_.
 
 3 sudut yang menjadi segitiga menyebalkan dengan segala permutasinya. Tetapi katakanlah scope besar, resource mendukung, dan budget ada. Resource ini yang challenging karena butuh kolaborasi. Karena tidak semua orang sepemahaman apalagi jika tidak satu ada gap visi, kemampuan, silo, dan membawa agendanya masing-masing.
