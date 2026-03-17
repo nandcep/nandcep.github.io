@@ -5,6 +5,7 @@ authors: ["nandra"]
 title: Vendor versus In-House Development
 slug: vendor-vs-in-house-development
 tags: [arsitektur]
+draft: true
 ---
 
 # 👥 Pembuka
@@ -140,7 +141,7 @@ Dependensi tugas disampaikan ke bagian organik lain atau agen yang ada di sana u
 
 > Dari semua laporan akan dibantu oleh agen untuk membentuk rangkuman pencapaian, perencanaan strategis untuk improvement, dan tone dari blockernya adalah positif input
 
-Kenapa tone dari agen business integration selalu positif input? Karena tidak yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn and offer the cure_ agar dapat diterima oleh pihak yang diserang.Saya secara personal setuju, untuk apa sibuk mendobrak pintu dengan menghabiskan energi menarik semua organik bergerak. 
+Kenapa tone dari agen business integration selalu positif input? Karena tidak yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn and offer the cure_ agar dapat diterima oleh pihak yang diserang. Saya secara personal setuju, untuk apa sibuk mendobrak pintu dengan menghabiskan energi menarik semua organik bergerak. 
 
 Karena saya pernah menjadi agen tersebut, titlenya keren yaitu Business Architect, dan dibayar cukup mahal untuk mandaysnya bermodal analisa dan sikap taktis.
 
