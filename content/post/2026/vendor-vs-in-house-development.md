@@ -125,11 +125,11 @@ Pengalaman bekerja dengan well-known vendor konsultan multi nasional seperti Acc
 
 Hal tersebut menjadi menjadi kelebihan bukan kekurangan untuk mendobrak rangkuman terbesar terkait Silo. Kenapa? Pragmatisme untuk mencapai tujuan. Berikut adalah nilai tujuan pragmatisme yang menjadi pemecahan masalah?
 
-* [ ] **Obyektif berbasis kontrak**, membawa mandat yang sangat spesifik dan tidak terjebak dalam politik kantor termasuk agenda jangka panjang meski harus menggasak ego sektoral di klien.
-* [ ] **Obsesif terhadap timeline**, takut terlambat karena menjadikan kerugian finansial (penalti), berani mengetuk pintu setiap organik yang terlibat dan menghambat milestone. 
-* [ ] **Katalis pengambilan keputusan**, membawa best practice atau alternatif dan pertimbangan meski pragmatis dalam eksekusi untuk mendorong pengambilan keputusan.
-* [ ] **Netral sebagai pihak luar**, melihat klien dari sudut terluar, dapat bertanya "apa kebutuhannya", "kenapa seperti itu", dan "kapan eksekusinya" tanpa dianggap menantang karena agendanya hanya satu yaitu proyek.
-* [ ] **Standarisasi komunikasi**, memaksakan satu protokol komunikasi atau _tooling_ yang sama agar dapat meruntuhkan silo komunikasi untuk memberikan informasi yang komprehensif.
+* **Obyektif berbasis kontrak**, membawa mandat yang sangat spesifik dan tidak terjebak dalam politik kantor termasuk agenda jangka panjang meski harus menggasak ego sektoral di klien.
+* **Obsesif terhadap timeline**, takut terlambat karena menjadikan kerugian finansial (penalti), berani mengetuk pintu setiap organik yang terlibat dan menghambat milestone. 
+* **Katalis pengambilan keputusan**, membawa best practice atau alternatif dan pertimbangan meski pragmatis dalam eksekusi untuk mendorong pengambilan keputusan.
+* **Netral sebagai pihak luar**, melihat klien dari sudut terluar, dapat bertanya "apa kebutuhannya", "kenapa seperti itu", dan "kapan eksekusinya" tanpa dianggap menantang karena agendanya hanya satu yaitu proyek.
+* **Standarisasi komunikasi**, memaksakan satu protokol komunikasi atau _tooling_ yang sama agar dapat meruntuhkan silo komunikasi untuk memberikan informasi yang komprehensif.
 
 Apa saja bentuk pragmatisme secara detail saya sampaikan menjadi 2 bentuk utama, dan yang biasa dilakukan oleh vendor tersebut di lapangan.  
 
