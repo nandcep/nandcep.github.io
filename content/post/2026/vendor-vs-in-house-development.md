@@ -86,7 +86,7 @@ Ketika semua tim in-house mendapatkan uraian kenapa development ini sangat penti
 
 ### Sense of Ownership
 
-Ownership atau kepemilikan tidak diatur oleh prioritas karena ownership itu karakter. Sama seperti kru di dalam satu kapal, tidak semua kru beranggapan bahwa tidak wajib rutin berlatih bersama karena belum akan melaut. Tetapi karakter yang mengutamakan ownership tidak akan memilah, dengan sendirinya sadar untuk kompak dan bertanggung jawab sesuai bidang meski belum akan melaut.
+Ownership atau kepemilikan tidak diatur oleh prioritas karena sebuah karakter. Sama seperti kru di dalam satu kapal, tidak semua kru beranggapan bahwa tidak wajib rutin berlatih bersama karena belum akan melaut. Tetapi karakter yang mengutamakan ownership tidak akan memilah, dengan sendirinya sadar untuk kompak dan bertanggung jawab sesuai bidang meski belum akan melaut.
 
 Ketika di proyek besar, ownership bermanfaat sebagai katalis atau penggerak tanpa perlu daya besar untuk diarahkan. Individu dengan karakter tersebut akan bertanggung jawab tanpa diminta terhadap apa yang dikerjakan apalagi dengan skala besar. Sehingga ada istilah _champion_ atau organik yang terpilih. 
 
@@ -168,7 +168,7 @@ Masih sama seperti statement awal yaitu vendor hanyalah parasetamol atau pereda 
 | --- | --- | --- |
 |  |  | _Second Opinion_ |
 |  |  | _Second Opinion_, _Business Integration_ |
-| Proses hand-over yang tercecer di akhir |  | _Business Integration_ |
+| Proses hand-over yang cluttering di akhir |  | _Business Integration_ |
 |  |  | _All_  |
 
 # Kesimpulan
