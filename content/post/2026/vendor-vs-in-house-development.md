@@ -5,7 +5,6 @@ authors: ["nandra"]
 title: Vendor versus In-House Development
 slug: vendor-vs-in-house-development
 tags: [arsitektur]
-draft: true
 ---
 
 # 👥 Pembuka
