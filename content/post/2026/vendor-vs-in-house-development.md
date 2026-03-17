@@ -140,7 +140,7 @@ Dengan seperti itu silo akan terkoneksi lewat eksternal. Ibarat seperti mengguna
 
 > Dari semua laporan akan dibantu oleh agen untuk membentuk rangkuman pencapaian, perencanaan strategis untuk improvement, dan tone dari blockernya adalah positif input
 
-Kenapa tone dari agen business integration selalu positif input? Karena tidak yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn_ agar dapat diterima oleh pihak yang diserang.
+Kenapa tone dari agen business integration selalu positif input? Karena tidak yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn and offer the cure_ agar dapat diterima oleh pihak yang diserang.
 
 Saya secara personal setuju, untuk apa sibuk mendobrak pintu dengan menghabiskan energi menarik semua organik bergerak. Karena saya pernah menjadi agen tersebut, titlenya keren, dan dibayar cukup mahal untuk mandaysnya padahal receh.
 
