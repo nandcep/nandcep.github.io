@@ -159,7 +159,7 @@ Biasanya 2W1H itu muncul ketika akan atau sedang eksekusi proyek besar, jadi tid
 
 Ibarat dari 2 tim sepak bola yang berbeda melakukan latihan sparring bersama sebelum pertandingan dan saling memberikan input termasuk analisa. Vendor selain menjadi augmented resource akan memberikan added value berupa bantuan berpikir yang membuat proyek akan semakin matang dalam perencanaan dan eksekusi.
 
-Ironis kelemahan dari in-house yang silo adalah mereka tidak dapat mematangkan identifikasi kelebihan dan kekurangan mereka sendiri sedari awal sampai mereka harus menghadapi masalah secara langsung. Vendor memiliki jurus terbaik yaitu gap analysis yang menunjang kemampuan untuk menjadi second opinion dan sebagai pihak netral mereka diuntungkan karena terhindar conflict of interest.
+Ironis kelemahan dari in-house yang silo adalah tidak dapat mematangkan identifikasi kelebihan dan kekurangan sendiri sedari awal sampai saat harus menghadapi masalah secara langsung. Vendor memiliki jurus terbaik yaitu gap analysis yang menunjang kemampuan untuk menjadi second opinion dan sebagai pihak netral mereka diuntungkan karena terhindar conflict of interest.
 
 ## Challenge
 Masih sama seperti statement awal yaitu vendor hanyalah parasetamol atau pereda nyeri. Vendor akan mengakibatkan ketergantungan dan beban biaya yang tidak terlihat dan tidak mengobati masalah struktural internal dalam mengerjakan proyek development besar.
