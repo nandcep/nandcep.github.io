@@ -141,12 +141,12 @@ Dependensi tugas disampaikan ke bagian organik lain atau agen yang ada di sana u
 
 > Dari semua laporan akan dibantu oleh agen untuk membentuk rangkuman pencapaian, perencanaan strategis untuk improvement, dan tone dari blockernya adalah positif input
 
-Kenapa tone dari agen business integration selalu positif input? Karena tidak yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn and offer the cure_ agar dapat diterima oleh pihak yang diserang. Saya secara personal setuju, untuk apa sibuk mendobrak pintu dengan menghabiskan energi menarik semua organik bergerak. 
+Kenapa tone dari agen business integration selalu positif input? Karena tidak ada yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn and offer the cure_ agar dapat diterima oleh pihak yang diserang. Saya secara personal setuju, untuk apa sibuk menghabiskan energi mendobrak pintu agar semua organik bergerak. 
 
-Karena saya pernah menjadi agen tersebut, titlenya keren yaitu Business Architect, dan dibayar cukup mahal untuk mandaysnya bermodal analisa dan sikap taktis.
+Semua pemikiran didasari pengalaman saya pernah menjadi agen tersebut. Titlenya keren yaitu Business Architect dan mandays dibayar cukup mahal padahal hanya bermodal analisa dan sikap taktis.
 
 ### As Second Opinion
-Personel yang ditempatkan oleh vendor di tim proyek untuk eksekusi proyek pastinya adalah orang yang setidaknya paham terkait teknis. Mereka dituntut result-oriented dan agnostik dan juga respon yang relevan. Agnostik dan respon relevan adalah hal menarik berdasarkan pengalaman saya menjadi konsultan yang pragmatis, yaitu perihal manajemen resiko dan fleksibilitas eksekusi.
+Personel yang ditempatkan oleh vendor di tim proyek untuk eksekusi proyek pastinya adalah orang yang setidaknya paham terkait teknis. Mereka dituntut result-oriented, agnostik, dan respon yang relevan. Agnostik dan respon relevan adalah hal menarik berdasarkan pengalaman saya menjadi konsultan yang pragmatis, yaitu perihal manajemen resiko dan fleksibilitas eksekusi.
 
 Pada dasarnya vendor dihire untuk mengisi gap kekosongan yang ada di klien, entah itu resource, skill, atau teknologi. Vendor dituntut untuk mengisi pertanyaan 2W1H:
 1. Apa kebutuhan untuk mengatasi masalah saya?
@@ -170,9 +170,6 @@ Masih sama seperti statement awal yaitu vendor hanyalah parasetamol atau pereda 
 |  |  | _Second Opinion_, _Business Integration_ |
 | Proses hand-over yang tercecer di akhir |  | _Business Integration_ |
 |  |  | _All_  |
-
-
-
 
 # Kesimpulan
 
