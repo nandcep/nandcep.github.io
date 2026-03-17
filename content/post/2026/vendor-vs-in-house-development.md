@@ -162,14 +162,14 @@ Ibarat dari 2 tim sepak bola yang berbeda melakukan latihan sparring bersama seb
 Ironis kelemahan dari in-house yang silo adalah tidak dapat mematangkan identifikasi kelebihan dan kekurangan sendiri sedari awal sampai saat harus menghadapi masalah secara langsung. Vendor memiliki jurus terbaik yaitu gap analysis yang menunjang kemampuan untuk menjadi second opinion dan sebagai pihak netral mereka diuntungkan karena terhindar conflict of interest.
 
 ## Challenge
-Masih sama seperti statement awal yaitu vendor hanyalah parasetamol atau pereda nyeri. Vendor akan mengakibatkan ketergantungan dan beban biaya yang tidak terlihat dan tidak mengobati masalah struktural internal dalam mengerjakan proyek development besar.
+Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor akan mengakibatkan ketergantungan dan beban biaya yang tidak terlihat dan tidak mengobati masalah struktural internal karena tugas utamanya sebagai augmented resource. Saya pernah menyampaikan challenge ini ketika sesi interview untuk membantah statement "challengemu tidak akan terjadi ketika organik juga dominan". 
 
 | Symptom | Driver | Side Impact |
 | --- | --- | --- |
-|  |  | _Second Opinion_ |
-|  |  | _Second Opinion_, _Business Integration_ |
-| Proses hand-over yang cluttering di akhir |  | _Business Integration_ |
-|  |  | _All_  |
+| Keputusan disetir pihak luar secara mayoritas meski tidak ada yang setuju | Vendor mendorong keputusan diambil dan apabila tidak diambil maka akan ter-eskalasi hingga top level untuk diambil | _Second Opinion_ |
+| Hasil laporan berlebihan dan tidak didasari fakta, fabrikasi kuantitas serta kualitas |  | _Business Integration_, _Second Opinion_ |
+| Proses hand-over yang cluttering di akhir dan menjadi tidak bertuan |  | _Business Integration_ |
+| Tanggung jawab akhir yang harus berlanjut sangat memberatkan |  | _All_  |
 
 # Kesimpulan
 
