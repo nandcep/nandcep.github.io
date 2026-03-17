@@ -119,7 +119,7 @@ Secara realita 3 top sense selalu terhalang oleh beberapa kebiasaan buruk dari i
 Bagi saya tidak ada kata "amin" bahwa vendor menjadi obat dari resource yang terbatas, namun setuju vendor menjadi "parasetamol" untuk behavior challenge in-house. Vendor akan memberikan role yang tepat terlepas pada penawaran terlepas personelnya mampu (termasuk cepat) atau tidak untuk eksekusi.
 
 ## Silo Breaker
-Pengalaman bekerja dengan big three vendor konsultan multi nasional seperti Accenture, Deloitte, dan ThoughtWorks juga beberapa lokal memiliki kesamaan juga pola kerja. Pada dasarnya mereka tidak mengenal detail klien dengan menempatkan personel atas permintaan.
+Pengalaman bekerja dengan well-known vendor konsultan multi nasional seperti Accenture, Deloitte, Kyndryl, McKinsey, dan ThoughtWorks juga beberapa lokal memiliki kesamaan juga pola kerja. Pada dasarnya mereka tidak mengenal detail klien dengan menempatkan personel atas permintaan.
 
 Hal tersebut menjadi menjadi kelebihan bukan kekurangan untuk mendobrak rangkuman terbesar terkait Silo. Kenapa? Pragmatisme untuk mencapai tujuan. Berikut adalah nilai tujuan pragmatisme yang menjadi pemecahan masalah?
 
@@ -136,18 +136,38 @@ Eksekusi yang pertama adalah vendor menempatkan personal sebagai agen lapangan d
 
 Simple dan receh tugasnya hanya memaparkan tugas yang harus dikerjakan oleh organik di bagian tersebut dan follow-up. Dependensi tugas disampaikan ke bagian organik lain atau agen yang ada di sana untuk diselesaikan.
 
-Dengan seperti itu silo akan terkoneksi lewat eksternal. Ibarat seperti menggunakan magnet yang efektif demi hanya untuk menghubungkan antar silo. Dan tidak lupa untuk melaporkan semua laporan dengan detail progressnya kepada stakeholder proyek.
+Dengan seperti itu silo akan terkoneksi lewat eksternal. Ibarat seperti menggunakan magnet yang efektif demi hanya untuk menghubungkan antar silo. Dan tidak lupa untuk melaporkan semua laporan dengan detail progressnya termasuk blocker kepada stakeholder proyek.
 
-> Dari semua laporan akan dibantu oleh agen untuk membentuk rangkuman pencapaian, perencanaan strategis untuk improvement, dan tone-nya adalah positif input
+> Dari semua laporan akan dibantu oleh agen untuk membentuk rangkuman pencapaian, perencanaan strategis untuk improvement, dan tone dari blockernya adalah positif input
 
 Kenapa tone dari agen business integration selalu positif input? Karena tidak yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn_.
 
 Saya secara personal setuju, untuk apa sibuk mendobrak pintu dengan menghabiskan energi menarik semua organik bergerak. Karena saya pernah menjadi agen tersebut, titlenya keren, dan dibayar cukup mahal untuk mandaysnya padahal receh.
 
 ### As Second Opinion
+Personel yang ditempatkan oleh vendor di tim proyek untuk eksekusi proyek pastinya adalah orang yang setidaknya paham terkait teknis. Mereka dituntut result-oriented dan agnostik dan juga memberikan respon yang relevan.
 
+Agnostik dan respon yang relevan adalah hal menarik berdasarkan pengalaman saya menjadi seorang konsultan yang pragmatis, yaitu perihal manajemen resiko dan fleksibilitas eksekusi.
+
+Pada dasarnya vendor dihire untuk mengisi gap kekosongan yang ada di klien, entah itu resource, skill, atau teknologi. Vendor dituntut untuk mengisi pertanyaan 2W1H:
+1. Apa kebutuhan untuk mengatasi masalah saya?
+2. Mengapa solusi tersebut dapat mengatasi masalah saya?
+3. Bagaimana eksekusi solusi tersebut?
+
+Ultimatenya adalah saya sebagai vendor sering jemput bola, sebelum muncul 2W1H adalah sudah harus identifikasi dan menyampaikan masukkan sebelum ditanya.
+
+Biasanya 2W1H itu muncul ketika akan atau sedang eksekusi proyek besar, jadi tidak muncul di permukaan awal. Dari timing tersebut vendor akan semakin bermanfaat karena dapat memberikan sudut pandang baru.
+
+Termasuk ketika tim organik memiliki opsi solusi, vendor dapat memberikan dukungan statemennya. Juga selain melakukan counter vendor dapat memberikan dukungan perlawanan sebagaimana tugasnya untuk augmented resource.
+
+Sifatnya agnostik, ibarat dari 2 tim sepak bola yang berbeda melakukan latihan sparring bersama sebelum pertandingan dan saling memberikan input termasuk analisa.
+
+Ironis bahwa kelemahan dari in-house yang silo adalah mereka tidak dapat mematangkan identifikasi kelebihan dan kekurangan mereka sendiri sedari awal sampai mereka harus menghadapi masalah secara langsung.
+
+Vendor memiliki jurus terbaik yaitu gap analysis yang menunjang kemampuan untuk menjadi second opinion dan sebagai pihak netral mereka diuntungkan karena terhindar conflict of interest.
 
 ## Challenge
+
 
 # Kesimpulan
 
