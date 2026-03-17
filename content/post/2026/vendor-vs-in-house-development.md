@@ -100,7 +100,7 @@ Sikap ini mirip dengan mindset marathon yang harus dimiliki oleh personel organi
 
 Jangan cepat puas adalah key takeaway yang saya dapatkan dari mantan SVP di Bank Mandiri. Dengan percaya diri saya menyatakan bahwa layanan channel loan skala nasional dan terintegrasi dengan multiple well known payment providers yang dibangun dalam waktu 4 bulan, mampu menangani ~5.000 s/d 10.000 req/s sesuai permintaan direktur bisnis. 
 
-Apa yang beliau sampaikan masih terngiang hingga saat ini dan membentuk pola kepribadian. "_I heard, but that is not clear enough as I wonder on how much resources that must be wasted to achieve that results. If that so, then you shall judge by yourself for all that you have done_" Saya hanya fokus apa yang sudah achieve, tetapi tidak membawa apa yang dapat diimprove agar ke depan.
+Apa yang beliau sampaikan masih terngiang hingga saat ini dan membentuk cara berpikir. "_I heard, but that is not clear enough as I wonder on how much resources that must be wasted to achieve that results. If that so, then you shall judge by yourself for all that you have done_" Saya hanya fokus apa yang sudah achieve, tetapi tidak membawa apa yang dapat diimprove agar ke depan.
 
 ## Challenge
 
@@ -119,19 +119,33 @@ Secara realita 3 top sense selalu terhalang oleh beberapa kebiasaan buruk dari i
 Bagi saya tidak ada kata "amin" bahwa vendor menjadi obat dari resource yang terbatas, namun setuju vendor menjadi "parasetamol" untuk behavior challenge in-house. Vendor akan memberikan role yang tepat terlepas pada penawaran terlepas personelnya mampu (termasuk cepat) atau tidak untuk eksekusi.
 
 ## Silo Breaker
-Pengalaman bekerja dengan big three vendor konsultan multi nasional seperti Accenture, Deloitte, dan McKinsey juga dengan beberapa vendor konsultan lokal memiliki kesamaan juga pola pikir. Pada dasarnya mereka tidak mengenal detail IT di klien. Mereka menempatkan personel berdasarkan permintaan.
+Pengalaman bekerja dengan big three vendor konsultan multi nasional seperti Accenture, Deloitte, dan ThoughtWorks juga beberapa lokal memiliki kesamaan juga pola kerja. Pada dasarnya mereka tidak mengenal detail klien dengan menempatkan personel atas permintaan.
 
 Hal tersebut menjadi menjadi kelebihan bukan kekurangan untuk mendobrak rangkuman terbesar terkait Silo. Kenapa? Pragmatisme untuk mencapai tujuan. Berikut adalah nilai tujuan pragmatisme yang menjadi pemecahan masalah?
-* [ ] **Obyektif berbasis kontrak**
-* [ ] **Obsesif terhadap timeline**
-* [ ] **Katalis pengambilan keputusan**
-* [ ] **Netral sebagai pihak luar**
-* [ ] **Standarisasi komunikasi**
+
+* [ ] **Obyektif berbasis kontrak**, membawa mandat yang sangat spesifik dan tidak terjebak dalam politik kantor termasuk agenda jangka panjang meski harus menggasak ego sektoral di klien.
+* [ ] **Obsesif terhadap timeline**, takut terlambat karena menjadikan kerugian finansial (penalti), berani mengetuk pintu setiap organik yang terlibat dan menghambat milestone. 
+* [ ] **Katalis pengambilan keputusan**, membawa best practice atau alternatif dan pertimbangan meski pragmatis dalam eksekusi untuk mendorong pengambilan keputusan.
+* [ ] **Netral sebagai pihak luar**, melihat klien dari sudut terluar, dapat bertanya "apa kebutuhannya", "kenapa seperti itu", dan "kapan eksekusinya" tanpa dianggap menantang karena agendanya hanya satu yaitu proyek.
+* [ ] **Standarisasi komunikasi**, memaksakan satu protokol komunikasi atau _tooling_ yang sama agar dapat meruntuhkan silo komunikasi untuk memberikan informasi yang komprehensif.
+
 Apa saja bentuk pragmatisme secara detail saya sampaikan menjadi 2 bentuk utama, dan yang biasa dilakukan oleh vendor tersebut di lapangan.  
 
 ### Business Integration
+Eksekusi yang pertama adalah vendor menempatkan personal sebagai agen lapangan di setiap bagian organik yang terlibat. Agen tersebut biasanya tidak bukan tim teknis, mostly sebagai relay informasi yang membawa target tugas dan membuat insight.
+
+Simple dan receh tugasnya hanya memaparkan tugas yang harus dikerjakan oleh organik di bagian tersebut dan follow-up. Dependensi tugas disampaikan ke bagian organik lain atau agen yang ada di sana untuk diselesaikan.
+
+Dengan seperti itu silo akan terkoneksi lewat eksternal. Ibarat seperti menggunakan magnet yang efektif demi hanya untuk menghubungkan antar silo. Dan tidak lupa untuk melaporkan semua laporan dengan detail progressnya kepada stakeholder proyek.
+
+> Dari semua laporan akan dibantu oleh agen untuk membentuk rangkuman pencapaian, perencanaan strategis untuk improvement, dan tone-nya adalah positif input
+
+Kenapa tone dari agen business integration selalu positif input? Karena tidak yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn_.
+
+Saya secara personal setuju, untuk apa sibuk mendobrak pintu dengan menghabiskan energi menarik semua organik bergerak. Karena saya pernah menjadi agen tersebut, titlenya keren, dan dibayar cukup mahal untuk mandaysnya padahal receh.
 
 ### As Second Opinion
+
 
 ## Challenge
 
