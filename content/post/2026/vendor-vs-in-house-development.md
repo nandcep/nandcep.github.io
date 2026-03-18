@@ -122,7 +122,7 @@ Bagi saya tidak ada kata "amin" bahwa vendor adalah obat resource yang terbatas,
 
 ![](https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/content/post/2026/assets/vendor-vs-in-house-development/vendor-silo-breaker.png)
 
-Pengalaman bekerja dengan well-known vendor konsultan multi nasional seperti Accenture, Deloitte, Kyndryl, McKinsey, dan ThoughtWorks juga beberapa lokal memiliki kesamaan juga pola kerja. Pada dasarnya mereka tidak mengenal detail klien, mereka cukup menempatkan personelnya atas permintaan role.
+Pengalaman bekerja dengan well-known vendor konsultan multi nasional seperti Accenture, Deloitte, Kyndryl, McKinsey, dan ThoughtWorks juga beberapa lokal memiliki kesamaan pola dalam bekerja. Pada dasarnya mereka tidak mengenal detail klien, mereka cukup menempatkan personelnya atas permintaan role.
 
 Hal tersebut menjadi menjadi kelebihan bukan kekurangan untuk mendobrak rangkuman terbesar terkait Silo. Kenapa? Pragmatisme untuk mencapai tujuan. Berikut adalah nilai tujuan pragmatisme yang menjadi pemecahan masalah?
 
