@@ -34,9 +34,9 @@ quadrantChart
     Leadership Communication: [0.33, 0.88]
 ```
 
-Beberapa waktu lalu sempat ada diskusi "_seharusnya sebuah perusahaan utilisasi tim internal teknis membangun sistem IT_". Pertanyaan dengan bab yang luas. Kalau merefleksikan, kapan saya butuh vendor untuk mengerjakan? Untuk menjawabnya pasti ada 3 sudut yang pertama kali dipikirkan yaitu _scope, resource,_ dan _budget_.
+Beberapa waktu lalu sempat ada diskusi "_seharusnya sebuah perusahaan utilisasi tim internal teknis membangun sistem IT_". Pertanyaan dengan bab yang luas. Kalau merefleksikan, kapan saya butuh vendor untuk mengerjakan? Untuk menjawabnya pasti ada 4 sudut yang pertama kali dipikirkan yaitu _scope, timeline, resource,_ dan _budget_.
 
-3 sudut yang menjadi segitiga menyebalkan dengan segala permutasinya. Tetapi katakanlah scope besar, resource mendukung, dan budget ada. Resource ini yang challenging karena butuh kolaborasi. Karena tidak semua orang sepemahaman apalagi jika tidak satu ada gap visi, kemampuan, silo, dan membawa agendanya masing-masing.
+4 sudut yang menjadi persegi menyebalkan dengan segala permutasinya. Tetapi katakanlah scope besar, timeline mencukupi, resource mendukung, dan budget ada. Resource ini yang challenging karena butuh kolaborasi. Karena tidak semua orang sepemahaman apalagi jika tidak satu ada gap visi, kemampuan, silo, dan membawa agendanya masing-masing.
 
 # 🧑🏽‍💻 Memulai In-House
 Pada bagian pembuka sebetulnya sudah jelas, dengan adanya jumlah resource yang memadai baik jumlah serta skill bukan artinya eksekusi akan selaras. Adanya endorsement dari manajemen bukan jadi jaminan apalagi jika management juga silo dari top level. Saya akan mulai dengan ideal apabila ingin memulai IT development dengan in-house. 
@@ -116,13 +116,13 @@ Secara realita 3 top sense selalu terhalang oleh beberapa kebiasaan buruk dari i
 | **Bekerja dengan silo raksasa yang terstruktur dan sistematis** | Adalah rangkuman dari semua baris di atas, masing-masing menjadi koloni pekerja yang dominan, paling benar, atau yang paling merasa seharusnya tidak dilibatkan (tapi ingin tetap dapat bagian). | Semua sifat negatif akan muncul: defensif, penimbunan informasi tanpa distribusi, dan ego sektoral terhadap duplikasi KPI. Hanya ada kata "aku" atau "kami", tidak ada kata "kita" di dalam kolaborasi. | _All_ |
 
 # Solusi Vendor
-Bagi saya tidak ada kata "amin" bahwa vendor menjadi obat dari resource yang terbatas, namun setuju vendor menjadi "parasetamol" untuk behavior challenge in-house. Vendor akan memberikan role yang tepat terlepas pada penawaran terlepas personelnya mampu (termasuk cepat) atau tidak untuk eksekusi.
+Bagi saya tidak ada kata "amin" bahwa vendor adalah obat resource yang terbatas, namun setuju menjadi "parasetamol". Vendor juga sebagai solusi challenge sense di in-house, karena bergerak bukan karena sense tetapi nominal proyek. Vendor akan memberikan role yang tepat terlepas pada penawaran terlepas personelnya mampu (termasuk cepat) atau tidak untuk eksekusi.
 
 ## Silo Breaker
 
 ![](https://raw.githubusercontent.com/nandcep/nandcep.github.io/refs/heads/master/content/post/2026/assets/vendor-vs-in-house-development/vendor-silo-breaker.png)
 
-Pengalaman bekerja dengan well-known vendor konsultan multi nasional seperti Accenture, Deloitte, Kyndryl, McKinsey, dan ThoughtWorks juga beberapa lokal memiliki kesamaan juga pola kerja. Pada dasarnya mereka tidak mengenal detail klien dengan menempatkan personel atas permintaan.
+Pengalaman bekerja dengan well-known vendor konsultan multi nasional seperti Accenture, Deloitte, Kyndryl, McKinsey, dan ThoughtWorks juga beberapa lokal memiliki kesamaan juga pola kerja. Pada dasarnya mereka tidak mengenal detail klien, mereka cukup menempatkan personelnya atas permintaan role.
 
 Hal tersebut menjadi menjadi kelebihan bukan kekurangan untuk mendobrak rangkuman terbesar terkait Silo. Kenapa? Pragmatisme untuk mencapai tujuan. Berikut adalah nilai tujuan pragmatisme yang menjadi pemecahan masalah?
 
@@ -166,10 +166,12 @@ Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor 
 
 | Symptom | Driver | Side Impact |
 | --- | --- | --- |
-| Keputusan disetir pihak luar secara mayoritas meski tidak ada yang setuju | Vendor mendorong keputusan diambil dan apabila tidak diambil maka akan ter-eskalasi hingga top level untuk diambil | _Second Opinion_ |
-| Hasil laporan berlebihan dan tidak didasari fakta, fabrikasi kuantitas serta kualitas |  | _Business Integration_, _Second Opinion_ |
-| Proses hand-over yang cluttering di akhir dan menjadi tidak bertuan |  | _Business Integration_ |
-| Tanggung jawab akhir yang harus berlanjut sangat memberatkan |  | _All_  |
+| Keputusan disetir vendor secara mayoritas (banyak) ada yang tidak setuju | Vendor mendorong keputusan diambil dan apabila tidak diambil maka akan ter-eskalasi hingga top level untuk diambil. Pasal penalti tidak berlaku ketika blocker ada pada _user_, karena vendor tidak pernah bertanggung jawab memberikan keputusan, sudah ada hukum yang mengatur di procurement. | _Second Opinion_ |
+| Hasil laporan tidak faktual dan akurat, ada fabrikasi kuantitas serta kualitas | Vendor menggunakan data untuk dapat "menekan" pengambilan keputusan stakeholder dengan dibuat sangat **turun**, atau untuk dapat "closing" secepatnya dengan dibuat sangat "baik" atau untuk "menenangkan" situasi dengan dibuat "normal" | _Business Integration_, _Second Opinion_ |
+| Proses hand-over yang _cluttering_ di akhir dan menjadi tidak bertuan | Vendor tidak bertugas membuat organik menjadi pintar. Pada ukuran proyek yang besar mereka sibuk mengumpulkan artefak dokumentasi yang kompleks, banyak, dan arrange sesi training yang singkat demi closing. Penyerapan ilmu oleh organik untuk dapat melanjutkan tidak pernah jadi tanggung jawab vendor sekalipun beli jasa support. | _Business Integration_ |
+| Tanggung jawab akhir yang harus berlanjut sangat memberatkan dan berujung additional **costs** | Intinya _ice berg_ technical debt dari vendor tidak akan seutuhnya terlihat, yang terlihat hanya masalah implementasi. Ujungnya _organik_ membeli support dengan ketergantungan untuk keberlanjutan pengembangan selanjutnya dan repetitif. | _All_ |
+
+Kembali membantah statement challenge "tidak akan terjadi ketika organik dominan" sangat simple yaitu dari sisi persegi timeline, "siapa yang berani menghambat timeline proyek besar yang di mana biasa permintaan dari C-Level dengan debat kusir sekalipun itu VP?" Pertanyaan balik ini membuat saya lolos interview di Pertamina.
 
 # Kesimpulan
 
