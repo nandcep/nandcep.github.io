@@ -171,8 +171,10 @@ Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor 
 | Proses hand-over yang _cluttering_ di akhir dan menjadi tidak bertuan | Vendor tidak bertugas membuat organik menjadi pintar. Pada ukuran proyek yang besar mereka sibuk mengumpulkan artefak dokumentasi yang kompleks, banyak, dan arrange sesi training yang singkat demi closing. Penyerapan ilmu oleh organik untuk dapat melanjutkan tidak pernah jadi tanggung jawab vendor sekalipun beli jasa support. | _Business Integration_ |
 | Tanggung jawab akhir yang harus berlanjut sangat memberatkan dan berujung additional **costs** | Intinya _ice berg_ technical debt dari vendor tidak akan seutuhnya terlihat, yang terlihat hanya masalah implementasi. Ujungnya _organik_ membeli support dengan ketergantungan untuk keberlanjutan pengembangan selanjutnya dan repetitif. | _All_ |
 
-Kembali membantah statement challenge "tidak akan terjadi ketika organik dominan" sangat simple yaitu dari sisi persegi timeline, "siapa yang berani menghambat timeline proyek besar yang di mana biasa permintaan dari C-Level dengan debat kusir sekalipun itu VP?" Pertanyaan balik ini membuat saya lolos interview di Pertamina.
+Kembali tentang challenge "tidak akan terjadi ketika organik dominan" sangat simple yaitu dari sisi persegi **timeline**, "siapa yang berani menghambat timeline proyek besar yang biasa permintaannya dari C-Level untuk debat mekanik sekalipun itu VP?" dan "secara RACI, dengan adanya vendor untuk eksekusi maka A(ccountability) seberapa besar di in-house dan seberapa besar R(esponsibility)nya?" 
+
+Pertanyaan balik ini membuat saya lolos interview di Pertamina.
 
 # Kesimpulan
 
-Kenapa hybrid?
+Di awal asalkan semua sense tersebut dapat ada. Kenapa hybrid?
