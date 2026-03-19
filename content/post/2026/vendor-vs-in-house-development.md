@@ -12,12 +12,12 @@ draft: true
 
 Disclaimer saya tidak suka kata vendor karena pernah di posisi tersebut, sehingga lebih suka menyebutnya sebagai partner. Tetapi memang kata vendor kuat, karena secara gamblang adalah sebagai pihak luar yang dilibatkan. Jadi ijin menggunakan kata vendor tanpa ada maksud apapun. Lagi, saya pernah menjadi partner teknologi.
 
-Di dalam bekerja saya selalu percaya bahwa hasil adalah yang utama, baik itu dilakukan secara individual ataupun kolaborasi. Pada tulisan berikut saya ingin menuangkan pemikiran tentang development proyek, baik yang menengah atau yang berdampak luas ke organisasi dan kerap butuh analisa untuk dieksekusi secara internal atau butuh tenaga bantuan luar.
+Di dalam bekerja saya selalu percaya bahwa hasil adalah yang utama, baik itu dilakukan secara individual ataupun kolaborasi. Pada tulisan berikut saya ingin menuangkan pemikiran tentang development proyek, baik impact menengah atau yang berdampak luas ke organisasi dan kerap butuh analisa untuk dieksekusi secara internal atau butuh tenaga bantuan luar.
 
 
 ```mermaid
 quadrantChart
-    title Big Project Development
+    title Project Execution
     x-axis Short Term --> Long Term
     y-axis Technical --> Managerial
     quadrant-1 Agile collaboration
