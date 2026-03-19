@@ -167,7 +167,7 @@ Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor 
 | Symptom | Driver | Side Impact |
 | --- | --- | --- |
 | Keputusan disetir vendor secara mayoritas (banyak) ada yang tidak setuju | Vendor mendorong keputusan diambil dan apabila tidak diambil maka akan ter-eskalasi hingga top level untuk diambil. Pasal penalti tidak berlaku ketika blocker ada pada _user_, karena vendor tidak pernah bertanggung jawab memberikan keputusan, sudah ada hukum yang mengatur di procurement. | _Second Opinion_ |
-| Hasil laporan tidak faktual dan akurat, ada fabrikasi kuantitas serta kualitas | Vendor menggunakan data untuk dapat "menekan" pengambilan keputusan stakeholder dengan dibuat sangat **turun**, atau untuk dapat "closing" secepatnya dengan dibuat sangat "baik" atau untuk "menenangkan" situasi dengan dibuat "normal" | _Business Integration_, _Second Opinion_ |
+| Hasil laporan tidak faktual dan akurat, ada fabrikasi kuantitas serta kualitas | Vendor menggunakan data untuk dapat "menekan" pengambilan keputusan stakeholder dengan dibuat sangat **turun**, atau untuk dapat "closing" secepatnya dengan dibuat sangat **baik** atau untuk "menenangkan" situasi dengan dibuat **normal** | _Business Integration_, _Second Opinion_ |
 | Proses hand-over yang _cluttering_ di akhir dan menjadi tidak bertuan | Vendor tidak bertugas membuat organik menjadi pintar. Pada ukuran proyek yang besar mereka sibuk mengumpulkan artefak dokumentasi yang kompleks, banyak, dan arrange sesi training yang singkat demi closing. Penyerapan ilmu oleh organik untuk dapat melanjutkan tidak pernah jadi tanggung jawab vendor sekalipun beli jasa support. | _Business Integration_ |
 | Tanggung jawab akhir yang harus berlanjut sangat memberatkan dan berujung additional **costs** | Intinya _ice berg_ technical debt dari vendor tidak akan seutuhnya terlihat, yang terlihat hanya masalah implementasi. Ujungnya _organik_ membeli support dengan ketergantungan untuk keberlanjutan pengembangan selanjutnya dan repetitif. | _All_ |
 
@@ -177,19 +177,19 @@ Semua yang berbasis industri engineering baik itu instalasi infrastruktur, energ
 
 # Kesimpulan
 
-Apakah menurut saya dari diskusi seharusnya utilisasi in-house organik harus dioptimalkan, iya tetapi ada sense yang minimal dibangun untuk champion. Apakah harus dengan vendor jawabannya adalah tidak harus tetapi sebaiknya ada untuk proyek besar sebagai augmented resource. Berikut adalah peran dari senior leader minimal VP atau powernya dari C-Level menurut pengalaman enable in-house:
-1. Menetapkan champion dengan tebang pilih, melibatkan personel organik yang dapat bekerja pada satu visi misi dan jangan segan meminggirkan para blocker.
+Apakah menurut saya dari diskusi seharusnya utilisasi in-house organik harus dioptimalkan, iya tetapi ada sense yang minimal dibangun untuk _champion_. Apakah harus dengan vendor jawabannya adalah tidak harus tetapi sebaiknya ada untuk proyek besar sebagai augmented resource. Berikut adalah peran dari senior leader minimal VP atau powernya dari C-Level menurut pengalaman enable in-house:
+1. Menetapkan _champion_ dengan tebang pilih, melibatkan personel organik yang dapat bekerja pada satu visi misi dan jangan segan meminggirkan para blocker.
 2. Memberikan target dan resiko apabila proyek tidak dieksekusi secara tertulis, apabila perlu resiko dibungkus dalam bentuk "intimidasi" jika tidak dieksekusi.
-3. Define scope over mencari pekerjaan untuk melarisi vendor, konyol sekali talent organik dibayar mahal apalagi champion untuk digantikan pekerjannya oleh vendor.
+3. Define scope over mencari pekerjaan untuk melarisi vendor, konyol sekali talent organik dibayar mahal apalagi _champion_ untuk digantikan pekerjannya oleh vendor.
 4. Meminta organik untuk update laporan berkala di steering committee update, untuk memastikan organik paham meski data dari vendor.
 
 Dan kapan harus menggunakan vendor? Lagi terkait estimasi pekerjaan di awal lewat persegi proyek apapun kondisinya yang terbaik adalah jangan pernah terima jadi oleh vendor, hybrid development dengan model 50% organik dan 50% vendor untuk eksekusi. Seperti apa detail rulesnya?
 1. Memastikan semua ide dan desain berangkat dari organik dan terdokumen, detail tambahan dan implementasi dapat dibuat oleh vendor. Sehingga semua artefak ada di setiap bagian tim tanpa perlu menunggu vendor menyusun di akhir.
 2. Menempatkan fase review tepat sebelum testing dengan organik yang melakukan review untuk memberikan feedback, biarkan konflik berada di implementasi.
-3. Membuat struktur project coordinator melalui champion, sehingga semua konflik di ranah teknis dapat disolusikan di teknis tanpa perlu muncul di update steering committee.
+3. Membuat struktur _project coordinator_ melalui _champion_, sehingga semua konflik di ranah teknis dapat disolusikan di teknis tanpa perlu muncul di update steering committee.
 4. Menempatkan personel organik yang memiliki kepribadian Steadiness (S) dan Conscientiousness (C) untuk melakukan review terhadap laporan vendor, dari pengalaman saya ini sangat efektif untuk membentuk laporan yang ada insight namun relevan.
 5. Membuat vendor mostly under surface untuk tetap berada di area implementasi terlepas mereka punya role project management. Tarik mereka ke permukaan hanya untuk mendukung statement organik ketika memberikan penjelasan detail atau dibantah. 
 
-Last but not least, bekerja di perusahaan besar tidak membuat saya berpikir "sudah bayar vendor kenapa harus turun tangan?", karena top level juga dapat berkata "saya bisa langsung minta vendor yang handle pekerjaan, kenapa masih harus mempekerjakan kamu?" Jadi top 3 sense jadi added value bagi organik kenapa mereka masih berharga, terlepas tetap dibantu vendor.
+Last but not least, bekerja di perusahaan besar tidak membuat saya berpikir "_sudah bayar vendor kenapa harus turun tangan_?", karena top level juga dapat berkata "_saya bisa langsung minta vendor yang handle pekerjaan, kenapa masih harus mempekerjakan kamu_?" Jadi top 3 sense jadi added value bagi organik kenapa mereka masih berharga, terlepas tetap dibantu vendor.
 
 Atau bisa jadi vendor yang akan jadi atasan suatu saat, who knows?
