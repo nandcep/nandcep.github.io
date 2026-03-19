@@ -141,12 +141,12 @@ Dependensi tugas disampaikan ke bagian organik lain atau agen yang ada di sana u
 
 > Dari semua laporan akan dibantu oleh agen untuk membentuk rangkuman pencapaian, perencanaan strategis untuk improvement, dan tone dari blockernya adalah positif input
 
-Kenapa tone dari agen business integration selalu positif input? Karena tidak ada yang suka dipecut dengan hal negatif, _rule of thumb_ adalah _sugar coating to warn and offer the cure_ agar dapat diterima oleh pihak yang diserang. Saya secara personal setuju, untuk apa sibuk menghabiskan energi mendobrak pintu agar semua organik bergerak. 
+Kenapa tone dari selalu positif input? Karena tidak ada yang suka dipecut dengan hal negatif. _Rule of thumb_ adalah _sugar coating to warn and offer the cure_ agar dapat diterima oleh pihak yang diserang. Saya secara personal setuju, untuk apa sibuk menghabiskan energi mendobrak pintu agar semua organik bergerak. 
 
 Semua pemikiran didasari pengalaman saya pernah menjadi agen tersebut. Titlenya keren yaitu Business Architect dan mandays dibayar cukup mahal padahal hanya bermodal analisa dan sikap taktis.
 
 ### As Second Opinion
-Personel yang ditempatkan oleh vendor di tim proyek untuk eksekusi proyek pastinya adalah orang yang setidaknya paham terkait teknis. Mereka dituntut result-oriented, agnostik, dan respon yang relevan. Agnostik dan respon relevan adalah hal menarik berdasarkan pengalaman saya menjadi konsultan yang pragmatis, yaitu perihal manajemen resiko dan fleksibilitas eksekusi.
+Personel yang ditempatkan oleh vendor untuk eksekusi proyek pastinya adalah orang yang setidaknya paham terkait teknis. Mereka dituntut result-oriented, agnostik, dan respon yang relevan. Agnostik dan respon relevan adalah hal menarik berdasarkan pengalaman saya menjadi konsultan yang pragmatis, yaitu perihal manajemen resiko dan fleksibilitas eksekusi.
 
 Pada dasarnya vendor dihire untuk mengisi gap kekosongan yang ada di klien, entah itu resource, skill, atau teknologi. Vendor dituntut untuk mengisi pertanyaan 2W1H:
 1. Apa kebutuhan untuk mengatasi masalah saya?
@@ -173,12 +173,23 @@ Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor 
 
 Kembali tentang challenge "tidak akan terjadi ketika organik dominan" sangat simple yaitu dari sisi persegi **timeline**, "siapa yang berani menghambat timeline proyek besar permintaan C-Level untuk debat mekanik sekalipun itu VP?" dan "adanya vendor di RACI untuk eksekusi maka seberapa besar A(ccountability) dan R(esponsibility)nya di in-house?" Pertanyaan balik ini mengantarkan saya lolos interview di Pertamina. 
 
-Semua yang berbasis industri engineering baik itu instalasi infrastruktur, energy, dan teknologi informasi kedua pertanyaan di atas teknikal karena terkait politik dan eksekusi. Lagi, terkait kontrol dan hasil yang dinilai dari organik yang mengatur proyek. Ya kali terima jadi tanpa kontrol nanti menjadi boomerang.
+Semua yang berbasis industri engineering baik itu instalasi infrastruktur, energy, dan teknologi informasi kedua pertanyaan di atas teknikal karena terkait politik dan eksekusi. Lagi, terkait kontrol dan hasil yang dinilai dari organik yang mengatur proyek. Ya kali terima jadi tanpa kontrol, nanti menjadi boomerang.
 
 # Kesimpulan
 
-Apakah menurut saya dari diskusi seharusnya utilisasi in-house organik harus dioptimalkan, iya tetapi ada sense yang minimal dibangun untuk champion dan apakah harus dengan vendor jawabannya adalah tidak harus tetapi sebaiknya ada untuk proyek besar sebagai augmented resource. Berikut adalah peran dari senior leader minimal VP atau powernya dari C-Level:
-1. Menetapkan champion dengan tebang pilih, melibatkan personel organik yang satu visi dan misi.
+Apakah menurut saya dari diskusi seharusnya utilisasi in-house organik harus dioptimalkan, iya tetapi ada sense yang minimal dibangun untuk champion. Apakah harus dengan vendor jawabannya adalah tidak harus tetapi sebaiknya ada untuk proyek besar sebagai augmented resource. Berikut adalah peran dari senior leader minimal VP atau powernya dari C-Level menurut pengalaman enable in-house:
+1. Menetapkan champion dengan tebang pilih, melibatkan personel organik yang dapat bekerja pada satu visi misi dan jangan segan meminggirkan para blocker.
 2. Memberikan target dan resiko apabila proyek tidak dieksekusi secara tertulis, apabila perlu resiko dibungkus dalam bentuk "intimidasi" jika tidak dieksekusi.
 3. Define scope over mencari pekerjaan untuk melarisi vendor, konyol sekali talent organik dibayar mahal apalagi champion untuk digantikan pekerjannya oleh vendor.
 4. Meminta organik untuk update laporan berkala di steering committee update, untuk memastikan organik paham meski data dari vendor.
+
+Dan kapan harus menggunakan vendor? Lagi terkait estimasi pekerjaan di awal lewat persegi proyek apapun kondisinya yang terbaik adalah jangan pernah terima jadi oleh vendor, hybrid development dengan model 50% organik dan 50% vendor untuk eksekusi. Seperti apa detail rulesnya?
+1. Memastikan semua ide dan desain berangkat dari organik dan terdokumen, detail tambahan dan implementasi dapat dibuat oleh vendor. Sehingga semua artefak ada di setiap bagian tim tanpa perlu menunggu vendor menyusun di akhir.
+2. Menempatkan fase review tepat sebelum testing dengan organik yang melakukan review untuk memberikan feedback, biarkan konflik berada di implementasi.
+3. Membuat struktur project coordinator melalui champion, sehingga semua konflik di ranah teknis dapat disolusikan di teknis tanpa perlu muncul di update steering committee.
+4. Menempatkan personel organik yang memiliki kepribadian Steadiness (S) dan Conscientiousness (C) untuk melakukan review terhadap laporan vendor, dari pengalaman saya ini sangat efektif untuk membentuk laporan yang ada insight namun relevan.
+5. Membuat vendor mostly under surface untuk tetap berada di area implementasi terlepas mereka punya role project management. Tarik mereka ke permukaan hanya untuk mendukung statement organik ketika memberikan penjelasan detail atau dibantah. 
+
+Last but not least, bekerja di perusahaan besar tidak membuat saya berpikir "sudah bayar vendor kenapa harus turun tangan?", karena top level juga dapat berkata "saya bisa langsung minta vendor yang handle pekerjaan, kenapa masih harus mempekerjakan kamu?" Jadi top 3 sense jadi added value bagi organik kenapa mereka masih berharga, terlepas tetap dibantu vendor.
+
+Atau bisa jadi vendor yang akan jadi atasan suatu saat, who knows?
