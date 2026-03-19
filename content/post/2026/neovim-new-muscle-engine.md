@@ -32,12 +32,18 @@ apt install vim git tmux
 
 Dengan bermodal Vim dan Git sudah dapat mulai bekerja. Sedikit tambahan yaitu multiplexer dengan tmux. Tetapi memang ada yang kurang, yaitu syntax highlightning dan File tree browser agar mudah menavigasi karena mata jadi cepat lelah hanya warna hitam dan putih.
 
-Selain masalah navigasi, juga butuh beberapa utility untuk development agar semakin lincah. Katakanlah untuk linting, auto complete, running terminal parallel, dan lainnya seperti di VSCode. Untuk terminal sebetulnya masih dapat diakali dengan tmux.
+Selain masalah navigasi, juga butuh beberapa utility untuk development agar semakin lincah. Jadi butuh linting, auto complete, running split terminal, dan lainnya seperti di VSCode. Untuk terminal split masih dapat diakali dengan tmux, tapi tidak native.
 
 ## Setup Neovim
 
+Karena kurang puas, saya mencari bahan lainnya agar Vim jadi lebih powerful. Dari hasil pencarian banyak yang merekomendasikan Neovim sebuah extended version dari Vim. Karena mendukung LSP dan Treesitter. Sepemahaman saya kurang lebih adalah sebagai berikut.
 
+LSP adalah _Language Server Protocol_ agar editor dapat berinteraksi dengan layanan dari bahasa pemrograman seperti analisa sekarang saya sedang mengetik bahasa apa dan apa saja sintaks yang didukung oleh Development Kit juga paket yang ada di dalam proyek.
+
+Treesitter adalah syntax highlightning 
 
 ## Setup Nvchad
+
+## Setup Tambahan
 
 # Pengalaman
