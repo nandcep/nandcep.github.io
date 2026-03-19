@@ -5,7 +5,7 @@ authors: ["nandra"]
 title: Vendor versus In-House untuk Development
 slug: vendor-vs-in-house-untuk-development
 tags: [arsitektur]
-draft: true
+draft: false
 ---
 
 # 👥 Pembuka
