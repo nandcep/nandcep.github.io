@@ -36,7 +36,7 @@ quadrantChart
 
 Beberapa waktu lalu sempat ada diskusi "_seharusnya sebuah perusahaan utilisasi tim internal teknis membangun sistem IT_". Pertanyaan dengan bab yang luas. Kalau merefleksikan, kapan saya butuh vendor untuk mengerjakan? Untuk menjawabnya pasti ada 4 sudut yang pertama kali dipikirkan yaitu _scope, timeline, resource,_ dan _budget_.
 
-4 sudut yang menjadi persegi menyebalkan dengan segala permutasinya. Tetapi katakanlah scope besar, timeline mencukupi, resource mendukung, dan budget ada. Resource ini yang challenging karena butuh kolaborasi. Karena tidak semua orang sepemahaman apalagi jika tidak satu ada gap visi, kemampuan, silo, dan membawa agendanya masing-masing.
+4 sudut yang menjadi persegi menyebalkan dengan segala permutasinya. Tetapi katakanlah scope besar, timeline mencukupi, resource mendukung, dan budget ada. Resource yang paling challenging karena butuh kolaborasi. Karena tidak semua orang sepemahaman apalagi jika tidak satu ada gap visi, kemampuan, silo, dan membawa agendanya masing-masing.
 
 # 🧑🏽‍💻 Memulai In-House
 Pada bagian pembuka sebetulnya sudah jelas, dengan adanya jumlah resource yang memadai baik jumlah serta skill bukan artinya eksekusi akan selaras. Adanya endorsement dari manajemen bukan jadi jaminan apalagi jika management juga silo dari top level. Saya akan mulai dengan ideal apabila ingin memulai IT development dengan in-house. 
@@ -72,17 +72,17 @@ mindmap
 
 ## Sense yang Dibangun
 
-Untuk dapat memulai proyek in-house dengan lancar harus ada 3 top sense yang dibutuhkan menurut pandangan saya. Ini teori yang ada di kepala dan menurut keyakinan pribadi saja. Ini juga yang berhasil dilakukan di Bank Mandiri oleh atasan saya terdahulu dan entah kenapa banyak perusahaan lain yang denial, padahal ketika diskusi atau interview mereka sadar bahwa hal tersebut valid.
+Untuk dapat memulai proyek in-house dengan lancar harus ada 3 top sense yang dibutuhkan menurut pandangan saya. Sebuah teori yang ada di kepala dan menurut keyakinan pribadi saja. Dan juga berhasil dilakukan di Bank Mandiri oleh atasan saya dulu dan entah kenapa banyak perusahaan lain yang denial, padahal ketika diskusi atau interview mereka sadar bahwa hal tersebut valid.
 
 ### Sense of Urgency
 
 Proyek yang digerakkan oleh urgensi menjadi terasa penting. Sekiranya di setiap coaching leadership pasti dibekali dengan pengetahuan mengenali kepribadian tim lewat DISC (Dominance, Influence, Steadiness, dan Conscientiousness). Apapun bentuk anggota, pasti masing-masing mewakili karakteristik tersebut. Satu hal yang pasti, mereka patuh dan selaras apabila diberikan urgensi.
 
-Ketika semua tim in-house mendapatkan uraian kenapa development ini sangat penting, maka mereka akan tergerak. Dengan catatan urgensi tersampaikan oleh leader dengan tepat: 
+Ketika semua tim in-house mendapatkan uraian kenapa proyek sangat penting, maka mereka akan tergerak. Dengan catatan urgensi tersampaikan oleh leader dengan tepat: 
 1. Anggota dengan kepribadian Dominance (D) akan berambisi terhadap hasil dan milestone eksekusinya karena paham prioritas akan target oleh manajemen.
-2. Anggota dengan kepribadian Influence (I) akan tergerak untuk segera berkolaborasi dengan tim lain karena paham prioritas ini tidak akan berjalan tanpa tim lain.
-3. Anggota dengan kepribadian Steadiness (S) akan siap selalu support semua tim karena paham prioritas ini penting untuk kemashalatan bersama.
-4. Anggota dengan kepribadian Conscientiousness (C) akan siap memikirkan solusinya segera dan seksama karena paham prioritas ini penuh tantangan.
+2. Anggota dengan kepribadian Influence (I) akan tergerak untuk segera berkolaborasi dengan tim lain karena paham aktivitas tidak akan berjalan tanpa tim lain.
+3. Anggota dengan kepribadian Steadiness (S) akan siap selalu support semua tim karena paham prioritas proyek penting untuk kemashalatan bersama.
+4. Anggota dengan kepribadian Conscientiousness (C) akan siap memikirkan solusinya segera dan seksama karena paham prioritas penuh tantangan.
 
 ### Sense of Ownership
 
@@ -96,7 +96,7 @@ Terkait role _champion_, harus personel yang memiliki ownership tinggi di bidang
 
 Adalah sebuah sikap untuk pro-aktif, berorientasi pada hasil, dan konsisten untuk menghasilkan outcome. Outcome, bukan hanya result yang tampak high perform. Outcome itu jangka panjang karena di proyek yang harus dijamin adalah sustainabilitynya. Siapa yang akan menjadi penanggung jawabnya? Tentunya harus dari organik dari perusahaan itu sendiri.
 
-Sikap ini mirip dengan mindset marathon yang harus dimiliki oleh personel organik yang terlibat dengan tetap memperhatikan pacenya. Harus tahu bagaimana cara menyelesaikan tasks, kapan harus cepat menyelesaikan milestone, kenapa masih ada yang tidak perform, dan apa target selanjutnya. Karena kompleksitas di skala besar itu banyak permutasi permasalahannya.
+Sikap yang mirip dengan mindset marathon dan harus dimiliki oleh personel organik yang terlibat dengan tetap memperhatikan pacenya. Harus tahu bagaimana cara menyelesaikan tasks, kapan harus cepat menyelesaikan milestone, kenapa masih ada yang tidak perform, dan apa target selanjutnya. Karena kompleksitas di skala besar itu banyak permutasi permasalahannya.
 
 Jangan cepat puas adalah key takeaway yang saya dapatkan dari mantan SVP di Bank Mandiri. Dengan percaya diri saya menyatakan bahwa layanan channel loan skala nasional dan terintegrasi dengan multiple well known payment providers yang dibangun dalam waktu 4 bulan, mampu menangani ~5.000 s/d 10.000 req/s sesuai permintaan direktur bisnis. 
 
@@ -104,7 +104,7 @@ Apa yang beliau sampaikan masih terngiang hingga saat ini dan membentuk cara ber
 
 ## Challenge
 
-Development proyek secara in-house menjadi masuk akal apabila 3 top sense di atas terpenuhi. Terlepas dari budget yang dapat dialokasikan ke hal lain. Dan dengan catatan kenapa skill tidak dimasukkan? Karena di setiap organisasi pasti ada si perform, si medioker, dan si under perform. Dan masing-masing skill ini tidak mewakilkan sensenya, hanya mewakilkan resultnya.
+Development proyek secara in-house menjadi masuk akal apabila 3 top sense di atas terpenuhi. Terlepas dari budget yang dapat dialokasikan ke hal lain. Dan dengan catatan kenapa skill tidak dimasukkan? Karena di setiap organisasi pasti ada si perform, si medioker, dan si under perform. Dan masing-masing skill tidak mewakilkan sensenya, hanya mewakilkan resultnya.
 
 Secara realita 3 top sense selalu terhalang oleh beberapa kebiasaan buruk dari in-house yang menjadi deal-breaker sebagai berikut
 
@@ -162,7 +162,7 @@ Ibarat dari 2 tim sepak bola yang berbeda melakukan latihan sparring bersama seb
 Ironis kelemahan dari in-house yang silo adalah tidak dapat mematangkan identifikasi kelebihan dan kekurangan sendiri sedari awal sampai saat harus menghadapi masalah secara langsung. Vendor memiliki jurus terbaik yaitu gap analysis yang menunjang kemampuan untuk menjadi second opinion dan sebagai pihak netral mereka diuntungkan karena terhindar conflict of interest.
 
 ## Challenge
-Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor akan mengakibatkan ketergantungan dan beban biaya yang tidak terlihat dan tidak mengobati masalah struktural internal karena tugas utamanya sebagai augmented resource. Saya pernah menyampaikan challenge ini ketika sesi interview untuk membantah statement "challengemu tidak akan terjadi ketika organik juga dominan". 
+Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor akan mengakibatkan ketergantungan dan beban biaya yang tidak terlihat dan tidak mengobati masalah struktural internal karena tugas utamanya sebagai augmented resource. Saya pernah menyampaikan challenge berikut ketika sesi interview untuk membantah statement "pendapatmu tidak valid jika organik dominan". 
 
 | Symptom | Driver | Side Impact |
 | --- | --- | --- |
@@ -178,7 +178,7 @@ Semua yang berbasis industri engineering baik itu instalasi infrastruktur, energ
 # Kesimpulan
 
 Apakah menurut saya dari diskusi seharusnya utilisasi in-house organik harus dioptimalkan, iya tetapi ada sense yang minimal dibangun untuk _champion_. Apakah harus dengan vendor jawabannya adalah tidak harus tetapi sebaiknya ada untuk proyek besar sebagai augmented resource. Berikut adalah peran dari senior leader minimal VP atau powernya dari C-Level menurut pengalaman enable in-house:
-1. Menetapkan _champion_ dengan tebang pilih, melibatkan personel organik yang dapat bekerja pada satu visi misi dan jangan segan meminggirkan para blocker.
+1. Menetapkan _champion_ dengan tebang pilih, melibatkan personel organik yang mau bekerja pada satu visi misi daripada yang jago tapi menghambat dan jangan segan meminggirkan para blocker.
 2. Memberikan target dan resiko apabila proyek tidak dieksekusi secara tertulis, apabila perlu resiko dibungkus dalam bentuk "intimidasi" jika tidak dieksekusi.
 3. Define scope over mencari pekerjaan untuk melarisi vendor, konyol sekali talent organik dibayar mahal apalagi _champion_ untuk digantikan pekerjannya oleh vendor.
 4. Meminta organik untuk update laporan berkala di steering committee update, untuk memastikan organik paham meski data dari vendor.
@@ -187,9 +187,9 @@ Dan kapan harus menggunakan vendor? Lagi terkait estimasi pekerjaan di awal lewa
 1. Memastikan semua ide dan desain berangkat dari organik dan terdokumen, detail tambahan dan implementasi dapat dibuat oleh vendor. Sehingga semua artefak ada di setiap bagian tim tanpa perlu menunggu vendor menyusun di akhir.
 2. Menempatkan fase review tepat sebelum testing dengan organik yang melakukan review untuk memberikan feedback, biarkan konflik berada di implementasi.
 3. Membuat struktur _project coordinator_ melalui _champion_, sehingga semua konflik di ranah teknis dapat disolusikan di teknis tanpa perlu muncul di update steering committee.
-4. Menempatkan personel organik yang memiliki kepribadian Steadiness (S) dan Conscientiousness (C) untuk melakukan review terhadap laporan vendor, dari pengalaman saya ini sangat efektif untuk membentuk laporan yang ada insight namun relevan.
+4. Menempatkan personel organik yang memiliki kepribadian Steadiness (S) dan Conscientiousness (C) untuk melakukan review terhadap laporan vendor, dari pengalaman saya rule berikut sangat efektif untuk membentuk laporan yang ada insight namun relevan.
 5. Membuat vendor mostly under surface untuk tetap berada di area implementasi terlepas mereka punya role project management. Tarik mereka ke permukaan hanya untuk mendukung statement organik ketika memberikan penjelasan detail atau dibantah. 
 
-Last but not least, bekerja di perusahaan besar tidak membuat saya berpikir "_sudah bayar vendor kenapa harus turun tangan_?", karena top level juga dapat berkata "_saya bisa langsung minta vendor yang handle pekerjaan, kenapa masih harus mempekerjakan kamu_?" Jadi top 3 sense jadi added value bagi organik kenapa mereka masih berharga, terlepas tetap dibantu vendor.
+Last but not least, bekerja di perusahaan besar tidak membuat saya berpikir "_sudah mahal bayar vendor kenapa harus turun tangan_?", karena top level juga dapat berkata "_saya bisa langsung minta vendor yang handle pekerjaan, kenapa masih harus bayar dengan mempekerjakan kamu_?" Jadi top 3 sense jadi added value bagi organik kenapa mereka masih berharga, terlepas tetap dibantu vendor.
 
-Atau bisa jadi vendor yang akan jadi atasan suatu saat, who knows?
+Atau bisa jadi vendor akan menjadi atasan suatu saat, who knows?
