@@ -2,8 +2,8 @@
 date: 2026-03-15T00:01:00+07:00
 lastmod: 2026-03-16T00:01:30+07:00
 authors: ["nandra"]
-title: Vendor versus In-House Development
-slug: vendor-vs-in-house-development
+title: Vendor versus In-House untuk Development
+slug: vendor-vs-in-house-untuk-development
 tags: [arsitektur]
 draft: true
 ---
@@ -12,7 +12,7 @@ draft: true
 
 Disclaimer saya tidak suka kata vendor karena pernah di posisi tersebut, sehingga lebih suka menyebutnya sebagai partner. Tetapi memang kata vendor kuat, karena secara gamblang adalah sebagai pihak luar yang dilibatkan. Jadi ijin menggunakan kata vendor tanpa ada maksud apapun. Lagi, saya pernah menjadi partner teknologi.
 
-Di dalam bekerja saya selalu percaya bahwa hasil adalah yang utama, baik itu dilakukan secara individual ataupun kolaborasi. Pada tulisan berikut saya ingin menuangkan pemikiran tentang development proyek dengan skala besar, yang berdampak luas ke organisasi dan kerap butuh analisa untuk dieksekusi secara mandiri atau internal.
+Di dalam bekerja saya selalu percaya bahwa hasil adalah yang utama, baik itu dilakukan secara individual ataupun kolaborasi. Pada tulisan berikut saya ingin menuangkan pemikiran tentang development proyek, baik yang menengah atau yang berdampak luas ke organisasi dan kerap butuh analisa untuk dieksekusi secara internal atau butuh tenaga bantuan luar.
 
 
 ```mermaid
@@ -76,7 +76,7 @@ Untuk dapat memulai proyek in-house dengan lancar harus ada 3 top sense yang dib
 
 ### Sense of Urgency
 
-Sebuah proyek besar yang digerakkan oleh urgensi menjadi krusial. Sekiranya di setiap coaching leadership pasti dibekali dengan pengetahuan mengenali kepribadian tim lewat DISC (Dominance, Influence, Steadiness, dan Conscientiousness). Apapun bentuk anggota, pasti masing-masing mewakili karakteristik tersebut. Satu hal yang pasti, mereka patuh dan selaras apabila diberikan urgensi.
+Proyek yang digerakkan oleh urgensi menjadi terasa penting. Sekiranya di setiap coaching leadership pasti dibekali dengan pengetahuan mengenali kepribadian tim lewat DISC (Dominance, Influence, Steadiness, dan Conscientiousness). Apapun bentuk anggota, pasti masing-masing mewakili karakteristik tersebut. Satu hal yang pasti, mereka patuh dan selaras apabila diberikan urgensi.
 
 Ketika semua tim in-house mendapatkan uraian kenapa development ini sangat penting, maka mereka akan tergerak. Dengan catatan urgensi tersampaikan oleh leader dengan tepat: 
 1. Anggota dengan kepribadian Dominance (D) akan berambisi terhadap hasil dan milestone eksekusinya karena paham prioritas akan target oleh manajemen.
@@ -94,7 +94,7 @@ Terkait role _champion_, harus personel yang memiliki ownership tinggi di bidang
 
 ### Sense of Delivery
 
-Adalah sebuah sikap untuk pro-aktif, berorientasi pada hasil, dan konsisten untuk menghasilkan outcome. Outcome, bukan hanya result yang tampak high perform. Outcome itu jangka panjang karena di sebuah proyek skala besar harus dijamin sustainabilitynya. Siapa yang akan menjadi penanggung jawabnya? Tentunya harus dari organik dari perusahaan itu sendiri.
+Adalah sebuah sikap untuk pro-aktif, berorientasi pada hasil, dan konsisten untuk menghasilkan outcome. Outcome, bukan hanya result yang tampak high perform. Outcome itu jangka panjang karena di proyek yang harus dijamin adalah sustainabilitynya. Siapa yang akan menjadi penanggung jawabnya? Tentunya harus dari organik dari perusahaan itu sendiri.
 
 Sikap ini mirip dengan mindset marathon yang harus dimiliki oleh personel organik yang terlibat dengan tetap memperhatikan pacenya. Harus tahu bagaimana cara menyelesaikan tasks, kapan harus cepat menyelesaikan milestone, kenapa masih ada yang tidak perform, dan apa target selanjutnya. Karena kompleksitas di skala besar itu banyak permutasi permasalahannya.
 
@@ -171,10 +171,14 @@ Persis statement awal yaitu vendor adalah parasetamol atau pereda nyeri. Vendor 
 | Proses hand-over yang _cluttering_ di akhir dan menjadi tidak bertuan | Vendor tidak bertugas membuat organik menjadi pintar. Pada ukuran proyek yang besar mereka sibuk mengumpulkan artefak dokumentasi yang kompleks, banyak, dan arrange sesi training yang singkat demi closing. Penyerapan ilmu oleh organik untuk dapat melanjutkan tidak pernah jadi tanggung jawab vendor sekalipun beli jasa support. | _Business Integration_ |
 | Tanggung jawab akhir yang harus berlanjut sangat memberatkan dan berujung additional **costs** | Intinya _ice berg_ technical debt dari vendor tidak akan seutuhnya terlihat, yang terlihat hanya masalah implementasi. Ujungnya _organik_ membeli support dengan ketergantungan untuk keberlanjutan pengembangan selanjutnya dan repetitif. | _All_ |
 
-Kembali tentang challenge "tidak akan terjadi ketika organik dominan" sangat simple yaitu dari sisi persegi **timeline**, "siapa yang berani menghambat timeline proyek besar yang biasa permintaannya dari C-Level untuk debat mekanik sekalipun itu VP?" dan "secara RACI, dengan adanya vendor untuk eksekusi maka A(ccountability) seberapa besar di in-house dan seberapa besar R(esponsibility)nya?" 
+Kembali tentang challenge "tidak akan terjadi ketika organik dominan" sangat simple yaitu dari sisi persegi **timeline**, "siapa yang berani menghambat timeline proyek besar permintaan C-Level untuk debat mekanik sekalipun itu VP?" dan "adanya vendor di RACI untuk eksekusi maka seberapa besar A(ccountability) dan R(esponsibility)nya di in-house?" Pertanyaan balik ini mengantarkan saya lolos interview di Pertamina. 
 
-Pertanyaan balik ini membuat saya lolos interview di Pertamina.
+Semua yang berbasis industri engineering baik itu instalasi infrastruktur, energy, dan teknologi informasi kedua pertanyaan di atas teknikal karena terkait politik dan eksekusi. Lagi, terkait kontrol dan hasil yang dinilai dari organik yang mengatur proyek. Ya kali terima jadi tanpa kontrol nanti menjadi boomerang.
 
 # Kesimpulan
 
-Di awal asalkan semua sense tersebut dapat ada. Kenapa hybrid?
+Apakah menurut saya dari diskusi seharusnya utilisasi in-house organik harus dioptimalkan, iya tetapi ada sense yang minimal dibangun untuk champion dan apakah harus dengan vendor jawabannya adalah tidak harus tetapi sebaiknya ada untuk proyek besar sebagai augmented resource. Berikut adalah peran dari senior leader minimal VP atau powernya dari C-Level:
+1. Menetapkan champion dengan tebang pilih, melibatkan personel organik yang satu visi dan misi.
+2. Memberikan target dan resiko apabila proyek tidak dieksekusi secara tertulis, apabila perlu resiko dibungkus dalam bentuk "intimidasi" jika tidak dieksekusi.
+3. Define scope over mencari pekerjaan untuk melarisi vendor, konyol sekali talent organik dibayar mahal apalagi champion untuk digantikan pekerjannya oleh vendor.
+4. Meminta organik untuk update laporan berkala di steering committee update, untuk memastikan organik paham meski data dari vendor.
