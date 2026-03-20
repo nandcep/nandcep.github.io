@@ -96,7 +96,7 @@ Berikut beberapa plugin tambahan yang dibutuhkan oleh saya:
 | [Dadbod UI](https://github.com/kristijanhusak/vim-dadbod-ui) | Plugin yang bermanfaat untuk akses database dan Redis. |
 | [Sonar Linter](https://gitlab.com/schrieveslaach/sonarlint.nvim) | Plugin yang bermanfaat sebagai linter validasi Sonar karena code rank biasa menggunakan SonarQube |
 
-Lainnya untuk tweak konfigurasi Mason dan LSP menyesuikan daftar LSP yang diinstal serta minor setting yang dibutuhkan. Setup Mason dan LSP termasuk untuk handle error dengan mengarahkan Lua LSP, gopls, dan goimports ke bawaan OS. Semua sudah ada di repo [personal saya](https://github.com/nandcep/nvim-sync).
+Lainnya untuk tweak konfigurasi Mason dan LSP menyesuikan daftar LSP yang diinstall serta minor setting yang dibutuhkan. Setup Mason dan LSP termasuk untuk handle error dengan mengarahkan Lua LSP, gopls, dan goimports ke bawaan OS. Semua sudah ada di repo [personal saya](https://github.com/nandcep/nvim-sync).
 
 Untuk LSP mengikuti kebutuhan kerja jadi memang sedikit yang diinstall lewat `MasonInstall`. Beberapa di antaranya jdtls, yaml-language-server, dan typescript-language-server. Sedangkan Treesitter dapat diinstall dengan `TSInstall` seperti java, go, yaml, dan typescript.  
 
