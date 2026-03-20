@@ -51,7 +51,7 @@ Apa itu LSP dan Treesitter?
 | _Language Server Protocol (LSP)_ | yang menstandarisasi komunikasi antara editor dengan bahasa pemrograman. Setiap bahasa memiliki LSPnya sendiri, berfungsi agar editor dapat mengenali bahasa pemrograman, code completion, symbol navigation, melakukan referensi, dan diagnosa kode. |
 | _Treesitter_ | parser untuk teks kode menjadi lebih terstruktur seperti identifikasi symbol variable dan fungsi, karakter khusus bahasa pemrograman, syntax highlightning pewarnaan, dan hal lain terkait sintaksis. Ada 2 model yaitu AST dan CST tapi saya bukan orang yang tepat untuk menjelaskan. |
 
-Ada beberapa opsi yaitu Vim dan Neovim, yang paling minim effort untuk setup adalah Neovim. Jadi pilihan sudah ditentukan yaitu Neovim.
+Ada beberapa opsi yaitu Vim dan Neovim, yang paling minim effort untuk setup adalah Neovim karena mendukung 2 benda tersebut _out of the box_. Jadi pilihan jatuh pada Neovim.
  
 ## Setup Neovim
 
