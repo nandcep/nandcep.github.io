@@ -12,11 +12,11 @@ Visual Studio Code (VS Code) tetap jadi code editor andalan saya untuk sapu jaga
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPQ4iyU1oMXcD9n6LgamNj3AWgQSH3OsEAX8QEN4DXCUd_9otqQMgf372Agnx04T89ISi33_cnyQwg-ba_gfpRG9rwYVoH9Gsihw0VlDHSDkSm0550p8iVLOhTmyLSZAxpMgZ6s-FXHSxKb86T0vfNGAw=w2372-h1483-s-no-gm?authuser=0)
 
-Saya masih setia bersama VSCode baik di MacBook Pro pribadi, Thinkpad kantor, dan Termux Desktop di Tab S9+. Berbicara _Electron_ berat, iya tapi belum ada experience karena MacBook masih Sequoia dan Thinkpad terpasang RAM 32GB. Namun untuk Tab S9+ berbeda cerita.
+Sebelumnya saya setia bersama VSCode di MacBook Pro pribadi, Thinkpad kantor, dan Termux Desktop di Tab S9+. Berbicara _Electron_ berat, iya tapi belum ada experience yang berarti karena MacBook masih Sequoia dan Thinkpad RAM 32GB. Namun Tab S9+ beda kisah.
 
-Karena Samsung baru rilis update Android 16 dengan One UI 8 terbarunya, fitur Dex jadi harus pakai eksternal monitor dan terparahnya Termux Desktop berbasis PRoot jadi melambat. Membuka VSCode harus menunggu hampir 2 menit loading baru siap pakai, itu pun lemot.
+Sejak Samsung rilis update Android 16 dengan One UI 8, fitur Dex harus pakai eksternal monitor dan Termux Desktop berbasis PRoot jadi melambat. Membuka VSCode harus menunggu hampir 2 menit loading baru siap pakai, itu pun sering crash.
 
-Setelah cek GitHub ternyata banyak pengguna PRoot di device Samsung yang mendapat One UI terbaru mengalami hal yang serupa. Infonya ada perubahan manajemen CPU, GPU, dan memori yang berdampak ke proses aplikasi. Satu hal yang pasti, update Samsung memang suck! 
+Setelah cek GitHub ternyata banyak pengguna PRoot di device Samsung yang mendapat One UI terbaru mengalami hal yang serupa. Infonya ada perubahan manajemen CPU, GPU, dan memori yang berdampak ke proses aplikasi. Satu hal yang pasti, update Samsung suck! 
 
 > Jadi saya memutuskan untuk re-install Termux dan tanpa Termux Desktop, selamat tinggal VSCode untuk Tab S9+
 
@@ -71,7 +71,7 @@ Neovim tampak menjanjikan karena dapat ditambahkan plugin seperti VSCode, unggul
 
 Sebetulnya NvChad lebih populer di GitHub namun akhirnya keputusan tetap ke LazyVim, setelah mencoba langsung dan membandingkan ternyata LazyVim menawarkan banyak fitur bawaan di awal sedangkan NvChad masih perlu pasang plugin. Sehingga pada akhirnya lanjut dengan LazyVim.
 
-Untuk install dapat mengikuti panduan dari dokumentasi [berikut](https://www.lazyvim.org). Khusus di Termux, ternyata butuh menginstall beberapa package sesuai kebutuhan saya yang diperlukan karena entah kenapa di NvChad sebelumnya sukses tetapi di LazyVim tidak berjalan.
+Untuk install dapat mengikuti panduan dari dokumentasi [berikut](https://www.lazyvim.org). Khusus di LazyVim ternyata butuh beberapa _tweak_ karena entah kenapa di NvChad sebelumnya sukses tetapi di LazyVim tidak berjalan.
 
 2 error tersebut adalah:
 1. Mason terdapat error tidak dapat install stylelua terkait `unsupported platform`.
@@ -108,7 +108,7 @@ So far NeoVim dengan LazyVim membentuk kebiasaan baru yang biasanya GUI centric,
 
 Saya sendiri butuh seminggu rutin menggunakan baru agak terbiasa dan tulisan ini saya buat di NeoVim. Dari segi tampilan, meskipun Text-User-Interface namun susunannya mirip dengan VSCode yang ada di laptop. Jadi mata masih enak melihatnya, kelebihannya jelas NeoVim lebih ringan dan hemat baterai.
 
-Dengan begini maka tidak ragu lagi, dapat dijadikan editor utama di Tab S9+ sebagai alternatif VSCode kalau tidak di depan laptop. Last but not least ada beberapa package tambahan yang menurut saya sangat cocok menjadi pendaking NeoVim yaitu:
+Dengan begini maka tidak ragu lagi, dapat dijadikan editor utama khusus di Tab S9+ sebagai alternatif VSCode kalau tidak di depan laptop. Last but not least ada beberapa tambahan yang menurut saya cocok menjadi pendamping NeoVim:
 
 1. Glow, aplikasi berbasis Go untuk render Markdown di terminal.
 2. GitUI, aplikasi berbasis Rust untuk manajemen Git dengan Text-User-Interface.
