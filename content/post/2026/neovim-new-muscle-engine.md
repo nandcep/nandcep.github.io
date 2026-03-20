@@ -19,37 +19,45 @@ Setelah cek GitHub ternyata banyak pengguna PRoot di device Samsung yang mendapa
 
 > Jadi saya memutuskan untuk re-install Termux dan menggunakannya hanya sebagai terminal tanpa Termux Desktop
 
-# Vim Termux 
+# Vanilla Termux 
 
-Secara pekerjaan coding di Tablet saya hanya berkutat dengan text dan perintah. Jadi terminal saja sudah cukup. Terinspirasi dari cerita coder di era 90an, mereka menggunakan Text-User-Interface (TUI) seperti Vim, Free Prascal, dan Pacific C.
+Secara pekerjaan coding di Tablet saya hanya berkutat dengan text dan perintah. Terinspirasi dari cerita coder di era 90an, mereka menggunakan Text-User-Interface (TUI) seperti Vim, Free Prascal, dan Pacific C. Jadi harusnya terminal saja cukup dengan menggunakan [Termux](https://github.com/termux/termux-app) untuk full coding.
 
-Berhubung Termux menyediakan package manager untuk install Vim, saya langsung menginstall Vim berikut dengan Git untuk keperluan manajemen repository.
+Berhubung Termux sudah menyediakan manager untuk install keperluan development maka segera install Git, network tools, perkakas development lainnya, termasuk `tmux`.
 
 ```
 apt update && apt upgrade -y 
-apt install vim git tmux 
+apt install zsh git curl wget tmux golang nodejs-lts openjdk-21
 ```
 
-Dengan bermodal Vim dan Git sudah dapat mulai bekerja. Sedikit tambahan yaitu multiplexer dengan tmux. Tetapi memang ada yang kurang, yaitu syntax highlightning dan File tree browser agar mudah menavigasi karena mata jadi cepat lelah hanya warna hitam dan putih.
+Sedikit untuk kosmetik agar tampilan lebih menggugah selera bekerja juga tidak lupa: 
+1. Install [Termux Styling] untuk ganti tema agar tidak monoton, penjelasan ada pada link.
+2. Update font Nerd FiraCode Semibold dari situs [berikut](https://www.nerdfonts.com/font-downloads).
+3. ZSH dihias dengan [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) agar lebih ceria. 
 
-Selain masalah navigasi, juga butuh beberapa utility untuk development agar semakin lincah. Jadi butuh linting, auto complete, running split terminal, dan lainnya seperti di VSCode. Untuk terminal split masih dapat diakali dengan tmux.
-
-Untuk setup tampilan Termux yang digunakan mengikuti petunjuk repo [berikut](https://github.com/adi1090x/termux-style), download font Nerd FiraCode Semibold dari situs [berikut](https://www.nerdfonts.com/font-downloads), dan menggunakan zsh sebagai terminal profile. Untuk update font setelah unzip di direktori Downloads kurang lebih seperti berikut:
-
+Untuk font yang telah diunduh misal pada folder Downloads, langkahnya kurang lebih sebagai berikut:
 ```
 cd /storage/shared/Downloads
 mv FiraCode-SemiBold.ttf ~/.termux/font.ttf
 termux-reload-settings
 ```
 
+Dengan bermodal peralatan dan segala kosmetiknya maka sudah siap bekerja. By the way `tmux` dipakai untuk multiplexer split terminal karena malas switch antar tab session. Tetapi memang pemain utamanya belum disiapkan, yaitu apa editor yang akan digunakan untuk mulai coding. Dari hasil pencarian, disarankan menggunakan editor yang support LSP dan Treesitter.
+
+Apa itu LSP dan Treesitter?
+| Feature | Description |
+| --- | --- |
+| _Language Server Protocol (LSP)_ | yang menstandarisasi komunikasi antara editor dengan bahasa pemrograman. Setiap bahasa memiliki LSPnya sendiri, berfungsi agar editor dapat mengenali bahasa pemrograman, code completion, symbol navigation, melakukan referensi, dan diagnosa kode. |
+| _Treesitter_ | parser untuk teks kode menjadi lebih terstruktur seperti identifikasi symbol variable dan fungsi, karakter khusus bahasa pemrograman, syntax highlightning pewarnaan, dan hal lain terkait sintaksis. Ada 2 model yaitu AST dan CST tetapi saya bukan orang yang tepat untuk menjelaskan. |
+
+Ada beberapa opsi yaitu Vim dan Neovim, tetapi yang mendukung minimal effort adalah Neovim jadi dipilihlah Neovim.
+ 
+
 ## Setup Neovim
 
-Karena kurang puas, saya mencari bahan lainnya agar Vim jadi lebih powerful. Dari hasil pencarian banyak yang merekomendasikan Neovim sebuah extended version dari Vim. Karena mendukung LSP dan Treesitter. Sepemahaman saya kurang lebih sebagai berikut.
+Karena kurang puas, saya mencari bahan lainnya agar Vim jadi lebih powerful. 
 
-LSP adalah _Language Server Protocol_ yang menstandarisasi komunikasi antara editor dengan bahasa pemrograman. Setiap bahasa memiliki LSPnya sendiri, berfungsi agar editor dapat mengenali bahasa pemrograman, code completion, symbol navigation, melakukan referensi, dan diagnosa kode.
-
-Treesitter adalah parser untuk teks kode menjadi lebih terstruktur seperti identifikasi symbol variable dan fungsi, karakter khusus bahasa pemrograman, syntax highlightning pewarnaan, dan hal lain terkait sintaksis. Ada 2 model yaitu AST dan CST tetapi saya bukan orang yang tepat untuk menjelaskan.
-
+Treesitter adalah 
 Karena Neovim mendukung 2 fitur utama tersebut dan secara popularitas sangat tinggi (> 90k stars) maka menjadi pilihan utama. Untuk instalasinya sangat mudah karena ada di package Termux. Berikut perintah untuk install dan cek versinya.
 
 ```
