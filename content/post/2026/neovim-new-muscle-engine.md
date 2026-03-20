@@ -8,6 +8,8 @@ tags: [technology]
 draft: true
 ---
 
+![](https://lh3.googleusercontent.com/pw/AP1GczPQ4iyU1oMXcD9n6LgamNj3AWgQSH3OsEAX8QEN4DXCUd_9otqQMgf372Agnx04T89ISi33_cnyQwg-ba_gfpRG9rwYVoH9Gsihw0VlDHSDkSm0550p8iVLOhTmyLSZAxpMgZ6s-FXHSxKb86T0vfNGAw=w2372-h1483-s-no-gm?authuser=0)
+
 # VSCode, Tetapi
 Visual Studio Code (VS Code) tetap jadi code editor andalan saya untuk sapu jagat coding dengan berbagai extensionnya meski bukan berkategori IDE. Selain itu gratis karena open source dengan License MIT, hanya kekurangannya adalah berbasis _Electron_. 
 
@@ -17,7 +19,7 @@ Karena Samsung baru rilis update Android 16 dengan One UI 8 terbarunya, fitur De
 
 Setelah cek GitHub ternyata banyak pengguna PRoot di device Samsung yang mendapat One UI terbaru mengalami hal yang serupa. Infonya ada perubahan manajemen CPU, GPU, dan memori yang berdampak ke proses aplikasi. Satu hal yang pasti, update Samsung memang suck! 
 
-> Jadi saya memutuskan untuk re-install Termux dan menggunakannya hanya sebagai terminal tanpa Termux Desktop
+> Jadi saya memutuskan untuk re-install Termux dan tanpa Termux Desktop, selamat tinggal VSCode untuk Tab S9+
 
 # Vanilla Termux 
 
@@ -25,63 +27,87 @@ Secara pekerjaan coding di Tablet saya hanya berkutat dengan text dan perintah. 
 
 Berhubung Termux sudah menyediakan manager untuk install keperluan development maka segera install Git, network tools, perkakas development lainnya, termasuk `tmux`.
 
-```
+```shell
 apt update && apt upgrade -y 
 apt install zsh git curl wget tmux golang nodejs-lts openjdk-21
 ```
 
 Sedikit untuk kosmetik agar tampilan lebih menggugah selera bekerja juga tidak lupa: 
-1. Install [Termux Styling] untuk ganti tema agar tidak monoton, penjelasan ada pada link.
+1. Install [Termux Styling](https://github.com/termux/termux-styling) untuk ganti tema agar tidak monoton, penjelasan ada di repo.
 2. Update font Nerd FiraCode Semibold dari situs [berikut](https://www.nerdfonts.com/font-downloads).
 3. ZSH dihias dengan [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) agar lebih ceria. 
 
 Untuk font yang telah diunduh misal pada folder Downloads, langkahnya kurang lebih sebagai berikut:
-```
+```shell
 cd /storage/shared/Downloads
 mv FiraCode-SemiBold.ttf ~/.termux/font.ttf
 termux-reload-settings
 ```
 
-Dengan bermodal peralatan dan segala kosmetiknya maka sudah siap bekerja. By the way `tmux` dipakai untuk multiplexer split terminal karena malas switch antar tab session. Tetapi memang pemain utamanya belum disiapkan, yaitu apa editor yang akan digunakan untuk mulai coding. Dari hasil pencarian, disarankan menggunakan editor yang support LSP dan Treesitter.
+Dengan bermodal segala peralatan dan kosmetiknya maka sudah siap untuk lanjut memiloh editor. By the way `tmux` dipakai untuk multiplexer split terminal karena malas switch antar tab session. Untuk editor yang akan digunakan ada pertimbangan dari hasil pencarian yaitu disarankan menggunakan editor yang support LSP dan Treesitter.
 
 Apa itu LSP dan Treesitter?
 | Feature | Description |
 | --- | --- |
 | _Language Server Protocol (LSP)_ | yang menstandarisasi komunikasi antara editor dengan bahasa pemrograman. Setiap bahasa memiliki LSPnya sendiri, berfungsi agar editor dapat mengenali bahasa pemrograman, code completion, symbol navigation, melakukan referensi, dan diagnosa kode. |
-| _Treesitter_ | parser untuk teks kode menjadi lebih terstruktur seperti identifikasi symbol variable dan fungsi, karakter khusus bahasa pemrograman, syntax highlightning pewarnaan, dan hal lain terkait sintaksis. Ada 2 model yaitu AST dan CST tetapi saya bukan orang yang tepat untuk menjelaskan. |
+| _Treesitter_ | parser untuk teks kode menjadi lebih terstruktur seperti identifikasi symbol variable dan fungsi, karakter khusus bahasa pemrograman, syntax highlightning pewarnaan, dan hal lain terkait sintaksis. Ada 2 model yaitu AST dan CST tapi saya bukan orang yang tepat untuk menjelaskan. |
 
-Ada beberapa opsi yaitu Vim dan Neovim, tetapi yang mendukung minimal effort adalah Neovim jadi dipilihlah Neovim.
+Ada beberapa opsi yaitu Vim dan Neovim, yang paling minim effort untuk setup adalah Neovim. Jadi pilihan sudah ditentukan yaitu Neovim.
  
-
 ## Setup Neovim
 
-Karena kurang puas, saya mencari bahan lainnya agar Vim jadi lebih powerful. 
-
-Treesitter adalah 
-Karena Neovim mendukung 2 fitur utama tersebut dan secara popularitas sangat tinggi (> 90k stars) maka menjadi pilihan utama. Untuk instalasinya sangat mudah karena ada di package Termux. Berikut perintah untuk install dan cek versinya.
-
-```
+Termux sudah menyediakan package untuk install Neovim, jadi dapat langsung menjalankan perintah berikut termasuk cek versinya.
+```shell
 apt update && apt upgrade -y
 apt install nvim
 
 nvim -v
 ```
 
-Untuk replace Vim dengan Neovim saya membuat alias baru di .zshrc sebagai berikut dengan perintah `vim ~\.zshrc` dan menambahkan pada baris konfigurasi lalu reload konfigurasi.
+## Setup LazyVim
 
+Neovim memang tampak lebih menjanjikan karena dapat ditambahkan plugin seperti VSCode, unggul ringan berbasis Lua tetapi perlu effort teknis pasang plugin. Karena butuh tampilan yang _VSCode like_ maka ada beberapa opsi yaitu LazyVim, NvChad, dan Astro Vim. Dari ketiganya saya baru coba LazyVim dan NvChad.
+
+Sebetulnya NvChad lebih populer di GitHub namun akhirnya keputusan tetap ke LazyVim, setelah mencoba langsung dan membandingkan ternyata LazyVim menawarkan banyak fitur bawaan di awal sedangkan NvChad masih perlu pasang plugin. Sehingga pada akhirnya lanjut dengan LazyVim.
+
+Untuk install dapat mengikuti panduan dari dokumentasi [berikut](https://www.lazyvim.org). Khusus di Termux, ternyata butuh menginstall beberapa package sesuai kebutuhan saya yang diperlukan karena entah kenapa di NvChad sebelumnya sukses tetapi di LazyVim tidak berjalan.
+
+2 error tersebut adalah:
+1. Mason terdapat error tidak dapat install stylelua terkait `unsupported platform`.
+2. LSP Go tidak berfungsi karena `SIGSYS: bad system call`.
+
+Kemungkinan karena package yang didownload oleh NeoVim tidak compatible dengan platform Android, sehingga perlu menggunakan package yang ada di Android lalu nanti disetup terakhir. Berikut scriptnya:
+
+```shell 
+apt install lua-language-server #to fix stylua error
+go install golang.org/x/tools/gopls@latest #to fix SIGNAL error
+go install golang.org/x/tools/cmd/goimports@latest #to fix SIGNAL error
 ```
-alias vim = nvim #lalu write dan keluar dengan perintah :wq!
 
-cd ~
-source .zshrc
-```
+## Setup LSP dan Treesitter
 
-Dari setup utama ini maka Neovim sudah siap sebagai editor utama. Untuk runningnya cukup dengan menggunakan perintah yang sama dengan Vim karena sudah dibuatkan alias yaitu `vim <file/directory>`.
+Saya sendiri menambahkan beberapa plugin yang dibutuhkan beberapa di antaranya.
 
-## Setup NvChad
+| Plugin | Fungsi |
+| --- | --- |
+| [Symbol Outline]() | Plugin yang bermanfaat untuk explore variable dan fungsi yang ada pada sebuah file coding. |
+| [Neo Tests]() | Plugin yang bermanfaat untuk explore daftar test dan eksekusinya. | 
+| [Dadbod UI]() | Plugin yang bermanfaat untuk akses database dan Redis. |
+| [Sonar Linter]() | Plugin yang bermanfaat sebagai linter validasi Sonar karena code rank biasa menggunakan SonarQube |
 
-Agar dapat menambahkan fungsi dengan plugin seperti di VSCode yang dapat ditambahkan extension, NvChad menjadi pilihan yang solid. Sebetulnya ada 2 alternatif seperti LazyVim dan AstroVim, tetapi NvChad memiliki popularitas yang tertinggi dan 
+Lainnya untuk tweak konfigurasi Mason dan LSP menyesuikan daftar LSP yang diinstal serta detail setting yang dibutuhkan. Setup Mason dan LSP termasuk untuk handle error dengan mengarahkan Lua LSP, gopls, dan goimports di konfigurasi LSP. Untuk lengkapnya dapat dilihat pada repo [NeoVim personal saya](https://github.com/nandcep/nvim-sync).
 
-## Setup Tambahan
+Untuk LSP karena mengikuti kebutuhan dalam bekerja tidak terlalu banyak, hanya ada beberapa LSP yang diinstall lewat perintah `MasonInstall`. Beberapa di antaranya jdtls, yaml-language-server, dan typescript-language-server. Sedangkan Treesitter dapat diinstall dengan perintah `TSInstall`. Beberapa di antaranya java, go, yaml, dan typescript.  
 
 # Pengalaman
+
+So far NeoVim dengan LazyVim membentuk kebiasaan baru yang biasanya Graphical User Interface centric, sekarang full mekanik keyboard. Jujur hampir tidak pernah menggunakan mouse, harus membiasakan diri lewat shortcut keyboard yang mudah dihapal dan menjadi kebiasaan. Muscle memory menghapal agar lebih produktif dan cepat pengoperasiannya.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczM9OGZ6HXImfhG_Ank6Q0Extw7OpyXYiuj7d_ONg3xwT6VAKr0GKRinA4_7NEflhglnoYspgELN5dzkbLZOISWyCoglXRv5l0h21QVTfSjBRU1tUmkyFPkcbU1NddRyOFOu7QsDGeceb8N7g_l2SgiEEQ=w2372-h1483-s-no-gm?authuser=0)
+
+Saya sendiri butuh seminggu rutin menggunakan baru agak terbiasa dan tulisan ini pun saya buat di NeoVim. Dari segi tampilan, meskipun ini Text-User-Interface namun susunannya mirip dengan VSCode yang ada di laptop. Jadi mata masih sangat enak melihatnya, kelebihannya jelas NeoVim jauh lebih ringan dan hemat baterai.
+
+Dengan begini maka tidak ragu lagi dapat dijadikan editor utama di Tab S9+ sebagai alternatif VSCode kalau tidak di depan laptop, last but not least ada beberapa package tambahan yang menurut saya sangat cocok menjadi pendaking NeoVim yaitu:
+
+1. Glow, aplikasi berbasis Go untuk render Markdown di terminal.
+2. GitUI, aplikasi berbasis Rust untuk manajemen Git dengan Text-User-Interface.
