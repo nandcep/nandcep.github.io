@@ -43,7 +43,7 @@ mv FiraCode-SemiBold.ttf ~/.termux/font.ttf
 termux-reload-settings
 ```
 
-Dengan bermodal peralatan dan kosmetiknya maka siap lanjut memilah editor. By the way `tmux` dipakai untuk multiplexer terminal karena malas switch antar tab session. Dari pertimbangan pencarian, disarankan memilih editor yang support LSP dan Treesitter.
+Dengan bermodal peralatan dan kosmetiknya maka siap lanjut memilah editor. By the way [tmux](https://github.com/tmux/tmux/wiki) dipakai untuk multiplexer terminal karena malas switch antar tab session. Dari pertimbangan pencarian, disarankan memilih editor yang support LSP dan Treesitter.
 
 Apa itu LSP dan Treesitter?
 | Feature | Description |
@@ -110,5 +110,5 @@ Saya sendiri butuh seminggu rutin menggunakan baru agak terbiasa dan tulisan ini
 
 Dengan begini maka tidak ragu lagi, dapat dijadikan editor utama khusus di Tab S9+ sebagai alternatif VSCode kalau tidak di depan laptop. Last but not least ada beberapa tambahan yang menurut saya cocok menjadi pendamping NeoVim:
 
-1. Glow, aplikasi berbasis Go untuk render Markdown di terminal.
-2. GitUI, aplikasi berbasis Rust untuk manajemen Git dengan Text-User-Interface.
+1. [Glow](https://github.com/charmbracelet/glow), aplikasi berbasis Go untuk render Markdown di terminal.
+2. [GitUI](https://github.com/gitui-org/gitui), aplikasi berbasis Rust untuk manajemen Git dengan Text-User-Interface.
