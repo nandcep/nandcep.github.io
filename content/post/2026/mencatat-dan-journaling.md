@@ -41,7 +41,7 @@ Berikut aplikasi yang saya gunakan:
 1. [Neovim](https://neovim.io) dan [Glow](https://github.com/charmbracelet/glow), saya gunakan di Termux tablet Android karena berbasis teks jadi dapat fokus untuk mengetik dan membaca, ringan juga jadi alasan utamanya.
 2. [Obsidian](https://obsidian.md), saya gunakan sesekali di tablet Android tetapi jadi aplikasi primer di iPhone bahkan saya hapus Apple Notes agar konsisten menulis di Obsidian.
 3. [VSCode](https://vscode.dev), saya gunakan rutin sebagai aplikasi primer di laptop Lenovo kantor dan MacBook pribadi dan satu-satunya aplikasi agar tidak perlu _switch context_ ketika setelah koding harus melihat catatan.
-4. Apple Reminder dan Microsoft Planner, bukan untuk mencatat tetapi sebagai reminder saja sebagai pelengkap agar tidak lupa action item yang harus dilakukan.
+4. Apple Reminder dan Microsoft Planner, bukan untuk mencatat tetapi sebagai reminder saja sebagai pelengkap agar tidak lupa _action item_ yang harus dilakukan.
 
 Untuk sinkronisasi saya cukup dengan Git untuk blogging, [network sharing](https://syncthing.net) untuk private, dan penyimpanan kantor untuk catatan kantor. Yang penting dapat berkesinambungan dan menciptakan _workflow simple_ yang produktif. Semakin simple semakin produktif, harus yang familiar bagi saya. Misal Git dan network sharing tentunya sudah sangat dekat bagi saya yang berprofesi di bidang IT.
 # Taktis dan Ter-arah
