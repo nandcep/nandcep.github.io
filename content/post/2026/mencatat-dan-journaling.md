@@ -7,7 +7,7 @@ slug: mencatat-dan-journaling
 tags: [pemikiran]
 draft: false
 ---
-![](images.unsplash.com/photo-1483546363825-7ebf25fb7513?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![](https://images.unsplash.com/photo-1483546363825-7ebf25fb7513?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 # Ingatan itu Terbatas
 Di dalam menjalani hidup dengan segala aktivitasnya banyak sekali hal yang terlintas dan dialami. Sadar tidak sadar saya merasa sayang untuk melewatkannya. Teringat dengan kutipan dari Mas Ponang ketika dulu awal bekerja "_tidak ada belajar yang percuma_" dan Pak Vyor "_ikatlah ilmu dengan menulisnya_". Iya juga ternyata benar kata Mas Chung "_ya tidak semua bisa sekedar ingat, dicatat biar tidak lupa karena ingatan terbatas_".
 
