@@ -33,7 +33,7 @@ Saya sampai membuat template khusus untuk mencatat agar rapi, mudah dicari, dan 
 
 Bagaimana agar efisien? Sampai sekarang tidak ada yang efisien pasti butuh effort. Jadi harus menyempatkan waktu, at least 30 menit hingga total ada 2 jam dalam sehari saya gunakan hanya untuk mencatat. Tentunya saya tidak dalam satu waktu hanya untuk mencatat, dibagi sesempatnya. Bahkan terkadang ketika baru sampai kantor, di LRT, di kantin dan di toilet hal yang saya lakukan adalah mencatat apabila senggang.
 
->Untuk catatan pribadi termasuk journaling, rutin saya catat dari hal yang sederhana dan ketika sudah sampai di rumah sebelum tidur baru merapihkannya sembari dibaca ulang lalu menyimpannya agar tersusun dengan rapi.
+>Untuk catatan pribadi termasuk journaling, rutin saya catat dari hal yang sederhana dan ketika sudah sampai di rumah sebelum tidur baru merapikannya sembari dibaca ulang.
 
 Rasa takut lupa jadi modal utama saya untuk mengeksekusinya, jadi setiap weekend pun ketika ada waktu luang juga untuk mencatat. Ketika di gereja juga bersikap masa bodoh apabila dikira bermain smartphone padahal sedang mencatat sermon. Untuk membentuk kebiasaan baru ini juga saya menggunakan aplikasi _note taking_ agar nyaman dalam mencatat dan membacanya. Tanpa tools berikut tentunya saya juga akan malas untuk mengetik Markdown.
 
