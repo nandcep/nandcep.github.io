@@ -47,6 +47,6 @@ Untuk sinkronisasi saya cukup dengan Git untuk blogging, [network sharing](https
 # Taktis dan Ter-arah
 Dengan _workflow_ mencatat dan journaling, otak saya menjadi terasa lebih ringan. Kalau butuh dibaca, kalau setelah _deep dive_ suatu tugas lalu harus mengerjakan hal lain agar nanti tidak lupa ya dicatat lalu segera lupakan. Dengan begitu beban kognitif menjadi jauh berkurang melalui siklus tersebut. Saya jadi dapat memikirkan banyak hal lain dengan cepat, _switch context_ tidak lagi membuat emosi meluap.
 
-Dengan membentuk template khusus saya jadi terbiasa membreakdown suatu hal dan merunutkannya baik itu diskusi di rapat, proyek, dan hal yang terjadi di setiap rutinitas. Menjadi tidak perfeksionis di awal dan perfeksionis di akhir untuk menstrukturnya konteks dan menghasilkan kesimpulan. Sejauh ini dengan pikiran menjadi ter-arah membuat mental dan _well-being_ menjadi lebih baik, padahal awalnya merasa tidak ada yang berubah.
+Dengan membentuk template khusus, saya jadi terbiasa membreakdown suatu hal dan merunutkannya baik itu diskusi rapat, proyek, dan hal yang terjadi di setiap rutinitas. Menjadi tidak perfeksionis di awal dan perfeksionis di akhir untuk menstrukturkan konteks dan menghasilkan kesimpulan. Sejauh ini dengan pikiran menjadi ter-arah membuat mental dan _well-being_ menjadi lebih baik, padahal awalnya merasa tidak ada yang berubah.
 
 Semoga dengan mencatat dan membagikannya sebagian juga dapat menjadi berkat untuk orang lain khususnya untuk Jenar anak saya, tidak hanya bagi saya sendiri.
