@@ -15,7 +15,7 @@ Seringkali momen yang terlintas mungkin bisa jadi pembelajaran dan "maaf" terkad
 
 >Tidak semua perihal harus menguap dan tidak semua harus diserap. 
 
-Di Maret kemarin puncaknya saya sendiri merasakan _stress_ karena _burnout_ harus otak organik terlalu banyak byte informasi yang perlu diingat juga diproses, _at the end_ malah tidak fokus. Ada masalah terulang tetapi harus mencari tahu lagi solusinya seperti apa. Rencana yang jauh-jauh direncanakan, di hari H tidak dieksekusi karena lupa. Petuah dari para senior benar, supaya tidak percuma harus diikat di dalam catatan. 
+Di Maret kemarin puncaknya saya sendiri merasakan _stress_ karena _burnout_ otak organik terlalu banyak byte informasi yang diingat juga diproses, _at the end_ malah tidak fokus. Ada masalah terulang tetapi harus mencari tahu lagi solusinya seperti apa. Rencana yang jauh-jauh direncanakan, di hari H tidak dieksekusi karena lupa. Petuah dari para senior benar, supaya tidak percuma harus diikat di dalam catatan. 
 
 Membaca artikel, Apple mengeluarkan aplikasi yang namanya Apple Journal untuk _mental well-being_. Idenya receh tapi _gold_ yaitu menulis untuk _offload_ isi kepala atau yang disebut _brain dump_. Tugas utamanya yaitu membebaskan memori kerja otak yang terbatas dengan memindahkan tumpukan pikiran ke atas kertas. Hal tersebut dapat mengurangi stres, meredakan kecemasan, dan mengembalikan fokus kembali tajam.
 # New Habbit, Catatan adalah Asset
